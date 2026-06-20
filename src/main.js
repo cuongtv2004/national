@@ -14,6 +14,7 @@ import { GamesHub } from './pages/GamesHub.js'
 import { MapQuizPage } from './pages/MapQuizPage.js'
 import { MemoryPage } from './pages/MemoryPage.js'
 import { CollectionPage } from './pages/CollectionPage.js'
+import { TwinFlagsPage } from './pages/TwinFlagsPage.js'
 
 function App() {
   return html`
@@ -32,6 +33,7 @@ function App() {
               <${Route} path="/thu-thach/ban-do" element=${html`<${MapQuizPage} />`} />
               <${Route} path="/thu-thach/lat-the" element=${html`<${MemoryPage} />`} />
               <${Route} path="/bo-suu-tap" element=${html`<${CollectionPage} />`} />
+              <${Route} path="/co-song-sinh" element=${html`<${TwinFlagsPage} />`} />
               <${Route} path="*" element=${html`<${Navigate} to="/" replace />`} />
             <//>
           </main>

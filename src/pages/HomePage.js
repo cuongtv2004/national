@@ -1,4 +1,5 @@
 import { useMemo } from 'react'
+import { Link } from 'react-router-dom'
 import { html } from '../html.js'
 import { useCountries } from '../context.js'
 import { HeroSection } from '../components/HeroSection.js'
@@ -50,6 +51,17 @@ export function HomePage() {
       </section>
 
       <${ContinentGrid} continents=${continents} counts=${counts} />
+
+      <section class="max-w-6xl mx-auto px-4 pb-12">
+        <${Link}
+          to="/co-song-sinh"
+          class="block bg-surface rounded-card border border-white/10 hover:border-accent/50 transition-colors p-6 text-center"
+        >
+          <div class="text-4xl mb-2" aria-hidden="true">👀</div>
+          <div class="font-display text-2xl font-extrabold">Cờ song sinh</div>
+          <p class="text-muted mt-1">Những lá cờ trông giống nhau đến bất ngờ — và cách phân biệt!</p>
+        <//>
+      </section>
     </div>
   `
 }
