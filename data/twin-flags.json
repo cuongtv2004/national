@@ -1,0 +1,14 @@
+[
+  { "a": "ID", "b": "MC", "note": "Cùng đỏ ở trên, trắng ở dưới. Cờ Monaco gần như vuông (ngắn hơn), còn cờ Indonesia dài hơn." },
+  { "a": "ID", "b": "PL", "note": "Ngược nhau! Indonesia là đỏ trên - trắng dưới, còn Ba Lan là trắng trên - đỏ dưới." },
+  { "a": "RO", "b": "TD", "note": "Cùng ba sọc dọc xanh - vàng - đỏ. Sọc xanh của Tchad đậm hơn của Romania một chút." },
+  { "a": "IE", "b": "CI", "note": "Bờ Biển Ngà đảo ngược: cam nằm bên trái, xanh lá bên phải. Ireland thì xanh lá bên trái, cam bên phải." },
+  { "a": "NL", "b": "LU", "note": "Cùng ba sọc ngang đỏ - trắng - xanh. Cờ Luxembourg dài hơn và sọc xanh nhạt hơn Hà Lan." },
+  { "a": "NO", "b": "IS", "note": "Đổi màu cho nhau: Na Uy có chữ thập xanh trên nền đỏ, Iceland có chữ thập đỏ trên nền xanh." },
+  { "a": "MX", "b": "IT", "note": "Cùng ba sọc dọc xanh - trắng - đỏ. Nhưng cờ Mexico có hình đại bàng ngậm rắn ở giữa, cờ Ý thì không có gì." },
+  { "a": "AU", "b": "NZ", "note": "Cùng có cờ Anh ở góc và chòm sao Nam Thập Tự. Úc có thêm một ngôi sao lớn; New Zealand chỉ có 4 ngôi sao đỏ viền trắng." },
+  { "a": "CO", "b": "VE", "note": "Cùng ba dải vàng - xanh - đỏ. Venezuela có vòng cung các ngôi sao trắng ở giữa, Colombia thì không." },
+  { "a": "ML", "b": "GN", "note": "Đảo ngược thứ tự màu: Mali là xanh lá - vàng - đỏ, Guinea là đỏ - vàng - xanh lá." },
+  { "a": "SN", "b": "ML", "note": "Cùng xanh lá - vàng - đỏ dọc. Senegal có thêm một ngôi sao xanh ở chính giữa." },
+  { "a": "QA", "b": "BH", "note": "Cùng trắng và đỏ với đường răng cưa. Qatar màu đỏ nâu (hạt dẻ) và có nhiều răng cưa hơn Bahrain." }
+]

@@ -19,7 +19,8 @@
       "Việt Nam có hơn 3.000 km bờ biển tuyệt đẹp!",
       "Hang Sơn Đoòng ở Việt Nam là hang động lớn nhất thế giới, to đến mức chứa được cả một tòa nhà chọc trời!",
       "Việt Nam có 54 dân tộc anh em cùng chung sống."
-    ]
+    ],
+    "flagMeaning": "Lá cờ Việt Nam có nền màu đỏ tươi và một ngôi sao vàng năm cánh ở chính giữa, trông rất rực rỡ và đẹp."
   },
   "TH": {
     "tourism": [
@@ -40,7 +41,8 @@
       "Thái Lan được gọi là 'Xứ sở nụ cười'.",
       "Thái Lan là nước duy nhất ở Đông Nam Á chưa từng bị nước ngoài đô hộ.",
       "Voi là loài vật biểu tượng thiêng liêng của Thái Lan."
-    ]
+    ],
+    "flagMeaning": "Cờ Thái Lan có năm sọc ngang: đỏ, trắng, rồi sọc xanh dương to ở giữa, sau đó lại trắng và đỏ."
   },
   "JP": {
     "tourism": [
@@ -62,7 +64,8 @@
       "Nhật Bản có hơn 6.800 hòn đảo!",
       "Tàu cao tốc Shinkansen chạy nhanh tới hơn 300 km/h.",
       "Ở Nhật có nhiều máy bán hàng tự động hơn bất kỳ nước nào — bán cả kem và mì nóng!"
-    ]
+    ],
+    "flagMeaning": "Cờ Nhật Bản có nền trắng với một hình tròn màu đỏ ở giữa, hình tròn đó tượng trưng cho Mặt Trời. Vì thế Nhật Bản còn được gọi là xứ sở Mặt Trời mọc."
   },
   "KR": {
     "tourism": [
@@ -84,7 +87,8 @@
       "Taekwondo — môn võ nổi tiếng thế giới — ra đời ở Hàn Quốc.",
       "Người Hàn ăn kimchi gần như mỗi bữa, có hàng trăm loại kimchi khác nhau!",
       "Seoul có hệ thống internet nhanh bậc nhất thế giới."
-    ]
+    ],
+    "flagMeaning": "Cờ Hàn Quốc có nền trắng, ở giữa là một vòng tròn nửa đỏ nửa xanh dương xoắn vào nhau, cùng bốn nhóm vạch đen ở bốn góc."
   },
   "CN": {
     "tourism": [
@@ -105,7 +109,8 @@
       "Vạn Lý Trường Thành dài hơn 21.000 km — dài nhất thế giới!",
       "Gấu trúc chỉ sống tự nhiên ở Trung Quốc và ăn tre cả ngày.",
       "Người Trung Quốc phát minh ra pháo hoa, giấy và la bàn."
-    ]
+    ],
+    "flagMeaning": "Cờ Trung Quốc có nền đỏ với một ngôi sao vàng lớn và bốn ngôi sao vàng nhỏ ở góc trên bên trái."
   },
   "SG": {
     "tourism": [
@@ -126,7 +131,8 @@
       "Singapore là một trong những thành phố sạch nhất thế giới.",
       "Cây Siêu Cây (Supertree) ở Singapore phát sáng lung linh mỗi tối!",
       "Singapore nhỏ tới mức bạn có thể đi hết đất nước trong một ngày."
-    ]
+    ],
+    "flagMeaning": "Cờ Singapore có sọc đỏ ở trên và sọc trắng ở dưới, góc trái có mặt trăng lưỡi liềm trắng và năm ngôi sao trắng nhỏ."
   },
   "MY": {
     "tourism": [
@@ -147,7 +153,8 @@
       "Tháp đôi Petronas từng là tòa nhà cao nhất thế giới.",
       "Rừng mưa Malaysia là một trong những khu rừng cổ nhất Trái Đất.",
       "Hoa Rafflesia khổng lồ ở đây có thể to bằng cái bánh xe!"
-    ]
+    ],
+    "flagMeaning": "Cờ Malaysia có nhiều sọc ngang đỏ và trắng xen kẽ, góc trên bên trái màu xanh dương với một mặt trăng lưỡi liềm vàng và một ngôi sao vàng."
   },
   "ID": {
     "tourism": [
@@ -168,7 +175,8 @@
       "Indonesia có hơn 17.000 hòn đảo — nhiều nhất thế giới!",
       "Rồng Komodo — loài thằn lằn lớn nhất Trái Đất — chỉ sống ở Indonesia.",
       "Đây là nơi có nhiều núi lửa đang hoạt động nhất thế giới."
-    ]
+    ],
+    "flagMeaning": "Cờ Indonesia rất đơn giản với hai sọc ngang: sọc đỏ ở trên và sọc trắng ở dưới."
   },
   "PH": {
     "tourism": [
@@ -189,7 +197,8 @@
       "Philippines có hơn 7.640 hòn đảo!",
       "Cá thòi lòi và loài khỉ mắt to Tarsier tí hon sống ở đây.",
       "Người Philippines rất mê hát karaoke."
-    ]
+    ],
+    "flagMeaning": "Cờ Philippines có sọc xanh dương ở trên, sọc đỏ ở dưới, và một tam giác trắng bên trái chứa mặt trời vàng cùng ba ngôi sao vàng."
   },
   "IN": {
     "tourism": [
@@ -210,7 +219,8 @@
       "Đền Taj Mahal được xây hoàn toàn bằng đá cẩm thạch trắng.",
       "Số 0 và hệ đếm hiện đại có nguồn gốc từ Ấn Độ.",
       "Ấn Độ là nơi yoga ra đời từ hàng nghìn năm trước."
-    ]
+    ],
+    "flagMeaning": "Cờ Ấn Độ có ba sọc ngang màu cam, trắng và xanh lá, ở giữa sọc trắng là một bánh xe màu xanh dương có nhiều nan."
   },
   "US": {
     "tourism": [
@@ -231,7 +241,8 @@
       "Tượng Nữ thần Tự do là món quà nước Pháp tặng nước Mỹ.",
       "Công viên Yellowstone có mạch nước phun nóng phun cao như tòa nhà!",
       "Bang Alaska rộng lớn có băng tuyết quanh năm."
-    ]
+    ],
+    "flagMeaning": "Cờ Mỹ có 50 ngôi sao trắng tượng trưng cho 50 bang, và 13 sọc đỏ trắng là 13 vùng đất đầu tiên lập nên đất nước."
   },
   "GB": {
     "tourism": [
@@ -252,7 +263,8 @@
       "London từng là thành phố lớn nhất thế giới.",
       "Truyện Harry Potter được viết ở nước Anh.",
       "Người Anh rất thích uống trà — mỗi ngày cả nước uống hàng triệu tách!"
-    ]
+    ],
+    "flagMeaning": "Lá cờ Anh có nền xanh dương với các chữ thập đỏ và trắng đan chéo nhau, được ghép từ cờ của các vùng trong nước."
   },
   "FR": {
     "tourism": [
@@ -273,7 +285,8 @@
       "Tháp Eiffel cao 330 mét và sáng đèn lấp lánh mỗi tối.",
       "Bảo tàng Louvre là bảo tàng được ghé thăm nhiều nhất thế giới.",
       "Nước Pháp có hơn 1.000 loại phô mai khác nhau!"
-    ]
+    ],
+    "flagMeaning": "Lá cờ Pháp có ba sọc dọc xanh dương, trắng và đỏ, nên còn được gọi là lá cờ tam tài."
   },
   "DE": {
     "tourism": [
@@ -294,7 +307,8 @@
       "Chiếc ô tô đầu tiên trên thế giới được phát minh ở Đức.",
       "Lâu đài Neuschwanstein là hình mẫu cho lâu đài Disney.",
       "Đức có hơn 1.500 loại xúc xích!"
-    ]
+    ],
+    "flagMeaning": "Lá cờ Đức có ba sọc ngang đen, đỏ và vàng xếp chồng lên nhau."
   },
   "IT": {
     "tourism": [
@@ -315,7 +329,8 @@
       "Pizza và mì Ý ra đời ở nước Ý.",
       "Tháp Pisa nghiêng nhưng đã đứng vững suốt hơn 800 năm!",
       "Thành phố Venice nổi trên mặt nước, người ta đi lại bằng thuyền."
-    ]
+    ],
+    "flagMeaning": "Lá cờ Ý có ba sọc dọc xanh lá, trắng và đỏ đứng cạnh nhau."
   },
   "ES": {
     "tourism": [
@@ -336,7 +351,8 @@
       "Lễ hội ném cà chua La Tomatina cực kỳ vui và lộn xộn!",
       "Nhà thờ Sagrada Familia đã được xây hơn 140 năm mà vẫn chưa xong.",
       "Người Tây Ban Nha thường ăn tối rất muộn, có khi 10 giờ đêm."
-    ]
+    ],
+    "flagMeaning": "Lá cờ Tây Ban Nha có sọc đỏ ở trên và dưới, sọc vàng rộng ở giữa, kèm một huy hiệu nhỏ bên trái."
   },
   "RU": {
     "tourism": [
@@ -356,7 +372,8 @@
       "Nga là quốc gia rộng lớn nhất thế giới, trải dài 11 múi giờ!",
       "Hồ Baikal là hồ nước ngọt sâu nhất Trái Đất.",
       "Búp bê Matryoshka lồng nhau là món đồ chơi nổi tiếng của Nga."
-    ]
+    ],
+    "flagMeaning": "Lá cờ Nga có ba sọc ngang trắng, xanh dương và đỏ."
   },
   "BR": {
     "tourism": [
@@ -376,7 +393,8 @@
       "Rừng Amazon ở Brazil là rừng mưa nhiệt đới lớn nhất thế giới.",
       "Brazil đã 5 lần vô địch World Cup — nhiều nhất thế giới!",
       "Lễ hội Carnival ở Rio là bữa tiệc đường phố lớn nhất hành tinh."
-    ]
+    ],
+    "flagMeaning": "Cờ Brazil màu xanh lá với hình thoi vàng, ở giữa là quả cầu xanh điểm nhiều ngôi sao trắng tượng trưng cho bầu trời đầy sao."
   },
   "AU": {
     "tourism": [
@@ -397,7 +415,8 @@
       "Kangaroo và gấu koala chỉ sống ở Úc.",
       "Rạn san hô Great Barrier lớn đến mức nhìn thấy được từ vũ trụ!",
       "Úc có nhiều loài nhện và rắn độc đáo bậc nhất thế giới."
-    ]
+    ],
+    "flagMeaning": "Cờ Úc màu xanh dương, góc trên có cờ nước Anh nhỏ. Phía dưới là ngôi sao lớn và chùm sao Nam Thập Tự lấp lánh, giúp người ta nhìn lên bầu trời đêm để tìm phương hướng."
   },
   "EG": {
     "tourism": [
@@ -417,7 +436,8 @@
       "Kim tự tháp Giza được xây cách đây hơn 4.500 năm!",
       "Người Ai Cập cổ đại phát minh ra một trong những loại chữ viết đầu tiên.",
       "Sông Nile là một trong những con sông dài nhất thế giới."
-    ]
+    ],
+    "flagMeaning": "Cờ Ai Cập có ba dải đỏ, trắng, đen nằm ngang, ở giữa có hình con đại bàng vàng oai vệ làm biểu tượng của đất nước."
   },
   "CA": {
     "tourism": [
@@ -437,7 +457,8 @@
       "Lá phong đỏ trên quốc kỳ là biểu tượng của Canada.",
       "Canada có nhiều hồ hơn tất cả các nước khác cộng lại!",
       "Gấu Bắc Cực sống ở vùng phía bắc lạnh giá của Canada."
-    ]
+    ],
+    "flagMeaning": "Cờ Canada có hai sọc đỏ hai bên và một chiếc lá phong đỏ rất đẹp ở giữa, đây là loài cây nổi tiếng của đất nước này."
   },
   "MX": {
     "tourism": [
@@ -458,7 +479,8 @@
       "Người Maya và Aztec đã xây những kim tự tháp khổng lồ ở Mexico.",
       "Sô-cô-la được người Aztec phát hiện đầu tiên!",
       "Lễ hội Ngày của Người Chết đầy màu sắc và vui nhộn."
-    ]
+    ],
+    "flagMeaning": "Cờ Mexico có ba sọc xanh lá, trắng, đỏ, và ở giữa là hình một chú đại bàng đậu trên cây xương rồng đang ngậm con rắn."
   },
   "GR": {
     "tourism": [
@@ -479,7 +501,8 @@
       "Thế vận hội Olympic đầu tiên ra đời ở Hy Lạp.",
       "Các vị thần như thần Zeus đến từ thần thoại Hy Lạp.",
       "Những ngôi nhà trắng mái xanh ở Santorini đẹp như tranh vẽ."
-    ]
+    ],
+    "flagMeaning": "Lá cờ Hy Lạp có chín sọc ngang xanh dương và trắng xen kẽ, cùng một chữ thập trắng trên nền xanh ở góc trên bên trái."
   },
   "NL": {
     "tourism": [
@@ -500,7 +523,8 @@
       "Hà Lan có nhiều xe đạp hơn cả số người dân!",
       "Phần lớn đất nước thấp hơn mực nước biển.",
       "Cánh đồng hoa tulip mùa xuân rực rỡ đủ màu sắc."
-    ]
+    ],
+    "flagMeaning": "Lá cờ Hà Lan có ba sọc ngang đỏ, trắng và xanh dương."
   },
   "CH": {
     "tourism": [
@@ -520,7 +544,8 @@
       "Sô-cô-la sữa được phát minh ở Thụy Sĩ.",
       "Đồng hồ Thụy Sĩ nổi tiếng chính xác khắp thế giới.",
       "Dãy núi Alps phủ tuyết trắng quanh năm, tuyệt vời để trượt tuyết."
-    ]
+    ],
+    "flagMeaning": "Lá cờ Thụy Sĩ là hình vuông màu đỏ với một chữ thập trắng ở giữa, rất dễ nhận ra."
   },
   "KH": {
     "tourism": [
@@ -539,7 +564,8 @@
       "Angkor Wat là công trình tôn giáo lớn nhất thế giới!",
       "Angkor Wat xuất hiện ngay trên quốc kỳ Campuchia.",
       "Khu đền Angkor từng là thành phố lớn nhất thế giới thời cổ đại."
-    ]
+    ],
+    "flagMeaning": "Cờ Campuchia có sọc xanh dương ở trên và dưới, sọc đỏ to ở giữa, cùng hình ngôi đền trắng tuyệt đẹp."
   },
   "LA": {
     "tourism": [
@@ -560,7 +586,8 @@
       "Lào là quốc gia duy nhất ở Đông Nam Á không giáp biển.",
       "Người Lào ăn xôi nếp nhiều nhất thế giới!",
       "Thác Kuang Si có làn nước xanh ngọc tuyệt đẹp."
-    ]
+    ],
+    "flagMeaning": "Cờ Lào có ba sọc ngang, sọc xanh dương to ở giữa với một vòng tròn trắng, hai sọc đỏ ở trên và dưới."
   },
   "ZA": {
     "tourism": [
@@ -580,7 +607,8 @@
       "Nam Phi có tới 11 ngôn ngữ chính thức!",
       "Bạn có thể nhìn thấy sư tử, voi, hươu cao cổ ở các khu bảo tồn.",
       "Nam Phi có ba thủ đô khác nhau."
-    ]
+    ],
+    "flagMeaning": "Cờ Nam Phi có nhiều màu đỏ, xanh dương, xanh lá, vàng, đen, trắng ghép thành hình chữ Y nằm ngang rất đặc biệt."
   },
   "KE": {
     "tourism": [
@@ -600,7 +628,8 @@
       "Cuộc di cư của hàng triệu con linh dương đầu bò diễn ra ở Kenya.",
       "Nhiều vận động viên chạy bộ giỏi nhất thế giới đến từ Kenya.",
       "Bộ tộc Maasai nổi tiếng với điệu nhảy bật cao."
-    ]
+    ],
+    "flagMeaning": "Cờ Kenya có các dải đen, đỏ, xanh lá, ở giữa là hình chiếc khiên và hai ngọn giáo truyền thống."
   },
   "MM": {
     "tourism": [
@@ -620,7 +649,8 @@
     "funFacts": [
       "Myanmar có hàng nghìn ngôi chùa vàng lấp lánh ở Bagan, nhìn từ khinh khí cầu đẹp như cổ tích.",
       "Đá Vàng Kyaiktiyo là một tảng đá khổng lồ dát vàng nằm cheo leo trên vách núi mà không hề rơi xuống!"
-    ]
+    ],
+    "flagMeaning": "Cờ Myanmar có ba sọc ngang vàng, xanh lá và đỏ, với một ngôi sao trắng lớn ở giữa."
   },
   "MN": {
     "tourism": [
@@ -640,7 +670,8 @@
     "funFacts": [
       "Trẻ em Mông Cổ biết cưỡi ngựa trước cả khi biết đi vững!",
       "Ở sa mạc Gobi, người ta đã tìm thấy những quả trứng khủng long thật sự hóa thạch từ hàng triệu năm trước."
-    ]
+    ],
+    "flagMeaning": "Cờ Mông Cổ có ba sọc dọc: hai sọc đỏ ở hai bên và một sọc xanh dương ở giữa, kèm một biểu tượng vàng đặc biệt bên trái."
   },
   "TW": {
     "tourism": [
@@ -660,7 +691,8 @@
     "funFacts": [
       "Trà sữa trân châu nổi tiếng khắp thế giới được phát minh ở Đài Loan đấy!",
       "Tòa nhà Đài Bắc 101 từng là tòa nhà cao nhất thế giới và có một quả cầu vàng khổng lồ bên trong giúp tòa nhà không lắc lư khi có gió bão."
-    ]
+    ],
+    "flagMeaning": "Cờ Đài Loan có nền đỏ, góc trên bên trái màu xanh dương với một mặt trời trắng có nhiều tia sáng."
   },
   "KP": {
     "tourism": [
@@ -680,7 +712,8 @@
     "funFacts": [
       "Núi Bạch Đầu là ngọn núi cao nhất bán đảo Triều Tiên, trên đỉnh có một hồ nước rất lớn nằm trong miệng núi lửa.",
       "Triều Tiên có lịch riêng tính năm theo cách khác với hầu hết các nước trên thế giới."
-    ]
+    ],
+    "flagMeaning": "Cờ Triều Tiên có sọc xanh dương ở trên và dưới, sọc đỏ to ở giữa, và một ngôi sao đỏ nằm trong vòng tròn trắng."
   },
   "BN": {
     "tourism": [
@@ -700,7 +733,8 @@
     "funFacts": [
       "Brunei có cung điện hoàng gia lớn nhất thế giới với gần 1.800 căn phòng!",
       "Làng nổi Kampong Ayer ở Brunei đã có người sinh sống trên mặt nước suốt hàng trăm năm."
-    ]
+    ],
+    "flagMeaning": "Cờ Brunei có nền vàng với hai dải chéo màu trắng và đen, ở giữa là một biểu tượng màu đỏ."
   },
   "TL": {
     "tourism": [
@@ -720,7 +754,8 @@
     "funFacts": [
       "Đông Timor là một trong những quốc gia trẻ nhất châu Á, mới ra đời vào năm 2002.",
       "Vùng biển quanh đảo Atauro có số loài cá nhiều bậc nhất thế giới, là thiên đường cho thợ lặn!"
-    ]
+    ],
+    "flagMeaning": "Cờ Đông Timor có nền đỏ với một tam giác đen và một tam giác vàng, cùng một ngôi sao trắng bên trái."
   },
   "PK": {
     "tourism": [
@@ -740,7 +775,8 @@
     "funFacts": [
       "Đỉnh K2 ở Pakistan là ngọn núi cao thứ hai thế giới và rất khó leo!",
       "Thung lũng Hunza có những trái mơ và phong cảnh núi tuyết đẹp đến nỗi nhiều người gọi đó là chốn thần tiên."
-    ]
+    ],
+    "flagMeaning": "Cờ Pakistan có một dải trắng bên trái và phần xanh lá lớn với một mặt trăng lưỡi liềm trắng và một ngôi sao trắng."
   },
   "BD": {
     "tourism": [
@@ -760,7 +796,8 @@
     "funFacts": [
       "Bãi biển Cox's Bazar ở Bangladesh là một trong những bãi biển tự nhiên dài nhất thế giới!",
       "Rừng ngập mặn Sundarbans là nơi sinh sống của loài hổ Bengal hoàng gia bơi lội rất giỏi."
-    ]
+    ],
+    "flagMeaning": "Cờ Bangladesh có nền xanh lá với một hình tròn màu đỏ nằm hơi lệch về bên trái."
   },
   "LK": {
     "tourism": [
@@ -780,7 +817,8 @@
     "funFacts": [
       "Sigiriya là một pháo đài được xây trên đỉnh một tảng đá khổng lồ cao gần 200 mét!",
       "Sri Lanka là một trong những nơi trồng trà ngon nổi tiếng nhất thế giới, gọi là trà Ceylon."
-    ]
+    ],
+    "flagMeaning": "Cờ Sri Lanka có hình một chú sư tử vàng cầm kiếm trên nền đỏ, viền vàng, cùng các sọc màu cam và xanh lá bên cạnh."
   },
   "NP": {
     "tourism": [
@@ -800,7 +838,8 @@
     "funFacts": [
       "Đỉnh Everest ở Nepal là ngọn núi cao nhất thế giới, cao hơn 8.800 mét!",
       "Lá cờ của Nepal là lá cờ quốc gia duy nhất trên thế giới không có hình chữ nhật mà gồm hai hình tam giác."
-    ]
+    ],
+    "flagMeaning": "Cờ Nepal rất đặc biệt vì không phải hình chữ nhật mà gồm hai hình tam giác chồng lên nhau, nền đỏ viền xanh dương, có hình mặt trăng và mặt trời trắng."
   },
   "BT": {
     "tourism": [
@@ -820,7 +859,8 @@
     "funFacts": [
       "Bhutan là quốc gia duy nhất trên thế giới đo sự phát triển bằng chỉ số hạnh phúc của người dân!",
       "Tu viện Tổ Hổ được xây cheo leo trên vách núi cao, người ta phải leo bộ rất lâu mới tới nơi."
-    ]
+    ],
+    "flagMeaning": "Cờ Bhutan được chia chéo thành hai phần vàng và cam, ở giữa là một con rồng trắng rất đẹp."
   },
   "MV": {
     "tourism": [
@@ -840,7 +880,8 @@
     "funFacts": [
       "Maldives là quốc gia thấp nhất thế giới, hầu hết đất chỉ cao hơn mặt biển khoảng một mét rưỡi!",
       "Ban đêm, sóng biển ở một số bãi của Maldives phát sáng lấp lánh như những vì sao nhờ những sinh vật biển tí hon."
-    ]
+    ],
+    "flagMeaning": "Cờ Maldives có nền đỏ với một hình chữ nhật xanh lá ở giữa, bên trong có một mặt trăng lưỡi liềm trắng."
   },
   "AF": {
     "tourism": [
@@ -860,7 +901,8 @@
     "funFacts": [
       "Hồ Band-e-Amir có màu nước xanh ngọc bích tuyệt đẹp và là vườn quốc gia đầu tiên của Afghanistan!",
       "Afghanistan là một trong những nơi đầu tiên trên thế giới trồng được dưa hấu và nho ngọt."
-    ]
+    ],
+    "flagMeaning": "Cờ Afghanistan có nền trắng với những dòng chữ màu đen."
   },
   "IR": {
     "tourism": [
@@ -880,7 +922,8 @@
     "funFacts": [
       "Iran là nơi tạo ra những tấm thảm Ba Tư dệt tay đẹp nổi tiếng khắp thế giới!",
       "Đền Hồng ở Iran có những ô cửa kính màu, buổi sáng ánh nắng chiếu qua biến cả căn phòng thành một cầu vồng rực rỡ."
-    ]
+    ],
+    "flagMeaning": "Cờ Iran có ba sọc ngang màu xanh lá, trắng và đỏ, với một biểu tượng màu đỏ ở giữa."
   },
   "IQ": {
     "tourism": [
@@ -900,7 +943,8 @@
     "funFacts": [
       "Vùng đất Iraq ngày nay là nơi con người phát minh ra chữ viết và bánh xe đầu tiên trên thế giới!",
       "Người xưa kể rằng Vườn treo Babylon, một trong bảy kỳ quan thế giới cổ đại, từng nằm ở Iraq."
-    ]
+    ],
+    "flagMeaning": "Cờ Iraq có ba sọc ngang màu đỏ, trắng và đen, cùng dòng chữ màu xanh lá trên sọc trắng."
   },
   "SA": {
     "tourism": [
@@ -920,7 +964,8 @@
     "funFacts": [
       "Ả Rập Xê Út có sa mạc cát Rub' al Khali rộng lớn đến mức là biển cát liền mạch lớn nhất thế giới!",
       "Hegra là một thành phố cổ với những ngôi mộ khổng lồ được chạm khắc thẳng vào các vách đá sa thạch."
-    ]
+    ],
+    "flagMeaning": "Cờ Ả Rập Xê Út có nền màu xanh lá với dòng chữ trắng và một thanh kiếm trắng nằm ngang ở phía dưới."
   },
   "AE": {
     "tourism": [
@@ -940,7 +985,8 @@
     "funFacts": [
       "Tòa nhà Burj Khalifa ở Dubai là tòa nhà cao nhất thế giới, cao hơn 800 mét!",
       "Người ta đã đắp cát biển tạo ra những hòn đảo nhân tạo hình cây cọ khổng lồ mà từ vũ trụ cũng nhìn thấy được."
-    ]
+    ],
+    "flagMeaning": "Cờ Các Tiểu vương quốc Ả Rập Thống nhất có một dải đỏ dọc bên trái và ba sọc ngang màu xanh lá, trắng và đen."
   },
   "QA": {
     "tourism": [
@@ -960,7 +1006,8 @@
     "funFacts": [
       "Qatar có một nơi gọi là Biển Nội Địa, nơi sa mạc cát gặp trực tiếp mặt biển xanh, rất hiếm thấy trên thế giới!",
       "Qatar từng tổ chức một giải bóng đá lớn nhất hành tinh với những sân vận động được làm mát giữa sa mạc nóng."
-    ]
+    ],
+    "flagMeaning": "Cờ Qatar có nền màu nâu đỏ thẫm và một dải trắng bên trái, ngăn cách bằng đường răng cưa hình chín ngọn."
   },
   "KW": {
     "tourism": [
@@ -980,7 +1027,8 @@
     "funFacts": [
       "Kuwait là một trong những nơi nóng nhất Trái Đất, mùa hè nhiệt độ có thể lên rất cao!",
       "Những con thuyền buồm gỗ truyền thống gọi là Dhow từng giúp người Kuwait lặn tìm ngọc trai dưới đáy biển."
-    ]
+    ],
+    "flagMeaning": "Cờ Kuwait có ba sọc ngang màu xanh lá, trắng và đỏ, cùng một hình thang màu đen bên trái."
   },
   "IL": {
     "tourism": [
@@ -1000,7 +1048,8 @@
     "funFacts": [
       "Biển Chết ở Israel mặn đến nỗi bạn có thể nằm nổi trên mặt nước và đọc sách dễ dàng!",
       "Biển Chết cũng là điểm thấp nhất trên đất liền của toàn Trái Đất."
-    ]
+    ],
+    "flagMeaning": "Cờ Israel có nền trắng với hai sọc xanh dương nằm ngang và một ngôi sao xanh dương sáu cánh ở giữa."
   },
   "JO": {
     "tourism": [
@@ -1020,7 +1069,8 @@
     "funFacts": [
       "Petra là một thành phố cổ được người xưa khắc trực tiếp vào vách đá hồng, và là một trong bảy kỳ quan thế giới mới!",
       "Sa mạc Wadi Rum ở Jordan có cảnh quan giống Sao Hỏa đến mức nhiều bộ phim về vũ trụ được quay tại đây."
-    ]
+    ],
+    "flagMeaning": "Cờ Jordan có ba sọc ngang màu đen, trắng và xanh lá, cùng một tam giác đỏ bên trái chứa ngôi sao trắng bảy cánh."
   },
   "LB": {
     "tourism": [
@@ -1040,7 +1090,8 @@
     "funFacts": [
       "Cây tuyết tùng được in ngay trên lá cờ của Liban, và có những cây sống tới hàng nghìn năm tuổi!",
       "Hang động Jeita Grotto ở Liban có những măng đá khổng lồ và một dòng sông ngầm mà du khách đi thuyền tham quan được."
-    ]
+    ],
+    "flagMeaning": "Cờ Liban có sọc đỏ ở trên và dưới, sọc trắng to ở giữa với một cây tuyết tùng xanh lá xinh đẹp."
   },
   "TR": {
     "tourism": [
@@ -1060,7 +1111,8 @@
     "funFacts": [
       "Pamukkale ở Thổ Nhĩ Kỳ có những bậc thang đá vôi trắng như tuyết với hồ nước ấm, nhìn như một lâu đài bông gòn!",
       "Thành phố Istanbul nằm trên cả hai châu lục là châu Âu và châu Á cùng một lúc."
-    ]
+    ],
+    "flagMeaning": "Cờ Thổ Nhĩ Kỳ có nền đỏ với một mặt trăng lưỡi liềm trắng và một ngôi sao trắng nhỏ bên cạnh."
   },
   "KZ": {
     "tourism": [
@@ -1080,7 +1132,8 @@
     "funFacts": [
       "Kazakhstan là quốc gia không giáp biển lớn nhất thế giới, rộng mênh mông như cả một châu lục nhỏ!",
       "Ở hồ Kaindy có cả một khu rừng cây vẫn đứng thẳng dưới làn nước trong xanh, trông như rừng dưới nước."
-    ]
+    ],
+    "flagMeaning": "Cờ Kazakhstan có nền xanh dương với một mặt trời vàng có nhiều tia sáng và một chú đại bàng vàng bay bên dưới."
   },
   "UZ": {
     "tourism": [
@@ -1100,7 +1153,8 @@
     "funFacts": [
       "Samarkand ở Uzbekistan là một trong những thành phố cổ nhất thế giới với những tòa nhà ốp gạch men xanh ngọc lộng lẫy!",
       "Uzbekistan là một trong hai quốc gia duy nhất trên thế giới mà muốn ra biển phải đi qua tới hai nước khác."
-    ]
+    ],
+    "flagMeaning": "Cờ Uzbekistan có ba sọc ngang màu xanh dương, trắng và xanh lá, với một mặt trăng lưỡi liềm trắng và mười hai ngôi sao trắng."
   },
   "UA": {
     "tourism": [
@@ -1120,7 +1174,8 @@
     "funFacts": [
       "Ukraina là nước lớn nhất nằm hoàn toàn trong châu Âu.",
       "Người Ukraina trồng rất nhiều hoa hướng dương, đây là loài hoa biểu tượng của đất nước."
-    ]
+    ],
+    "flagMeaning": "Lá cờ Ukraina có sọc xanh dương ở trên và sọc vàng ở dưới. Màu xanh gợi bầu trời, màu vàng gợi cánh đồng lúa mì."
   },
   "PL": {
     "tourism": [
@@ -1140,7 +1195,8 @@
     "funFacts": [
       "Ba Lan có một mỏ muối với cả nhà thờ và tượng được tạc hoàn toàn từ muối.",
       "Nhà thiên văn nổi tiếng Copernicus, người phát hiện Trái Đất quay quanh Mặt Trời, là người Ba Lan."
-    ]
+    ],
+    "flagMeaning": "Lá cờ Ba Lan có sọc trắng ở trên và sọc đỏ ở dưới, rất giản dị."
   },
   "CZ": {
     "tourism": [
@@ -1160,7 +1216,8 @@
     "funFacts": [
       "Praha có một chiếc đồng hồ thiên văn hơn 600 tuổi vẫn chạy tốt mỗi ngày.",
       "Cộng hòa Séc có nhiều lâu đài và pháo đài hơn bất kỳ nước nào khác ở châu Âu."
-    ]
+    ],
+    "flagMeaning": "Lá cờ Cộng hòa Séc có sọc trắng ở trên, sọc đỏ ở dưới và một tam giác xanh dương phía bên trái."
   },
   "SK": {
     "tourism": [
@@ -1180,7 +1237,8 @@
     "funFacts": [
       "Slovakia có nhiều lâu đài tính trên đầu người nhiều hơn hầu hết các nước trên thế giới.",
       "Dãy núi Tatra ở Slovakia là nơi sinh sống của gấu nâu, sói và linh miêu."
-    ]
+    ],
+    "flagMeaning": "Lá cờ Slovakia có ba sọc ngang trắng, xanh dương và đỏ, kèm một chiếc khiên nhỏ có chữ thập đôi bên trái."
   },
   "HU": {
     "tourism": [
@@ -1200,7 +1258,8 @@
     "funFacts": [
       "Budapest nằm trên hàng trăm suối nước nóng tự nhiên, nên có rất nhiều nhà tắm nước nóng.",
       "Khối lập phương Rubik nổi tiếng được phát minh bởi một người Hungary."
-    ]
+    ],
+    "flagMeaning": "Lá cờ Hungary có ba sọc ngang đỏ, trắng và xanh lá."
   },
   "RO": {
     "tourism": [
@@ -1220,7 +1279,8 @@
     "funFacts": [
       "Lâu đài Bran ở Romania thường được gọi là lâu đài của Bá tước Dracula.",
       "Rừng ở Romania là nơi sinh sống của số lượng gấu nâu lớn nhất châu Âu."
-    ]
+    ],
+    "flagMeaning": "Lá cờ Romania có ba sọc dọc xanh dương, vàng và đỏ đứng cạnh nhau."
   },
   "BG": {
     "tourism": [
@@ -1240,7 +1300,8 @@
     "funFacts": [
       "Bulgaria là một trong những nơi đầu tiên trên thế giới làm ra sữa chua.",
       "Khi người Bulgaria gật đầu thì có nghĩa là không, còn lắc đầu lại có nghĩa là có."
-    ]
+    ],
+    "flagMeaning": "Lá cờ Bulgaria có ba sọc ngang trắng, xanh lá và đỏ. Màu xanh lá thường gợi tới đồng ruộng và thiên nhiên tươi tốt."
   },
   "IE": {
     "tourism": [
@@ -1260,7 +1321,8 @@
     "funFacts": [
       "Ireland được gọi là Đảo Ngọc vì cỏ cây ở đây luôn xanh mướt quanh năm.",
       "Cây đàn hạc là biểu tượng quốc gia của Ireland và in trên đồng tiền của nước này."
-    ]
+    ],
+    "flagMeaning": "Lá cờ Ireland có ba sọc dọc xanh lá, trắng và cam. Màu trắng ở giữa tượng trưng cho hòa bình và sự đoàn kết."
   },
   "BE": {
     "tourism": [
@@ -1280,7 +1342,8 @@
     "funFacts": [
       "Khoai tây chiên thực ra được người Bỉ phát minh ra chứ không phải người Pháp.",
       "Bỉ có một công trình khổng lồ hình nguyên tử cao 102 mét gọi là Atomium."
-    ]
+    ],
+    "flagMeaning": "Lá cờ Bỉ có ba sọc dọc đen, vàng và đỏ đứng cạnh nhau."
   },
   "AT": {
     "tourism": [
@@ -1300,7 +1363,8 @@
     "funFacts": [
       "Nhà soạn nhạc thiên tài Mozart sinh ra ở thành phố Salzburg của Áo.",
       "Áo có những ngôi làng nhỏ xinh nằm bên hồ giữa dãy núi Alps tuyết phủ."
-    ]
+    ],
+    "flagMeaning": "Lá cờ Áo có ba sọc ngang đỏ-trắng-đỏ. Người ta kể rằng màu đỏ-trắng-đỏ gắn với chiếc áo giáp của một vị vua xưa."
   },
   "PT": {
     "tourism": [
@@ -1320,7 +1384,8 @@
     "funFacts": [
       "Bồ Đào Nha là một trong những nước lâu đời nhất châu Âu với đường biên giới gần như không đổi.",
       "Loại bần dùng làm nút chai rượu phần lớn được trồng và sản xuất ở Bồ Đào Nha."
-    ]
+    ],
+    "flagMeaning": "Lá cờ Bồ Đào Nha có phần xanh lá bên trái và phần đỏ bên phải, ở giữa là một huy hiệu có quả cầu và khiên nhỏ."
   },
   "DK": {
     "tourism": [
@@ -1340,7 +1405,8 @@
     "funFacts": [
       "Những khối đồ chơi Lego nổi tiếng được phát minh ở Đan Mạch.",
       "Nhà văn Andersen người Đan Mạch đã viết các truyện cổ tích như Nàng tiên cá và Cô bé bán diêm."
-    ]
+    ],
+    "flagMeaning": "Lá cờ Đan Mạch màu đỏ với một chữ thập trắng nằm hơi lệch về bên trái. Đây là một trong những lá cờ lâu đời nhất thế giới."
   },
   "SE": {
     "tourism": [
@@ -1360,7 +1426,8 @@
     "funFacts": [
       "Giải thưởng Nobel danh giá được trao hằng năm tại thủ đô Stockholm của Thụy Điển.",
       "Ở miền bắc Thụy Điển vào mùa hè, Mặt Trời không lặn nên trời sáng suốt cả đêm."
-    ]
+    ],
+    "flagMeaning": "Lá cờ Thụy Điển màu xanh dương với một chữ thập vàng nằm hơi lệch về bên trái."
   },
   "NO": {
     "tourism": [
@@ -1380,7 +1447,8 @@
     "funFacts": [
       "Na Uy có những vịnh biển sâu hẹp tuyệt đẹp gọi là fjord được núi đá bao quanh.",
       "Vào mùa đông ở miền bắc Na Uy, người ta có thể ngắm dải Bắc cực quang lung linh trên trời."
-    ]
+    ],
+    "flagMeaning": "Lá cờ Na Uy màu đỏ với một chữ thập xanh dương viền trắng."
   },
   "FI": {
     "tourism": [
@@ -1400,7 +1468,8 @@
     "funFacts": [
       "Phần Lan có hơn 180 nghìn hồ nước nên được gọi là Xứ sở của ngàn hồ.",
       "Người ta tin rằng Ông già Noel sống ở vùng Lapland phía bắc Phần Lan."
-    ]
+    ],
+    "flagMeaning": "Lá cờ Phần Lan màu trắng với một chữ thập xanh dương. Màu xanh gợi những hồ nước, màu trắng gợi tuyết phủ."
   },
   "IS": {
     "tourism": [
@@ -1420,7 +1489,8 @@
     "funFacts": [
       "Iceland có rất nhiều núi lửa và mạch nước nóng phun lên từ lòng đất.",
       "Iceland gần như không có muỗi, đây là điều rất hiếm thấy trên thế giới."
-    ]
+    ],
+    "flagMeaning": "Lá cờ Iceland màu xanh dương với một chữ thập trắng viền đỏ. Màu xanh gợi biển, trắng gợi băng tuyết, đỏ gợi núi lửa."
   },
   "HR": {
     "tourism": [
@@ -1440,7 +1510,8 @@
     "funFacts": [
       "Chiếc cà vạt mà mọi người đeo ngày nay có nguồn gốc từ Croatia.",
       "Croatia có những hồ nước trong xanh với nhiều thác nước nối tiếp nhau ở vườn quốc gia Plitvice."
-    ]
+    ],
+    "flagMeaning": "Lá cờ Croatia có ba sọc ngang đỏ, trắng và xanh dương, ở giữa là một chiếc khiên ô vuông đỏ-trắng giống bàn cờ."
   },
   "RS": {
     "tourism": [
@@ -1460,7 +1531,8 @@
     "funFacts": [
       "Mận là loại trái cây rất quan trọng ở Serbia, được dùng làm mứt và nhiều món ngon.",
       "Serbia có một ngôi nhà gỗ nhỏ xíu xây ngay trên một tảng đá giữa dòng sông Drina."
-    ]
+    ],
+    "flagMeaning": "Lá cờ Serbia có ba sọc ngang đỏ, xanh dương và trắng, kèm một huy hiệu có đại bàng và khiên nhỏ bên trái."
   },
   "SI": {
     "tourism": [
@@ -1480,7 +1552,8 @@
     "funFacts": [
       "Slovenia có một hòn đảo nhỏ với nhà thờ nằm giữa hồ Bled tuyệt đẹp.",
       "Trong hang động ở Slovenia có loài kỳ giông trắng gọi là rồng con, sống được hơn 100 năm."
-    ]
+    ],
+    "flagMeaning": "Lá cờ Slovenia có ba sọc ngang trắng, xanh dương và đỏ, kèm một huy hiệu nhỏ với hình ngọn núi và ngôi sao ở góc trên bên trái."
   },
   "EE": {
     "tourism": [
@@ -1500,7 +1573,8 @@
     "funFacts": [
       "Estonia có lễ hội ca hát khổng lồ với hàng chục nghìn người cùng cất tiếng hát.",
       "Estonia là một trong những nước có nhiều rừng và đầm lầy nhất châu Âu."
-    ]
+    ],
+    "flagMeaning": "Lá cờ Estonia có ba sọc ngang xanh dương, đen và trắng. Màu xanh gợi bầu trời, màu trắng gợi tuyết và khát vọng tươi sáng."
   },
   "LV": {
     "tourism": [
@@ -1520,7 +1594,8 @@
     "funFacts": [
       "Latvia có một thác nước rộng nhất châu Âu, nơi cá có thể nhảy vọt lên không trung.",
       "Thủ đô Riga của Latvia có rất nhiều tòa nhà cổ trang trí hoa văn cầu kỳ tuyệt đẹp."
-    ]
+    ],
+    "flagMeaning": "Lá cờ Latvia màu đỏ sẫm với một sọc trắng ngang ở giữa."
   },
   "LT": {
     "tourism": [
@@ -1540,7 +1615,8 @@
     "funFacts": [
       "Bên bờ biển Litva người ta tìm thấy hổ phách, loại đá vàng óng từ nhựa cây cổ đại.",
       "Litva có một lâu đài bằng gạch đỏ xây trên một hòn đảo nhỏ giữa hồ."
-    ]
+    ],
+    "flagMeaning": "Lá cờ Litva có ba sọc ngang vàng, xanh lá và đỏ. Màu vàng gợi nắng và đồng lúa, màu xanh lá gợi cây cối."
   },
   "BY": {
     "tourism": [
@@ -1560,7 +1636,8 @@
     "funFacts": [
       "Belarus có khu rừng nguyên sinh cổ xưa nhất châu Âu, nơi loài bò rừng bison sinh sống.",
       "Khoảng 40 phần trăm diện tích Belarus được rừng cây bao phủ."
-    ]
+    ],
+    "flagMeaning": "Lá cờ Belarus có hai sọc ngang đỏ và xanh lá, bên trái là một dải hoa văn trắng-đỏ rất đẹp giống thêu thùa truyền thống."
   },
   "MC": {
     "tourism": [
@@ -1580,7 +1657,8 @@
     "funFacts": [
       "Monaco là quốc gia nhỏ thứ hai trên thế giới, chỉ sau Vatican.",
       "Monaco nhỏ đến mức bạn có thể đi bộ ngang qua cả nước chỉ trong khoảng một giờ."
-    ]
+    ],
+    "flagMeaning": "Lá cờ Monaco có sọc đỏ ở trên và sọc trắng ở dưới, đơn giản và dễ nhớ."
   },
   "VA": {
     "tourism": [
@@ -1600,7 +1678,8 @@
     "funFacts": [
       "Vatican là quốc gia nhỏ nhất thế giới, nhỏ hơn nhiều công viên lớn.",
       "Trần nhà nguyện Sistine ở Vatican được danh họa Michelangelo vẽ khi nằm ngửa trên giàn giáo cao."
-    ]
+    ],
+    "flagMeaning": "Lá cờ Vatican có hai phần vàng và trắng, ở phần trắng có hình hai chiếc chìa khóa bắt chéo và một chiếc mũ."
   },
   "LU": {
     "tourism": [
@@ -1620,7 +1699,8 @@
     "funFacts": [
       "Luxembourg là quốc gia duy nhất trên thế giới có người đứng đầu là một vị Đại Công tước.",
       "Thủ đô Luxembourg có những đường hầm và hang động đục sâu trong vách đá gọi là Bock."
-    ]
+    ],
+    "flagMeaning": "Lá cờ Luxembourg có ba sọc ngang đỏ, trắng và xanh dương nhạt."
   },
   "AL": {
     "tourism": [
@@ -1640,7 +1720,8 @@
     "funFacts": [
       "Albania được gọi là vùng đất của những chú đại bàng.",
       "Thành phố Berat ở Albania có nhiều cửa sổ xếp chồng đến mức được gọi là Thành phố nghìn cửa sổ."
-    ]
+    ],
+    "flagMeaning": "Lá cờ Albania màu đỏ với hình một con đại bàng hai đầu màu đen ở giữa, trông rất oai phong."
   },
   "MA": {
     "tourism": [
@@ -1660,7 +1741,8 @@
     "funFacts": [
       "Maroc có một thành phố tên Chefchaouen nơi gần như mọi bức tường đều được sơn màu xanh dương!",
       "Lạc đà ở Maroc có thể đi nhiều ngày trên sa mạc Sahara mà không cần uống nước."
-    ]
+    ],
+    "flagMeaning": "Cờ Maroc màu đỏ, ở chính giữa có một ngôi sao năm cánh màu xanh lá rất nổi bật."
   },
   "TN": {
     "tourism": [
@@ -1680,7 +1762,8 @@
     "funFacts": [
       "Một phần bộ phim Chiến Tranh Giữa Các Vì Sao được quay trên sa mạc của Tunisia!",
       "Tunisia là quốc gia nằm xa nhất về phía bắc của cả châu Phi."
-    ]
+    ],
+    "flagMeaning": "Cờ Tunisia màu đỏ tươi, ở giữa có vòng tròn trắng chứa hình trăng lưỡi liềm và một ngôi sao đỏ."
   },
   "DZ": {
     "tourism": [
@@ -1700,7 +1783,8 @@
     "funFacts": [
       "Algeria là quốc gia lớn nhất ở châu Phi về diện tích.",
       "Hơn 80% diện tích Algeria là sa mạc Sahara với những cồn cát khổng lồ!"
-    ]
+    ],
+    "flagMeaning": "Cờ Algeria chia hai nửa xanh lá và trắng, ở giữa có hình trăng lưỡi liềm đỏ và một ngôi sao đỏ."
   },
   "LY": {
     "tourism": [
@@ -1720,7 +1804,8 @@
     "funFacts": [
       "Gần như toàn bộ Libya là sa mạc, nên người dân sống tập trung gần bờ biển.",
       "Libya có một thành phố cổ La Mã tên Leptis Magna với những cột đá khổng lồ còn nguyên vẹn!"
-    ]
+    ],
+    "flagMeaning": "Cờ Libya có ba dải đỏ, đen, xanh lá, ở giữa dải đen là hình trăng lưỡi liềm và ngôi sao màu trắng."
   },
   "ET": {
     "tourism": [
@@ -1740,7 +1825,8 @@
     "funFacts": [
       "Ethiopia được cho là nơi cây cà phê được phát hiện đầu tiên trên thế giới!",
       "Lịch của Ethiopia có 13 tháng, nên họ luôn chậm hơn chúng ta khoảng 7 năm."
-    ]
+    ],
+    "flagMeaning": "Cờ Ethiopia có ba dải xanh lá, vàng, đỏ với một ngôi sao vàng trên nền tròn xanh dương ở giữa."
   },
   "NG": {
     "tourism": [
@@ -1760,7 +1846,8 @@
     "funFacts": [
       "Nigeria là quốc gia đông dân nhất châu Phi.",
       "Ở Nigeria có hơn 500 ngôn ngữ khác nhau được người dân sử dụng!"
-    ]
+    ],
+    "flagMeaning": "Cờ Nigeria có ba dải đứng: hai dải xanh lá hai bên và một dải trắng ở giữa, đơn giản mà đẹp."
   },
   "GH": {
     "tourism": [
@@ -1780,7 +1867,8 @@
     "funFacts": [
       "Ghana có hồ Volta, một trong những hồ nhân tạo lớn nhất thế giới!",
       "Ghana là nước trồng nhiều ca cao để làm sô cô la hàng đầu thế giới."
-    ]
+    ],
+    "flagMeaning": "Cờ Ghana dùng màu liên Phi đỏ, vàng, xanh lá xếp ngang, ở giữa có một ngôi sao đen."
   },
   "SN": {
     "tourism": [
@@ -1800,7 +1888,8 @@
     "funFacts": [
       "Senegal có một cái hồ tên Hồ Hồng vì nước của nó có màu hồng như sữa dâu!",
       "Tượng đài Phục Hưng châu Phi ở Senegal còn cao hơn cả tượng Nữ Thần Tự Do."
-    ]
+    ],
+    "flagMeaning": "Cờ Senegal dùng màu liên Phi xanh lá, vàng, đỏ xếp đứng, ở giữa dải vàng có một ngôi sao xanh lá."
   },
   "TZ": {
     "tourism": [
@@ -1820,7 +1909,8 @@
     "funFacts": [
       "Núi Kilimanjaro ở Tanzania là ngọn núi cao nhất châu Phi và có tuyết trên đỉnh dù nằm gần xích đạo!",
       "Mỗi năm hơn một triệu con linh dương đầu bò di cư qua đồng cỏ Serengeti."
-    ]
+    ],
+    "flagMeaning": "Cờ Tanzania có dải chéo đen viền vàng, chia nền thành hai vùng màu xanh lá và xanh dương."
   },
   "UG": {
     "tourism": [
@@ -1840,7 +1930,8 @@
     "funFacts": [
       "Uganda là một trong số ít nơi trên thế giới còn loài khỉ đột núi quý hiếm sinh sống!",
       "Hồ Victoria nằm ở Uganda là hồ nước ngọt lớn nhất châu Phi."
-    ]
+    ],
+    "flagMeaning": "Cờ Uganda có sáu dải đen, vàng, đỏ xen kẽ, ở giữa là hình con sếu vương miện xám rất đẹp."
   },
   "RW": {
     "tourism": [
@@ -1860,7 +1951,8 @@
     "funFacts": [
       "Rwanda được gọi là Đất Nước Của Ngàn Ngọn Đồi vì có rất nhiều đồi xanh!",
       "Rwanda cấm túi ni lông để giữ đất nước sạch đẹp, được coi là một trong những nước sạch nhất châu Phi."
-    ]
+    ],
+    "flagMeaning": "Cờ Rwanda có ba dải xanh dương, vàng, xanh lá, với hình mặt trời vàng tỏa nắng ở góc trên."
   },
   "CM": {
     "tourism": [
@@ -1880,7 +1972,8 @@
     "funFacts": [
       "Cameroon được gọi là Châu Phi Thu Nhỏ vì có đủ rừng, núi, sa mạc và biển!",
       "Núi Cameroon là một ngọn núi lửa và là điểm cao nhất của vùng Tây Phi."
-    ]
+    ],
+    "flagMeaning": "Cờ Cameroon dùng màu liên Phi xanh lá, đỏ, vàng xếp đứng, ở giữa có một ngôi sao vàng."
   },
   "CD": {
     "tourism": [
@@ -1900,7 +1993,8 @@
     "funFacts": [
       "Rừng nhiệt đới Congo là khu rừng lớn thứ hai thế giới, chỉ sau rừng Amazon!",
       "Sông Congo là con sông sâu nhất thế giới."
-    ]
+    ],
+    "flagMeaning": "Cờ Cộng hòa Dân chủ Congo màu xanh dương, có dải chéo đỏ viền vàng và một ngôi sao vàng ở góc."
   },
   "AO": {
     "tourism": [
@@ -1920,7 +2014,8 @@
     "funFacts": [
       "Angola có thác nước Kalandula, một trong những thác nước lớn nhất châu Phi!",
       "Angola là quê hương của loài linh dương Sable đen khổng lồ rất hiếm, chỉ sống ở đây."
-    ]
+    ],
+    "flagMeaning": "Cờ Angola có hai dải đỏ và đen, ở giữa là hình bánh xe răng cưa, con dao rựa và ngôi sao màu vàng."
   },
   "ZM": {
     "tourism": [
@@ -1940,7 +2035,8 @@
     "funFacts": [
       "Thác Victoria nằm ở Zambia là một trong những thác nước lớn nhất thế giới, lớn đến mức khói nước bay lên trời!",
       "Người địa phương gọi thác Victoria là Mosi-oa-Tunya, nghĩa là Làn Khói Vang Rền."
-    ]
+    ],
+    "flagMeaning": "Cờ Zambia màu xanh lá, ở góc phải có hình con đại bàng cùng các sọc đỏ, đen, cam."
   },
   "ZW": {
     "tourism": [
@@ -1960,7 +2056,8 @@
     "funFacts": [
       "Zimbabwe có một thành phố đá cổ tên Great Zimbabwe được xây hoàn toàn bằng đá mà không cần xi măng!",
       "Tên nước Zimbabwe có nghĩa là Những Ngôi Nhà Bằng Đá."
-    ]
+    ],
+    "flagMeaning": "Cờ Zimbabwe có nhiều dải xanh lá, vàng, đỏ, đen và một tam giác trắng với ngôi sao đỏ cùng hình chim đá."
   },
   "MZ": {
     "tourism": [
@@ -1980,7 +2077,8 @@
     "funFacts": [
       "Mozambique có bờ biển dài tuyệt đẹp nơi bạn có thể bơi cùng cá đuối khổng lồ và cá mập voi hiền lành!",
       "Cá mập voi ở vùng biển Mozambique là loài cá lớn nhất thế giới nhưng chỉ ăn sinh vật nhỏ xíu."
-    ]
+    ],
+    "flagMeaning": "Cờ Mozambique có các dải xanh lá, đen, vàng và một tam giác đỏ với ngôi sao vàng ở cán cờ."
   },
   "BW": {
     "tourism": [
@@ -2000,7 +2098,8 @@
     "funFacts": [
       "Botswana có số lượng voi nhiều nhất thế giới!",
       "Đồng bằng Okavango là nơi một con sông lớn chảy vào sa mạc rồi biến mất mà không ra biển."
-    ]
+    ],
+    "flagMeaning": "Cờ Botswana màu xanh dương, ở giữa có một dải đen viền trắng nằm ngang."
   },
   "NA": {
     "tourism": [
@@ -2020,7 +2119,8 @@
     "funFacts": [
       "Namibia có những cồn cát đỏ cao nhất thế giới, có cồn cao hơn cả 300 mét!",
       "Sa mạc Namib được cho là sa mạc lâu đời nhất trên Trái Đất."
-    ]
+    ],
+    "flagMeaning": "Cờ Namibia có dải chéo đỏ viền trắng, một bên xanh dương có mặt trời vàng, một bên màu xanh lá."
   },
   "MG": {
     "tourism": [
@@ -2040,7 +2140,8 @@
     "funFacts": [
       "Madagascar là quê hương của loài vượn cáo đáng yêu mà bạn không thể tìm thấy ở bất kỳ nơi nào khác trong tự nhiên!",
       "Hơn 90% các loài động vật ở Madagascar chỉ sống duy nhất trên hòn đảo này."
-    ]
+    ],
+    "flagMeaning": "Cờ Madagascar có dải trắng đứng ở cán cờ, cùng hai dải ngang màu đỏ và xanh lá."
   },
   "MU": {
     "tourism": [
@@ -2060,7 +2161,8 @@
     "funFacts": [
       "Mauritius có một vùng đất kỳ lạ với bảy màu sắc khác nhau tự nhiên trên cát!",
       "Loài chim Dodo nổi tiếng từng sống duy nhất ở đảo Mauritius."
-    ]
+    ],
+    "flagMeaning": "Cờ Mauritius có bốn dải ngang màu đỏ, xanh dương, vàng và xanh lá xếp chồng lên nhau."
   },
   "CI": {
     "tourism": [
@@ -2080,7 +2182,8 @@
     "funFacts": [
       "Bờ Biển Ngà là nước trồng nhiều ca cao nhất thế giới để làm sô cô la!",
       "Ở Bờ Biển Ngà có một nhà thờ khổng lồ là một trong những nhà thờ lớn nhất thế giới."
-    ]
+    ],
+    "flagMeaning": "Cờ Bờ Biển Ngà có ba dải đứng màu cam, trắng và xanh lá nằm cạnh nhau."
   },
   "ML": {
     "tourism": [
@@ -2100,7 +2203,8 @@
     "funFacts": [
       "Mali có nhà thờ Hồi giáo Djenné, công trình bằng bùn đất lớn nhất thế giới!",
       "Thành phố Timbuktu của Mali từng là một trung tâm học tập nổi tiếng với hàng ngàn cuốn sách cổ."
-    ]
+    ],
+    "flagMeaning": "Cờ Mali có ba dải đứng màu xanh lá, vàng và đỏ, là những màu liên Phi quen thuộc."
   },
   "SO": {
     "tourism": [
@@ -2120,7 +2224,8 @@
     "funFacts": [
       "Somalia có đường bờ biển dài nhất ở lục địa châu Phi!",
       "Somalia nuôi rất nhiều lạc đà, thuộc hàng nhiều nhất thế giới."
-    ]
+    ],
+    "flagMeaning": "Cờ Somalia có nền xanh dương và một ngôi sao trắng năm cánh lớn ở chính giữa."
   },
   "SD": {
     "tourism": [
@@ -2140,7 +2245,8 @@
     "funFacts": [
       "Sudan có nhiều kim tự tháp hơn cả Ai Cập, với hơn 200 kim tự tháp cổ!",
       "Hai dòng sông Nile Xanh và Nile Trắng gặp nhau ở Sudan để tạo thành sông Nile."
-    ]
+    ],
+    "flagMeaning": "Cờ Sudan có ba dải đỏ, trắng, đen nằm ngang và một hình tam giác xanh lá ở phía cán cờ."
   },
   "AR": {
     "tourism": [
@@ -2161,7 +2267,8 @@
       "Argentina có ngọn núi cao nhất châu Mỹ tên là Aconcagua.",
       "Đây là quê hương của siêu sao bóng đá Lionel Messi.",
       "Ở miền Nam Argentina lạnh đến mức có cả chim cánh cụt sống ngoài tự nhiên!"
-    ]
+    ],
+    "flagMeaning": "Cờ Argentina có hai sọc xanh nhạt và một sọc trắng ở giữa, kèm hình Mặt Trời vàng tươi cười rạng rỡ."
   },
   "CL": {
     "tourism": [
@@ -2182,7 +2289,8 @@
       "Sa mạc Atacama ở Chile là nơi khô hạn nhất Trái Đất, có chỗ chưa từng có mưa.",
       "Chile là quốc gia dài và hẹp nhất thế giới, dài hơn 4.000 km.",
       "Trên Đảo Phục Sinh có gần 900 bức tượng đá khổng lồ bí ẩn gọi là Moai!"
-    ]
+    ],
+    "flagMeaning": "Cờ Chile có nửa trên gồm dải trắng và một ô vuông xanh có ngôi sao trắng, nửa dưới là dải màu đỏ."
   },
   "PE": {
     "tourism": [
@@ -2203,7 +2311,8 @@
       "Machu Picchu là thành phố cổ của người Inca nằm cao trên đỉnh núi mây mù.",
       "Peru là nơi đầu tiên trên thế giới trồng khoai tây, với hơn 3.000 loại khác nhau.",
       "Loài lạc đà không bướu Llama ở Peru có thể phun nước bọt khi giận dỗi!"
-    ]
+    ],
+    "flagMeaning": "Cờ Peru có ba dải dọc đỏ, trắng, đỏ trông rất gọn gàng và dễ nhớ."
   },
   "CO": {
     "tourism": [
@@ -2224,7 +2333,8 @@
       "Colombia là một trong những nước trồng cà phê ngon nhất thế giới.",
       "Sông Caño Cristales được gọi là 'dòng sông năm màu' vì nước có nhiều màu sắc.",
       "Colombia có nhiều loài chim hơn bất kỳ quốc gia nào trên Trái Đất!"
-    ]
+    ],
+    "flagMeaning": "Cờ Colombia có ba dải ngang: dải vàng to nhất ở trên, rồi đến dải xanh dương và dải đỏ."
   },
   "VE": {
     "tourism": [
@@ -2245,7 +2355,8 @@
       "Thác Angel ở Venezuela là thác nước cao nhất thế giới, cao gần một cây số.",
       "Hồ Maracaibo có sấm sét đánh xuống gần như mỗi đêm trong năm.",
       "Nước cao đến mức nó tan thành sương mù trước khi chạm đất!"
-    ]
+    ],
+    "flagMeaning": "Cờ Venezuela có ba dải vàng, xanh dương, đỏ, và một vòng cung gồm những ngôi sao trắng ở giữa."
   },
   "EC": {
     "tourism": [
@@ -2266,7 +2377,8 @@
       "Quần đảo Galápagos là nơi có rùa khổng lồ sống hơn 100 tuổi.",
       "Tên nước Ecuador có nghĩa là 'đường xích đạo' trong tiếng Tây Ban Nha.",
       "Ở Ecuador, bạn có thể đặt một chân ở Bắc bán cầu và chân kia ở Nam bán cầu!"
-    ]
+    ],
+    "flagMeaning": "Cờ Ecuador có dải vàng to ở trên, rồi đến dải xanh dương và dải đỏ, ở giữa có hình huy hiệu của đất nước."
   },
   "BO": {
     "tourism": [
@@ -2287,7 +2399,8 @@
       "Cánh đồng muối Uyuni là sa mạc muối lớn nhất thế giới, trắng xóa như tuyết.",
       "Thủ đô La Paz là thủ đô nằm cao nhất thế giới.",
       "Sau cơn mưa, cánh đồng muối biến thành tấm gương khổng lồ phản chiếu cả bầu trời!"
-    ]
+    ],
+    "flagMeaning": "Cờ Bolivia có ba dải ngang đỏ, vàng, xanh lá, với hình huy hiệu nhỏ nằm ở chính giữa."
   },
   "PY": {
     "tourism": [
@@ -2308,7 +2421,8 @@
       "Người Paraguay nói hai thứ tiếng là Tây Ban Nha và tiếng Guaraní cổ.",
       "Ren Ñandutí trong tiếng địa phương có nghĩa là 'mạng nhện'.",
       "Món 'súp Paraguay' thật ra không phải súp mà là một loại bánh ngô đặc!"
-    ]
+    ],
+    "flagMeaning": "Cờ Paraguay có ba dải đỏ, trắng, xanh dương, và đặc biệt là hai mặt của lá cờ in hình khác nhau."
   },
   "UY": {
     "tourism": [
@@ -2329,7 +2443,8 @@
       "Uruguay là nước đầu tiên vô địch World Cup bóng đá năm 1930.",
       "Người Uruguay uống trà Mate nhiều hơn hầu hết các nước trên thế giới.",
       "Ở bãi biển có một bàn tay khổng lồ bằng đá nhô lên khỏi mặt cát!"
-    ]
+    ],
+    "flagMeaning": "Cờ Uruguay có những sọc trắng và xanh dương xen kẽ, cùng hình Mặt Trời vàng tươi cười ở góc trên."
   },
   "CU": {
     "tourism": [
@@ -2350,7 +2465,8 @@
       "Trên đường phố Cuba có rất nhiều xe ô tô cổ từ những năm 1950 vẫn còn chạy.",
       "Cuba là hòn đảo lớn nhất vùng biển Caribe.",
       "Loài chim ruồi nhỏ nhất thế giới sống ở Cuba, bé như một con ong!"
-    ]
+    ],
+    "flagMeaning": "Cờ Cuba có năm dải xanh và trắng xen kẽ, cùng một tam giác đỏ có ngôi sao trắng ở bên trái."
   },
   "JM": {
     "tourism": [
@@ -2371,7 +2487,8 @@
       "Nhạc Reggae nổi tiếng thế giới ra đời từ Jamaica.",
       "Người chạy nhanh nhất thế giới Usain Bolt là người Jamaica.",
       "Cà phê Blue Mountain của Jamaica là một trong những loại cà phê đắt nhất thế giới!"
-    ]
+    ],
+    "flagMeaning": "Cờ Jamaica có hình chữ X màu vàng chia lá cờ thành các phần màu xanh lá và đen."
   },
   "HT": {
     "tourism": [
@@ -2392,7 +2509,8 @@
       "Haiti là nước đầu tiên trên thế giới do người nô lệ tự giải phóng lập nên.",
       "Pháo đài Citadelle là một trong những lâu đài lớn nhất châu Mỹ.",
       "Mỗi năm vào ngày đầu năm, người Haiti ăn món súp bí vàng để mừng tự do!"
-    ]
+    ],
+    "flagMeaning": "Cờ Haiti gồm dải xanh dương ở trên và dải đỏ ở dưới, với hình huy hiệu có cây cọ ở giữa."
   },
   "DO": {
     "tourism": [
@@ -2413,7 +2531,8 @@
       "Santo Domingo là thành phố châu Âu lập nên đầu tiên ở châu Mỹ.",
       "Điệu nhảy Merengue ra đời ở đây và rất vui nhộn.",
       "Cá voi lưng gù bơi hàng nghìn cây số đến vịnh Samaná để sinh con mỗi năm!"
-    ]
+    ],
+    "flagMeaning": "Cờ Cộng hòa Dominica có hình chữ thập trắng chia lá cờ thành các ô xanh dương và đỏ, ở giữa có huy hiệu nhỏ."
   },
   "GT": {
     "tourism": [
@@ -2434,7 +2553,8 @@
       "Đền Tikal là kim tự tháp cổ của người Maya ẩn giữa rừng rậm.",
       "Guatemala có hơn 30 ngọn núi lửa, một số vẫn đang hoạt động.",
       "Tên Guatemala có nghĩa là 'vùng đất nhiều cây cối' và còn có loài chim quetzal đuôi dài tuyệt đẹp!"
-    ]
+    ],
+    "flagMeaning": "Cờ Guatemala có hai dải xanh dương hai bên và một dải trắng ở giữa, kèm hình huy hiệu có chú chim quetzal xinh đẹp."
   },
   "CR": {
     "tourism": [
@@ -2455,7 +2575,8 @@
       "Costa Rica không có quân đội mà dùng tiền đó để xây trường học.",
       "Đất nước nhỏ bé này có gần 5 phần trăm số loài sinh vật của cả Trái Đất.",
       "Loài lười ở đây di chuyển chậm đến mức rêu xanh mọc cả trên lông của chúng!"
-    ]
+    ],
+    "flagMeaning": "Cờ Costa Rica có các dải xanh dương, trắng và một dải đỏ to ở giữa trông rất tươi vui."
   },
   "PA": {
     "tourism": [
@@ -2476,7 +2597,8 @@
       "Kênh đào Panama nối liền hai đại dương lớn nhất thế giới.",
       "Tàu thuyền được nâng lên hạ xuống như đi thang máy nước để qua kênh đào.",
       "Ở Panama, bạn có thể ngắm Mặt Trời mọc ở Thái Bình Dương và lặn ở Đại Tây Dương!"
-    ]
+    ],
+    "flagMeaning": "Cờ Panama được chia thành bốn ô: hai ô trắng có ngôi sao xanh và đỏ, cùng một ô xanh dương và một ô đỏ."
   },
   "HN": {
     "tourism": [
@@ -2497,7 +2619,8 @@
       "Đền Copán là thành phố cổ của người Maya với nhiều tượng đá chạm khắc tinh xảo.",
       "Vùng biển Honduras có rạn san hô lớn thứ hai thế giới.",
       "Ở Honduras có hiện tượng 'mưa cá', khi cá thật sự rơi từ trên trời xuống sau bão!"
-    ]
+    ],
+    "flagMeaning": "Cờ Honduras có hai dải xanh dương hai bên và một dải trắng ở giữa, với năm ngôi sao xanh xếp ở phần trắng."
   },
   "NI": {
     "tourism": [
@@ -2518,7 +2641,8 @@
       "Hồ Nicaragua là hồ lớn nhất Trung Mỹ và có cả những hòn đảo núi lửa.",
       "Bạn có thể trượt ván xuống sườn núi lửa Cerro Negro đang phun khói.",
       "Hồ Nicaragua là một trong số ít hồ nước ngọt trên thế giới có cá mập sinh sống!"
-    ]
+    ],
+    "flagMeaning": "Cờ Nicaragua có hai dải xanh dương hai bên và một dải trắng ở giữa, kèm hình huy hiệu có cầu vồng đẹp mắt."
   },
   "SV": {
     "tourism": [
@@ -2539,7 +2663,8 @@
       "El Salvador được gọi là 'vùng đất của những ngọn núi lửa'.",
       "Đây là nước nhỏ nhất ở lục địa Trung Mỹ.",
       "Tàn tích Joya de Cerén được gọi là 'Pompeii của châu Mỹ' vì bị tro núi lửa giữ nguyên vẹn!"
-    ]
+    ],
+    "flagMeaning": "Cờ El Salvador có hai dải xanh dương hai bên và một dải trắng ở giữa, kèm hình huy hiệu của đất nước."
   },
   "TT": {
     "tourism": [
@@ -2560,7 +2685,8 @@
       "Đàn trống thép Steelpan được phát minh ở đây từ những chiếc thùng phuy cũ.",
       "Đầm lầy Caroni là nơi sinh sống của loài chim ibis đỏ rực tuyệt đẹp.",
       "Đảo này có cả một cái hồ làm bằng nhựa đường tự nhiên lớn nhất thế giới!"
-    ]
+    ],
+    "flagMeaning": "Cờ Trinidad và Tobago màu đỏ với một dải chéo đen viền trắng đi từ góc này sang góc kia."
   },
   "BS": {
     "tourism": [
@@ -2581,7 +2707,8 @@
       "Bahamas có hơn 700 hòn đảo nằm rải rác trên vùng biển xanh trong.",
       "Có một bãi biển ở đây cát màu hồng do vỏ sinh vật biển nhỏ xíu tạo nên.",
       "Ở đảo Exuma có những chú heo con biết bơi ra biển để chào khách du lịch!"
-    ]
+    ],
+    "flagMeaning": "Cờ Bahamas có hai dải xanh nước biển và một dải vàng ở giữa, cùng một tam giác đen bên trái."
   },
   "BB": {
     "tourism": [
@@ -2602,7 +2729,8 @@
       "Loài cá chuồn ở Barbados có thể lướt bay trên mặt biển.",
       "Ngôi sao ca nhạc Rihanna sinh ra ở hòn đảo này.",
       "Hang động Harrison có cả thác nước và hồ ngầm lung linh nằm sâu dưới lòng đất!"
-    ]
+    ],
+    "flagMeaning": "Cờ Barbados có hai dải xanh dương hai bên và một dải vàng ở giữa, kèm hình chiếc đinh ba màu đen."
   },
   "NZ": {
     "tourism": [
@@ -2622,7 +2750,8 @@
     "funFacts": [
       "New Zealand có loài chim kiwi không biết bay, lông mềm như lông thú và là biểu tượng của cả đất nước.",
       "Ở đây có số lượng cừu nhiều gấp khoảng 5 lần số người dân sống trên đảo!"
-    ]
+    ],
+    "flagMeaning": "Cờ New Zealand màu xanh dương, góc trên có cờ nước Anh. Bên phải là bốn ngôi sao đỏ viền trắng tạo thành chòm sao Nam Thập Tự trên bầu trời phương Nam."
   },
   "PG": {
     "tourism": [
@@ -2642,7 +2771,8 @@
     "funFacts": [
       "Đây là nơi sinh sống của chim thiên đường với bộ lông sặc sỡ tuyệt đẹp, được in cả lên lá cờ quốc gia.",
       "Có những bộ tộc trong rừng sâu mà mãi gần đây thế giới bên ngoài mới biết đến!"
-    ]
+    ],
+    "flagMeaning": "Cờ Papua New Guinea chia chéo làm hai: nửa đỏ có hình chim thiên đường đang bay rất đẹp, nửa đen có chòm sao Nam Thập Tự màu trắng."
   },
   "FJ": {
     "tourism": [
@@ -2662,7 +2792,8 @@
     "funFacts": [
       "Fiji có hơn 330 hòn đảo, nhưng chỉ khoảng một phần ba trong số đó có người sinh sống.",
       "Những rạn san hô quanh đảo nhiều màu sắc đến mức người ta gọi nơi đây là thủ đô san hô mềm của thế giới!"
-    ]
+    ],
+    "flagMeaning": "Cờ Fiji màu xanh da trời nhạt như biển và bầu trời, góc trên có cờ nước Anh, bên phải có một tấm khiên với nhiều hình vẽ nhỏ."
   },
   "SB": {
     "tourism": [
@@ -2682,7 +2813,8 @@
     "funFacts": [
       "Đầm Marovo ở đây là đầm nước mặn lớn nhất thế giới được bao quanh bởi vô số đảo san hô.",
       "Quanh đảo có một ngọn núi lửa nằm dưới biển tên Kavachi, thỉnh thoảng phun trào tạo ra cả hòn đảo mới rồi lại biến mất!"
-    ]
+    ],
+    "flagMeaning": "Cờ Quần đảo Solomon có một dải vàng chạy chéo. Góc trên màu xanh dương với năm ngôi sao trắng, góc dưới màu xanh lá cây."
   },
   "VU": {
     "tourism": [
@@ -2702,7 +2834,8 @@
     "funFacts": [
       "Núi lửa Yasur ở đây luôn rực sáng và được gọi là một trong những ngọn núi lửa dễ ngắm nhất thế giới.",
       "Đất nước này có nước biển trong xanh đến nỗi có thể nhìn thấy tận đáy ở nhiều bãi tắm!"
-    ]
+    ],
+    "flagMeaning": "Cờ Vanuatu có màu đỏ, đen và xanh lá cây, cùng một dải vàng hình chữ Y nằm ngang. Bên trái có hình chiếc ngà heo cong và hai chiếc lá màu vàng."
   },
   "WS": {
     "tourism": [
@@ -2722,7 +2855,8 @@
     "funFacts": [
       "Samoa từng đổi múi giờ, nhảy thẳng qua một ngày nên ở đây không hề có ngày 30 tháng 12 năm 2011!",
       "Hố bơi Sua là một hồ nước xanh biếc nằm sâu dưới lòng đất, phải leo thang xuống mới bơi được."
-    ]
+    ],
+    "flagMeaning": "Cờ Samoa màu đỏ, góc trên có một ô màu xanh dương với năm ngôi sao trắng tạo thành chòm sao Nam Thập Tự."
   },
   "TO": {
     "tourism": [
@@ -2742,7 +2876,8 @@
     "funFacts": [
       "Mỗi mùa đông, hàng đàn cá voi lưng gù bơi về vùng biển Tonga để sinh con.",
       "Tonga là một trong những nơi đầu tiên trên Trái Đất đón bình minh mỗi ngày!"
-    ]
+    ],
+    "flagMeaning": "Cờ Tonga màu đỏ, góc trên bên trái có một ô trắng với hình chữ thập đỏ ở giữa."
   },
   "KI": {
     "tourism": [
@@ -2762,7 +2897,8 @@
     "funFacts": [
       "Kiribati trải dài qua cả bốn nửa bán cầu của Trái Đất, là quốc gia duy nhất làm được điều này.",
       "Hầu hết đất nước chỉ là những dải đảo san hô thấp, có nơi chỉ cao hơn mặt biển vài mét thôi!"
-    ]
+    ],
+    "flagMeaning": "Cờ Kiribati nửa trên màu đỏ có một chú chim biển vàng đang bay trên mặt trời mọc, nửa dưới là những làn sóng biển trắng và xanh."
   },
   "PW": {
     "tourism": [
@@ -2782,7 +2918,8 @@
     "funFacts": [
       "Palau có một hồ nước chứa hàng triệu con sứa không hề chích, du khách có thể bơi lội cùng chúng.",
       "Đây là một trong những nơi đầu tiên trên thế giới lập khu bảo tồn cá mập để bảo vệ chúng!"
-    ]
+    ],
+    "flagMeaning": "Cờ Palau màu xanh da trời với một vòng tròn vàng lớn hơi lệch về bên trái, trông giống mặt trăng tròn sáng trên biển."
   },
   "NR": {
     "tourism": [
@@ -2802,7 +2939,8 @@
     "funFacts": [
       "Nauru là quốc gia nhỏ thứ ba thế giới, đi bộ vòng quanh cả đảo chỉ mất vài giờ đồng hồ.",
       "Đây là nước cộng hòa nhỏ nhất hành tinh và không hề có thủ đô chính thức!"
-    ]
+    ],
+    "flagMeaning": "Cờ Nauru màu xanh dương với một dải vàng nằm ngang ở giữa và một ngôi sao trắng lớn ở phía dưới bên trái."
   },
   "HK": {
     "tourism": [
@@ -2822,7 +2960,8 @@
     "funFacts": [
       "Hồng Kông có nhiều tòa nhà chọc trời hơn bất kỳ thành phố nào trên thế giới.",
       "Tàu điện leo núi Peak Tram đưa du khách lên đỉnh núi cao nhất thành phố."
-    ]
+    ],
+    "flagMeaning": "Cờ Hồng Kông có nền màu đỏ với một bông hoa trắng năm cánh xinh đẹp ở chính giữa."
   },
   "BH": {
     "tourism": [
@@ -2841,7 +2980,8 @@
     "funFacts": [
       "Bahrain là một hòn đảo, được nối với Ả Rập Xê Út bằng một cây cầu rất dài trên biển.",
       "Cây Sự Sống là một cái cây cổ thụ sống giữa sa mạc khô cằn suốt hơn 400 năm."
-    ]
+    ],
+    "flagMeaning": "Cờ Bahrain có dải trắng bên trái và phần đỏ lớn bên phải, ngăn cách bằng một đường răng cưa hình năm ngọn."
   },
   "OM": {
     "tourism": [
@@ -2860,7 +3000,8 @@
     "funFacts": [
       "Oman có những con đường mòn dẫn lên các ngọn núi cao nhất bán đảo Ả Rập.",
       "Vùng biển Oman là nơi rùa biển khổng lồ lên bờ đẻ trứng mỗi năm."
-    ]
+    ],
+    "flagMeaning": "Cờ Oman có một dải đỏ dọc bên trái với biểu tượng trắng, cùng ba sọc ngang màu trắng, đỏ và xanh lá."
   },
   "YE": {
     "tourism": [
@@ -2879,7 +3020,8 @@
     "funFacts": [
       "Đảo Socotra của Yemen có cây máu rồng kỳ lạ trông giống chiếc ô khổng lồ.",
       "Thành phố Shibam được gọi là 'Manhattan của sa mạc' vì những tòa nhà đất cao tầng."
-    ]
+    ],
+    "flagMeaning": "Cờ Yemen có ba sọc ngang đơn giản với màu đỏ ở trên, trắng ở giữa và đen ở dưới."
   },
   "SY": {
     "tourism": [
@@ -2898,7 +3040,8 @@
     "funFacts": [
       "Damascus là một trong những thành phố có người sinh sống lâu đời nhất trên Trái Đất.",
       "Syria trồng rất nhiều ô liu để làm dầu ô liu thơm ngon."
-    ]
+    ],
+    "flagMeaning": "Cờ Syria có ba sọc ngang màu đỏ, trắng và đen, với hai ngôi sao xanh lá trên sọc trắng."
   },
   "PS": {
     "tourism": [
@@ -2917,7 +3060,8 @@
     "funFacts": [
       "Jericho được xem là một trong những thành phố cổ xưa nhất thế giới.",
       "Người Palestine làm món đậu hummus thơm ngon từ đậu gà nghiền."
-    ]
+    ],
+    "flagMeaning": "Cờ Palestine có ba sọc ngang màu đen, trắng và xanh lá, cùng một tam giác đỏ bên trái."
   },
   "TM": {
     "tourism": [
@@ -2936,7 +3080,8 @@
     "funFacts": [
       "Turkmenistan có một hố lửa giữa sa mạc cháy suốt nhiều chục năm gọi là 'Cổng Địa Ngục'.",
       "Ngựa Akhal-Teke của nước này có bộ lông sáng bóng lấp lánh như kim loại."
-    ]
+    ],
+    "flagMeaning": "Cờ Turkmenistan có nền xanh lá với một mặt trăng lưỡi liềm trắng, năm ngôi sao trắng và một dải hoa văn thảm dọc bên trái."
   },
   "KG": {
     "tourism": [
@@ -2955,7 +3100,8 @@
     "funFacts": [
       "Hồ Issyk-Kul là một trong những hồ trên núi lớn nhất thế giới và không bao giờ đóng băng.",
       "Hơn 90 phần trăm đất nước Kyrgyzstan được bao phủ bởi núi non."
-    ]
+    ],
+    "flagMeaning": "Cờ Kyrgyzstan có nền đỏ với một mặt trời vàng ở giữa, bên trong mặt trời có hình trang trí đặc biệt."
   },
   "TJ": {
     "tourism": [
@@ -2974,7 +3120,8 @@
     "funFacts": [
       "Tajikistan có đỉnh núi Ismoil Somoni cao gần 7.500 mét, một trong những đỉnh cao nhất Trung Á.",
       "Hơn một nửa đất nước nằm ở độ cao trên 3.000 mét so với mực nước biển."
-    ]
+    ],
+    "flagMeaning": "Cờ Tajikistan có ba sọc ngang màu đỏ, trắng và xanh lá, với một chiếc vương miện vàng và bảy ngôi sao vàng ở giữa."
   },
   "AZ": {
     "tourism": [
@@ -2993,7 +3140,8 @@
     "funFacts": [
       "Azerbaijan có nhiều núi lửa bùn nhất thế giới, phun ra bùn thay vì dung nham.",
       "Thủ đô Baku có ba tòa tháp hình ngọn lửa khổng lồ phát sáng vào ban đêm."
-    ]
+    ],
+    "flagMeaning": "Cờ Azerbaijan có ba sọc ngang màu xanh dương, đỏ và xanh lá, với một mặt trăng lưỡi liềm trắng và một ngôi sao trắng tám cánh."
   },
   "AM": {
     "tourism": [
@@ -3012,7 +3160,8 @@
     "funFacts": [
       "Armenia có bảng chữ cái riêng được tạo ra từ hơn 1.600 năm trước.",
       "Hồ Sevan là một trong những hồ nước ngọt trên núi lớn nhất thế giới."
-    ]
+    ],
+    "flagMeaning": "Cờ Armenia có ba sọc ngang màu đỏ, xanh dương và cam."
   },
   "GE": {
     "tourism": [
@@ -3031,7 +3180,8 @@
     "funFacts": [
       "Gruzia được xem là nơi con người làm rượu vang từ nho sớm nhất trên Trái Đất.",
       "Đất nước này nằm dưới chân dãy núi Kavkaz hùng vĩ."
-    ]
+    ],
+    "flagMeaning": "Cờ Gruzia có nền trắng với một chữ thập đỏ lớn ở giữa và bốn chữ thập đỏ nhỏ ở bốn ô."
   },
   "MD": {
     "tourism": [
@@ -3050,7 +3200,8 @@
     "funFacts": [
       "Moldova có hầm rượu Cricova với những đường hầm dài như cả một thành phố ngầm.",
       "Đất nước này có rất nhiều vườn nho và nổi tiếng về làm rượu vang."
-    ]
+    ],
+    "flagMeaning": "Lá cờ Moldova có ba sọc dọc xanh dương, vàng và đỏ, ở giữa sọc vàng có một huy hiệu nhỏ với hình đại bàng."
   },
   "LI": {
     "tourism": [
@@ -3069,7 +3220,8 @@
     "funFacts": [
       "Liechtenstein nhỏ đến mức bạn có thể đi bộ băng qua cả nước chỉ trong một ngày.",
       "Đây là một trong số ít quốc gia trên thế giới không có sân bay riêng."
-    ]
+    ],
+    "flagMeaning": "Lá cờ Liechtenstein có sọc xanh dương ở trên và sọc đỏ ở dưới, kèm một chiếc vương miện vàng nhỏ ở góc trên."
   },
   "MT": {
     "tourism": [
@@ -3088,7 +3240,8 @@
     "funFacts": [
       "Malta có những ngôi đền bằng đá cổ hơn cả kim tự tháp Ai Cập.",
       "Biển quanh Malta trong xanh đến mức là nơi tuyệt vời để lặn ngắm cá."
-    ]
+    ],
+    "flagMeaning": "Lá cờ Malta có nửa trắng và nửa đỏ, ở góc trên bên trái có hình một huân chương thập tự viền đỏ."
   },
   "SM": {
     "tourism": [
@@ -3107,7 +3260,8 @@
     "funFacts": [
       "San Marino là một trong những nước cộng hòa lâu đời nhất thế giới còn tồn tại.",
       "Cả đất nước nằm gọn trên ngọn núi Titano và được nước Ý bao quanh."
-    ]
+    ],
+    "flagMeaning": "Lá cờ San Marino có sọc trắng ở trên và sọc xanh dương nhạt ở dưới, ở giữa là một huy hiệu nhỏ với ba ngọn tháp."
   },
   "AD": {
     "tourism": [
@@ -3126,7 +3280,8 @@
     "funFacts": [
       "Andorra nằm trên núi cao nên có rất nhiều khu trượt tuyết nổi tiếng.",
       "Đây là một quốc gia nhỏ kẹp giữa hai nước Pháp và Tây Ban Nha."
-    ]
+    ],
+    "flagMeaning": "Lá cờ Andorra có ba sọc dọc xanh dương, vàng và đỏ, ở giữa là một chiếc huy hiệu nhỏ nhiều màu."
   },
   "BA": {
     "tourism": [
@@ -3145,7 +3300,8 @@
     "funFacts": [
       "Cây cầu cổ Stari Most ở thành phố Mostar đã hơn 400 năm tuổi.",
       "Đất nước này có nhiều dòng sông và thác nước xanh trong tuyệt đẹp."
-    ]
+    ],
+    "flagMeaning": "Lá cờ Bosnia và Herzegovina màu xanh dương, có một tam giác vàng và một hàng ngôi sao trắng chạy dọc bên cạnh."
   },
   "ME": {
     "tourism": [
@@ -3164,7 +3320,8 @@
     "funFacts": [
       "Tên Montenegro có nghĩa là 'Núi Đen' trong tiếng Ý.",
       "Vịnh Kotor uốn lượn giữa những ngọn núi trông giống như một vịnh hẹp tuyệt đẹp."
-    ]
+    ],
+    "flagMeaning": "Lá cờ Montenegro màu đỏ viền vàng, ở giữa có hình một con đại bàng hai đầu vàng trông rất nổi bật."
   },
   "MK": {
     "tourism": [
@@ -3183,7 +3340,8 @@
     "funFacts": [
       "Hồ Ohrid là một trong những hồ cổ xưa và sâu nhất châu Âu.",
       "Hồ này có nhiều loài cá và sinh vật chỉ sống riêng ở nơi đây."
-    ]
+    ],
+    "flagMeaning": "Lá cờ Bắc Macedonia màu đỏ với một mặt trời vàng ở giữa, các tia nắng tỏa rộng ra khắp lá cờ."
   },
   "XK": {
     "tourism": [
@@ -3202,7 +3360,8 @@
     "funFacts": [
       "Kosovo là một trong những quốc gia trẻ nhất ở châu Âu.",
       "Dãy núi Sharr là nơi có những đồng cỏ xanh và các khu trượt tuyết."
-    ]
+    ],
+    "flagMeaning": "Lá cờ Kosovo màu xanh dương, ở giữa có hình bản đồ đất nước màu vàng và sáu ngôi sao trắng phía trên."
   },
   "CY": {
     "tourism": [
@@ -3221,7 +3380,8 @@
     "funFacts": [
       "Síp là một hòn đảo nắng ấm quanh năm với rất nhiều bãi biển đẹp.",
       "Phô mai halloumi nổi tiếng của Síp có thể nướng mà không bị chảy."
-    ]
+    ],
+    "flagMeaning": "Lá cờ Cộng hòa Síp màu trắng, ở giữa có hình hòn đảo màu đồng (vàng cam) và hai nhánh ô liu xanh tượng trưng cho hòa bình."
   },
   "CV": {
     "tourism": [
@@ -3240,7 +3400,8 @@
     "funFacts": [
       "Cabo Verde gồm mười hòn đảo nằm rải rác giữa Đại Tây Dương.",
       "Đảo Fogo có một ngọn núi lửa cao mà người dân vẫn trồng nho ở gần đó."
-    ]
+    ],
+    "flagMeaning": "Cờ Cabo Verde màu xanh dương, có dải trắng đỏ nằm ngang và một vòng tròn gồm mười ngôi sao vàng."
   },
   "BZ": {
     "tourism": [
@@ -3259,7 +3420,8 @@
     "funFacts": [
       "Belize có 'Hố Xanh Khổng Lồ', một hố tròn sâu thẳm dưới biển nhìn từ trên cao rất đẹp.",
       "Rạn san hô của Belize là một trong những rạn san hô lớn nhất thế giới."
-    ]
+    ],
+    "flagMeaning": "Cờ Belize màu xanh dương với hai dải đỏ trên dưới, ở giữa là hình huy hiệu tròn có hai người và cây cối."
   },
   "GY": {
     "tourism": [
@@ -3278,7 +3440,8 @@
     "funFacts": [
       "Thác Kaieteur của Guyana cao gấp nhiều lần thác Niagara nổi tiếng.",
       "Phần lớn đất nước được bao phủ bởi rừng mưa nhiệt đới rậm rạp."
-    ]
+    ],
+    "flagMeaning": "Cờ Guyana có hình mũi tên màu vàng và đỏ trên nền xanh lá, nên còn được gọi vui là 'Mũi tên vàng'."
   },
   "SR": {
     "tourism": [
@@ -3297,7 +3460,8 @@
     "funFacts": [
       "Suriname là quốc gia có diện tích nhỏ nhất ở Nam Mỹ.",
       "Hơn 90 phần trăm đất nước được phủ kín bởi rừng mưa nhiệt đới xanh tươi."
-    ]
+    ],
+    "flagMeaning": "Cờ Suriname có các dải xanh lá, trắng, đỏ, trắng, xanh lá, với một ngôi sao vàng lớn ở chính giữa."
   },
   "SS": {
     "tourism": [
@@ -3316,7 +3480,8 @@
     "funFacts": [
       "Nam Sudan là một trong những quốc gia trẻ nhất thế giới.",
       "Hàng triệu con linh dương di cư qua đồng bằng nơi đây mỗi năm."
-    ]
+    ],
+    "flagMeaning": "Cờ Nam Sudan có nhiều dải màu đen, đỏ, xanh lá cùng tam giác xanh dương, trong tam giác có ngôi sao vàng tươi sáng."
   },
   "ER": {
     "tourism": [
@@ -3335,7 +3500,8 @@
     "funFacts": [
       "Eritrea nằm bên bờ Biển Đỏ xanh biếc đầy san hô.",
       "Thủ đô Asmara có nhiều tòa nhà cổ rất đẹp được bảo tồn."
-    ]
+    ],
+    "flagMeaning": "Cờ Eritrea có một tam giác đỏ lớn ở giữa, cùng các vùng màu xanh lá và xanh dương, kèm hình cành ô liu vàng."
   },
   "DJ": {
     "tourism": [
@@ -3354,7 +3520,8 @@
     "funFacts": [
       "Hồ Assal là điểm thấp nhất châu Phi và mặn hơn cả biển.",
       "Djibouti có những cột muối trắng kỳ lạ mọc lên từ mặt hồ."
-    ]
+    ],
+    "flagMeaning": "Cờ Djibouti có hai dải xanh dương và xanh lá, một tam giác trắng ở cán cờ với ngôi sao đỏ bên trong."
   },
   "BI": {
     "tourism": [
@@ -3373,7 +3540,8 @@
     "funFacts": [
       "Hồ Tanganyika là một trong những hồ sâu nhất thế giới.",
       "Burundi nằm giữa những ngọn đồi xanh nên được gọi là vùng đất ngàn đồi."
-    ]
+    ],
+    "flagMeaning": "Cờ Burundi có hình chữ X trắng chia nền thành các vùng đỏ và xanh lá, ở giữa có ba ngôi sao đỏ."
   },
   "BF": {
     "tourism": [
@@ -3392,7 +3560,8 @@
     "funFacts": [
       "Hồ Tengrela có những chú hà mã sống cùng người dân hiền hòa.",
       "Burkina Faso nổi tiếng với những bức tượng đồng và mặt nạ gỗ tinh xảo."
-    ]
+    ],
+    "flagMeaning": "Cờ Burkina Faso có hai dải đỏ và xanh lá, ở giữa là một ngôi sao vàng năm cánh."
   },
   "NE": {
     "tourism": [
@@ -3411,7 +3580,8 @@
     "funFacts": [
       "Niger có những con hươu cao cổ cuối cùng ở Tây Phi.",
       "Phần lớn đất nước là sa mạc Sahara mênh mông cát vàng."
-    ]
+    ],
+    "flagMeaning": "Cờ Niger có ba dải cam, trắng, xanh lá nằm ngang, ở giữa dải trắng có một vòng tròn cam như mặt trời."
   },
   "TD": {
     "tourism": [
@@ -3430,7 +3600,8 @@
     "funFacts": [
       "Vườn quốc gia Zakouma là nơi sống của nhiều đàn voi lớn.",
       "Cao nguyên Ennedi có những cổng đá tự nhiên cao vút rất kỳ vĩ."
-    ]
+    ],
+    "flagMeaning": "Cờ Tchad có ba dải đứng màu xanh dương, vàng và đỏ."
   },
   "CF": {
     "tourism": [
@@ -3449,7 +3620,8 @@
     "funFacts": [
       "Khu rừng nơi đây là nhà của loài khỉ đột đất thấp quý hiếm.",
       "Voi rừng thường ra bãi đất trống để liếm khoáng chất."
-    ]
+    ],
+    "flagMeaning": "Cờ Cộng hòa Trung Phi có bốn dải ngang xanh dương, trắng, xanh lá, vàng và một dải đỏ dọc ở giữa, kèm ngôi sao vàng."
   },
   "CG": {
     "tourism": [
@@ -3468,7 +3640,8 @@
     "funFacts": [
       "Rừng mưa Congo là khu rừng lớn thứ hai thế giới.",
       "Sông Congo là một trong những con sông sâu nhất hành tinh."
-    ]
+    ],
+    "flagMeaning": "Cờ Cộng hòa Congo có dải chéo vàng chia nền thành vùng xanh lá và vùng đỏ."
   },
   "GA": {
     "tourism": [
@@ -3487,7 +3660,8 @@
     "funFacts": [
       "Gabon dành gần một phần mười diện tích làm vườn quốc gia bảo vệ thiên nhiên.",
       "Đây là nơi hiếm hoi thấy hà mã bơi ngoài biển."
-    ]
+    ],
+    "flagMeaning": "Cờ Gabon có ba dải ngang màu xanh lá, vàng và xanh dương."
   },
   "GQ": {
     "tourism": [
@@ -3506,7 +3680,8 @@
     "funFacts": [
       "Rùa biển khổng lồ về đẻ trứng trên các bãi biển nơi đây.",
       "Đảo Bioko có những chú khỉ với khuôn mặt nhiều màu rất đặc biệt."
-    ]
+    ],
+    "flagMeaning": "Cờ Guinea Xích Đạo có ba dải xanh lá, trắng, đỏ và một tam giác xanh dương ở cán cờ."
   },
   "MW": {
     "tourism": [
@@ -3525,7 +3700,8 @@
     "funFacts": [
       "Hồ Malawi có nhiều loài cá nhiều màu hơn bất kỳ hồ nào trên thế giới.",
       "Người dân thân thiện nên Malawi được gọi là trái tim ấm áp của châu Phi."
-    ]
+    ],
+    "flagMeaning": "Cờ Malawi có ba dải đen, đỏ, xanh lá, trên dải đen có hình mặt trời đỏ đang mọc."
   },
   "LS": {
     "tourism": [
@@ -3544,7 +3720,8 @@
     "funFacts": [
       "Lesotho là nước duy nhất có toàn bộ lãnh thổ cao trên 1000 mét.",
       "Vào mùa đông, tuyết trắng phủ kín những ngọn núi nơi đây."
-    ]
+    ],
+    "flagMeaning": "Cờ Lesotho có ba dải xanh dương, trắng, xanh lá, ở giữa là hình chiếc mũ truyền thống màu đen."
   },
   "SZ": {
     "tourism": [
@@ -3563,7 +3740,8 @@
     "funFacts": [
       "Núi Sibebe là một trong những khối đá lớn nhất thế giới.",
       "Eswatini là một trong những vương quốc cuối cùng còn lại ở châu Phi."
-    ]
+    ],
+    "flagMeaning": "Cờ Eswatini có nhiều dải màu xanh dương, vàng, đỏ, ở giữa là hình chiếc khiên, giáo và gậy truyền thống."
   },
   "SC": {
     "tourism": [
@@ -3582,7 +3760,8 @@
     "funFacts": [
       "Nơi đây có loài dừa biển nặng nhất thế giới với hạt khổng lồ.",
       "Rùa khổng lồ Aldabra sống ở Seychelles có thể thọ hơn trăm tuổi."
-    ]
+    ],
+    "flagMeaning": "Cờ Seychelles có năm dải màu xanh dương, vàng, đỏ, trắng, xanh lá tỏa ra từ một góc như tia nắng."
   },
   "GM": {
     "tourism": [
@@ -3601,7 +3780,8 @@
     "funFacts": [
       "Gambia là quốc gia nhỏ nhất ở lục địa châu Phi.",
       "Dòng sông Gambia chảy dài xuyên suốt gần hết đất nước."
-    ]
+    ],
+    "flagMeaning": "Cờ Gambia có ba dải đỏ, xanh dương, xanh lá, ngăn cách bởi hai đường viền trắng mỏng."
   },
   "GN": {
     "tourism": [
@@ -3620,7 +3800,8 @@
     "funFacts": [
       "Nhiều con sông lớn của Tây Phi đều bắt nguồn từ vùng núi Guinea.",
       "Núi Nimba là nơi sống của nhiều loài vật quý hiếm."
-    ]
+    ],
+    "flagMeaning": "Cờ Guinea có ba dải đứng màu đỏ, vàng và xanh lá, là những màu liên Phi."
   },
   "GW": {
     "tourism": [
@@ -3639,7 +3820,8 @@
     "funFacts": [
       "Quần đảo Bijagós có nhóm hà mã hiếm hoi sống ở vùng nước mặn.",
       "Rùa biển về đẻ trứng trên các bãi cát của quần đảo này."
-    ]
+    ],
+    "flagMeaning": "Cờ Guinea-Bissau có dải đỏ đứng với ngôi sao đen, cùng hai dải ngang màu vàng và xanh lá."
   },
   "SL": {
     "tourism": [
@@ -3658,7 +3840,8 @@
     "funFacts": [
       "Bãi biển ở Sierra Leone có cát trắng mịn và nước biển trong xanh.",
       "Khu bảo tồn Tacugama cứu giúp những chú tinh tinh mồ côi."
-    ]
+    ],
+    "flagMeaning": "Cờ Sierra Leone có ba dải ngang màu xanh lá, trắng và xanh dương."
   },
   "LR": {
     "tourism": [
@@ -3677,7 +3860,8 @@
     "funFacts": [
       "Vườn quốc gia Sapo là khu rừng mưa lớn nhất của Liberia.",
       "Hà mã lùn quý hiếm sống trong những khu rừng rậm nơi đây."
-    ]
+    ],
+    "flagMeaning": "Cờ Liberia có nhiều sọc đỏ và trắng, góc trên là ô vuông xanh dương với một ngôi sao trắng."
   },
   "TG": {
     "tourism": [
@@ -3696,7 +3880,8 @@
     "funFacts": [
       "Những ngôi nhà tháp đất ở Koutammakou rất nổi tiếng và được bảo vệ.",
       "Togo có bờ biển đẹp với hàng cọ dừa rợp bóng."
-    ]
+    ],
+    "flagMeaning": "Cờ Togo có các sọc xanh lá và vàng, góc trên là ô vuông đỏ với một ngôi sao trắng."
   },
   "BJ": {
     "tourism": [
@@ -3715,7 +3900,8 @@
     "funFacts": [
       "Làng nổi Ganvié được gọi là Venice của châu Phi.",
       "Vườn quốc gia Pendjari có sư tử, voi và nhiều thú hoang dã."
-    ]
+    ],
+    "flagMeaning": "Cờ Benin có dải xanh lá đứng ở cán cờ, cùng hai dải ngang màu vàng và đỏ, đều là màu liên Phi."
   },
   "MR": {
     "tourism": [
@@ -3734,7 +3920,8 @@
     "funFacts": [
       "Mắt Sahara là vòng tròn đá rộng tới mức phi hành gia nhìn thấy từ trên cao.",
       "Hàng triệu con chim biển trú đông ở vườn quốc gia Banc d'Arguin."
-    ]
+    ],
+    "flagMeaning": "Cờ Mauritania màu xanh lá, ở giữa có hình trăng lưỡi liềm và ngôi sao vàng, kèm hai dải đỏ trên dưới."
   },
   "FM": {
     "tourism": [
@@ -3753,7 +3940,8 @@
     "funFacts": [
       "Nan Madol là thành phố đá cổ được xây trên hơn chín mươi hòn đảo nhỏ.",
       "Ở đảo Yap, người xưa dùng những đồng tiền bằng đá khổng lồ."
-    ]
+    ],
+    "flagMeaning": "Cờ Micronesia màu xanh da trời như đại dương, ở giữa có bốn ngôi sao trắng xếp thành hình ngôi sao lớn, tượng trưng cho các nhóm đảo."
   },
   "MH": {
     "tourism": [
@@ -3772,7 +3960,8 @@
     "funFacts": [
       "Quần đảo Marshall gồm hàng nghìn đảo nhỏ và đảo san hô vòng.",
       "Người xưa biết đọc sóng biển để tìm đường giữa đại dương mênh mông."
-    ]
+    ],
+    "flagMeaning": "Cờ Quần đảo Marshall màu xanh dương với hai dải màu cam và trắng chạy chéo lên, cùng một ngôi sao trắng nhiều cánh ở góc trên."
   },
   "TV": {
     "tourism": [
@@ -3791,6 +3980,7 @@
     "funFacts": [
       "Tuvalu là một trong những quốc gia nhỏ nhất thế giới.",
       "Đất nước này gồm các đảo san hô vòng thấp nổi giữa Thái Bình Dương."
-    ]
+    ],
+    "flagMeaning": "Cờ Tuvalu màu xanh da trời, góc trên có cờ nước Anh, bên phải có chín ngôi sao vàng đại diện cho chín hòn đảo của đất nước."
   }
 }

@@ -106,11 +106,18 @@ export function CountryDetailPage() {
         </div>
       </div>
 
-      <div class="grid grid-cols-3 gap-3 mb-8">
+      <div class="grid grid-cols-3 gap-3 mb-6">
         <${InfoStat} icon="🏛️" label="Thủ đô" value=${country.capital} />
         <${InfoStat} icon="🌍" label="Châu lục" value=${country.continentVi} />
         <${InfoStat} icon="📐" label="Diện tích" value=${areaText} />
       </div>
+
+      ${country.flagMeaning &&
+      html`<div class="mb-6">
+        <${Section} icon="🎨" title="Ý nghĩa lá cờ">
+          <p class="leading-relaxed">${country.flagMeaning}</p>
+        <//>
+      </div>`}
 
       ${country.hasExtra
         ? html`
