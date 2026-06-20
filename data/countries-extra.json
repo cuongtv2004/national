@@ -361,7 +361,7 @@
   "BR": {
     "tourism": [
       "Tượng Chúa Cứu Thế",
-      "Bãi biển Copacabana",
+      "Copacabana (Rio de Janeiro)",
       "Thác Iguazu",
       "Rừng Amazon"
     ],
@@ -712,8 +712,8 @@
     "culture": "Người Đông Timor dệt những tấm vải truyền thống đầy màu sắc gọi là Tais, mỗi vùng có hoa văn riêng rất đẹp!",
     "cultureImage": "Vải Tais",
     "food": [
-      "Ikan sabuko",
-      "Batar daan",
+      "Cà phê",
+      "Satay",
       "Cà phê Đông Timor",
       "Cơm dừa"
     ],
@@ -773,7 +773,7 @@
     "cultureImage": "Pháo đài Sigiriya",
     "food": [
       "Cơm cà ri",
-      "Hoppers",
+      "Appam",
       "Kottu",
       "Trà Ceylon"
     ],
@@ -1713,7 +1713,7 @@
     "cultureImage": "Sa mạc Sahara",
     "food": [
       "Couscous",
-      "Bazin",
+      "Couscous",
       "Bánh mì",
       "Trà"
     ],
@@ -1735,7 +1735,7 @@
       "Injera",
       "Doro Wat",
       "Cà phê",
-      "Tibs"
+      "Kitfo"
     ],
     "funFacts": [
       "Ethiopia được cho là nơi cây cà phê được phát hiện đầu tiên trên thế giới!",
@@ -1994,7 +1994,7 @@
     "food": [
       "Seswaa",
       "Pap",
-      "Đậu Morogo",
+      "Seswaa",
       "Thịt bò"
     ],
     "funFacts": [
@@ -2015,7 +2015,7 @@
       "Thịt nướng Braai",
       "Pap",
       "Biltong",
-      "Kapana"
+      "Braai"
     ],
     "funFacts": [
       "Namibia có những cồn cát đỏ cao nhất thế giới, có cồn cao hơn cả 300 mét!",
@@ -2047,7 +2047,7 @@
       "Bãi biển Le Morne",
       "Đất Bảy Màu Chamarel",
       "Thác Chamarel",
-      "Vườn bách thảo Pamplemousses"
+      "Le Morne Brabant"
     ],
     "culture": "Người Mauritius sống trên hòn đảo nhiệt đới xinh đẹp giữa biển xanh với nhiều nền văn hóa hòa quyện!",
     "cultureImage": "Đất Bảy Màu Chamarel",
@@ -2207,13 +2207,13 @@
   },
   "CO": {
     "tourism": [
-      "Thành phố Cartagena",
+      "Cartagena de Indias",
       "Vùng cà phê Colombia",
       "Sông Caño Cristales",
       "Thủ đô Bogotá"
     ],
     "culture": "Người Colombia yêu thích điệu nhảy Cumbia sôi động và rất tự hào về cà phê thơm ngon của mình.",
-    "cultureImage": "Cumbia",
+    "cultureImage": "Sombrero vueltiao",
     "food": [
       "Món Bandeja paisa",
       "Bánh ngô Arepa",
@@ -2339,7 +2339,7 @@
       "Thành phố Trinidad"
     ],
     "culture": "Người Cuba mê điệu nhảy Salsa và âm nhạc Son, họ thường chạy những chiếc ô tô cổ đầy màu sắc.",
-    "cultureImage": "Salsa",
+    "cultureImage": "Tumbadora",
     "food": [
       "Cơm đậu Moros y Cristianos",
       "Bánh mì Cubano",
@@ -2491,7 +2491,7 @@
       "Món Baleada",
       "Bánh ngô Tamale",
       "Cơm chiên Carne asada",
-      "Súp Sopa de caracol"
+      "Baleada"
     ],
     "funFacts": [
       "Đền Copán là thành phố cổ của người Maya với nhiều tượng đá chạm khắc tinh xảo.",
@@ -2586,7 +2586,7 @@
   "BB": {
     "tourism": [
       "Hang động Harrison's Cave",
-      "Bãi biển Crane",
+      "Bridgetown",
       "Thủ đô Bridgetown",
       "Vịnh Carlisle"
     ],
@@ -2692,7 +2692,7 @@
       "Thác Mele"
     ],
     "culture": "Ở Vanuatu có tục nhảy từ tháp gỗ cao với dây leo buộc ở chân, đây chính là trò nhảy bungee đầu tiên trên thế giới!",
-    "cultureImage": "Nhảy đất Naghol",
+    "cultureImage": "Land diving",
     "food": [
       "Laplap",
       "Khoai môn",
@@ -3076,7 +3076,7 @@
       "Thủ đô Valletta",
       "Đảo Gozo",
       "Đền cổ Megalithic",
-      "Bãi biển Đầm Xanh (Blue Lagoon)"
+      "Comino"
     ],
     "culture": "Malta là một đảo quốc nhỏ giữa biển Địa Trung Hải với làn nước xanh trong vắt như pha lê!",
     "cultureImage": "Bãi biển Đầm Xanh",
@@ -3187,7 +3187,7 @@
   },
   "XK": {
     "tourism": [
-      "Thác nước Mirusha",
+      "Prizren",
       "Thủ đô Pristina",
       "Dãy núi Sharr",
       "Thành phố cổ Prizren"
@@ -3196,7 +3196,7 @@
     "cultureImage": "Dãy núi Sharr",
     "food": [
       "Bánh flia",
-      "Thịt cuộn qebapa",
+      "Ćevapi",
       "Bánh burek"
     ],
     "funFacts": [
@@ -3301,7 +3301,7 @@
   },
   "SS": {
     "tourism": [
-      "Vườn quốc gia Boma",
+      "Sông Nin Trắng",
       "Sông Nin Trắng",
       "Vườn quốc gia Bandingilo",
       "Thác Fula"
@@ -3329,7 +3329,7 @@
     "cultureImage": "Cà phê",
     "food": [
       "Bánh injera",
-      "Món zigni cay",
+      "Injera",
       "Bánh mì"
     ],
     "funFacts": [
@@ -3455,7 +3455,7 @@
     "tourism": [
       "Vườn quốc gia Odzala",
       "Sông Congo",
-      "Thác Loufoulakari",
+      "Sông Congo",
       "Rừng nhiệt đới"
     ],
     "culture": "Cộng hòa Congo có khu rừng mưa rộng lớn với khỉ đột và rất nhiều loài chim.",
@@ -3551,7 +3551,7 @@
       "Khu bảo tồn Mlilwane",
       "Thung lũng Ezulwini",
       "Núi Sibebe",
-      "Vườn quốc gia Hlane"
+      "Mbabane"
     ],
     "culture": "Eswatini có lễ hội nhảy múa với hoa lau rực rỡ rất đông vui và náo nhiệt.",
     "cultureImage": "Lễ hội",
@@ -3589,7 +3589,7 @@
       "Sông Gambia",
       "Khu bảo tồn Abuko",
       "Đảo Kunta Kinteh",
-      "Bãi biển Kotu"
+      "Sông Gambia"
     ],
     "culture": "Gambia là thiên đường ngắm chim với hàng trăm loài chim đủ màu sắc rực rỡ.",
     "cultureImage": "Chim",
@@ -3646,7 +3646,7 @@
       "Bãi biển Tokeh",
       "Đảo Banana",
       "Vườn quốc gia Outamba-Kilimi",
-      "Khu bảo tồn tinh tinh Tacugama"
+      "Tinh tinh"
     ],
     "culture": "Sierra Leone có khu bảo tồn nơi những chú tinh tinh được chăm sóc yêu thương.",
     "cultureImage": "Tinh tinh",
