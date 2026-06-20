@@ -1,0 +1,292 @@
+{
+  "VN": {
+    "tourism": ["Vịnh Hạ Long", "Phố cổ Hội An", "Đảo Phú Quốc", "Phong Nha - Kẻ Bàng"],
+    "culture": "Áo dài, nón lá, múa rối nước, Tết Nguyên Đán và truyền thuyết bánh chưng bánh giầy.",
+    "food": ["Phở", "Bánh mì", "Bún chả", "Nem rán", "Cơm tấm"],
+    "funFacts": [
+      "Việt Nam có hơn 3.000 km bờ biển tuyệt đẹp!",
+      "Hang Sơn Đoòng ở Việt Nam là hang động lớn nhất thế giới, to đến mức chứa được cả một tòa nhà chọc trời!",
+      "Việt Nam có 54 dân tộc anh em cùng chung sống."
+    ]
+  },
+  "TH": {
+    "tourism": ["Đền Wat Arun", "Đảo Phuket", "Cố đô Ayutthaya", "Chợ nổi Bangkok"],
+    "culture": "Đất nước của những ngôi chùa vàng, lễ hội té nước Songkran và điệu múa truyền thống.",
+    "food": ["Tom Yum", "Pad Thai", "Xôi xoài", "Cà ri xanh"],
+    "funFacts": [
+      "Thái Lan được gọi là 'Xứ sở nụ cười'.",
+      "Thái Lan là nước duy nhất ở Đông Nam Á chưa từng bị nước ngoài đô hộ.",
+      "Voi là loài vật biểu tượng thiêng liêng của Thái Lan."
+    ]
+  },
+  "JP": {
+    "tourism": ["Núi Phú Sĩ", "Cố đô Kyoto", "Tháp Tokyo", "Công viên hươu Nara"],
+    "culture": "Quê hương của manga, anime, trà đạo, kimono và hoa anh đào.",
+    "food": ["Sushi", "Ramen", "Tempura", "Takoyaki", "Mochi"],
+    "funFacts": [
+      "Nhật Bản có hơn 6.800 hòn đảo!",
+      "Tàu cao tốc Shinkansen chạy nhanh tới hơn 300 km/h.",
+      "Ở Nhật có nhiều máy bán hàng tự động hơn bất kỳ nước nào — bán cả kem và mì nóng!"
+    ]
+  },
+  "KR": {
+    "tourism": ["Cung điện Gyeongbokgung", "Đảo Jeju", "Tháp Namsan Seoul", "Làng Hanok Bukchon"],
+    "culture": "Xứ sở của K-pop, phim Hàn, trang phục Hanbok và võ Taekwondo.",
+    "food": ["Kimchi", "Bibimbap", "Tteokbokki", "Mì lạnh", "Gà rán Hàn Quốc"],
+    "funFacts": [
+      "Taekwondo — môn võ nổi tiếng thế giới — ra đời ở Hàn Quốc.",
+      "Người Hàn ăn kimchi gần như mỗi bữa, có hàng trăm loại kimchi khác nhau!",
+      "Seoul có hệ thống internet nhanh bậc nhất thế giới."
+    ]
+  },
+  "CN": {
+    "tourism": ["Vạn Lý Trường Thành", "Tử Cấm Thành", "Đội quân đất nung", "Núi Trương Gia Giới"],
+    "culture": "Đất nước của gấu trúc, võ Kung Fu, Tết Trung Thu và phát minh ra giấy, la bàn.",
+    "food": ["Vịt quay Bắc Kinh", "Sủi cảo", "Mì kéo tay", "Đậu phụ Tứ Xuyên"],
+    "funFacts": [
+      "Vạn Lý Trường Thành dài hơn 21.000 km — dài nhất thế giới!",
+      "Gấu trúc chỉ sống tự nhiên ở Trung Quốc và ăn tre cả ngày.",
+      "Người Trung Quốc phát minh ra pháo hoa, giấy và la bàn."
+    ]
+  },
+  "SG": {
+    "tourism": ["Vịnh Marina", "Gardens by the Bay", "Đảo Sentosa", "Sở thú đêm Singapore"],
+    "culture": "Đảo quốc hiện đại, sạch đẹp, nơi gặp gỡ của nhiều nền văn hóa Á Đông.",
+    "food": ["Cơm gà Hải Nam", "Cua sốt ớt", "Laksa", "Bánh Kaya"],
+    "funFacts": [
+      "Singapore là một trong những thành phố sạch nhất thế giới.",
+      "Cây Siêu Cây (Supertree) ở Singapore phát sáng lung linh mỗi tối!",
+      "Singapore nhỏ tới mức bạn có thể đi hết đất nước trong một ngày."
+    ]
+  },
+  "MY": {
+    "tourism": ["Tháp đôi Petronas", "Đảo Langkawi", "Cao nguyên Cameron", "Động Batu"],
+    "culture": "Đất nước đa sắc tộc với người Mã Lai, Hoa, Ấn cùng chung sống vui vẻ.",
+    "food": ["Cơm Nasi Lemak", "Satay", "Laksa", "Roti Canai"],
+    "funFacts": [
+      "Tháp đôi Petronas từng là tòa nhà cao nhất thế giới.",
+      "Rừng mưa Malaysia là một trong những khu rừng cổ nhất Trái Đất.",
+      "Hoa Rafflesia khổng lồ ở đây có thể to bằng cái bánh xe!"
+    ]
+  },
+  "ID": {
+    "tourism": ["Đảo Bali", "Đền Borobudur", "Núi lửa Bromo", "Đảo Komodo"],
+    "culture": "Quốc gia gồm hàng nghìn hòn đảo với múa truyền thống và rối bóng Wayang.",
+    "food": ["Cơm rang Nasi Goreng", "Satay", "Rendang", "Gado-Gado"],
+    "funFacts": [
+      "Indonesia có hơn 17.000 hòn đảo — nhiều nhất thế giới!",
+      "Rồng Komodo — loài thằn lằn lớn nhất Trái Đất — chỉ sống ở Indonesia.",
+      "Đây là nơi có nhiều núi lửa đang hoạt động nhất thế giới."
+    ]
+  },
+  "PH": {
+    "tourism": ["Đảo Palawan", "Ruộng bậc thang Banaue", "Núi Chocolate Hills", "Biển Boracay"],
+    "culture": "Đất nước 7.000 hòn đảo, nổi tiếng thân thiện và mê ca hát.",
+    "food": ["Adobo", "Lechon", "Halo-Halo", "Lumpia"],
+    "funFacts": [
+      "Philippines có hơn 7.640 hòn đảo!",
+      "Cá thòi lòi và loài khỉ mắt to Tarsier tí hon sống ở đây.",
+      "Người Philippines rất mê hát karaoke."
+    ]
+  },
+  "IN": {
+    "tourism": ["Đền Taj Mahal", "Pháo đài Đỏ", "Sông Hằng", "Cung điện Jaipur"],
+    "culture": "Cái nôi của Phật giáo, yoga, lễ hội sắc màu Holi và những bộ phim Bollywood.",
+    "food": ["Cà ri", "Bánh Naan", "Cơm Biryani", "Samosa"],
+    "funFacts": [
+      "Đền Taj Mahal được xây hoàn toàn bằng đá cẩm thạch trắng.",
+      "Số 0 và hệ đếm hiện đại có nguồn gốc từ Ấn Độ.",
+      "Ấn Độ là nơi yoga ra đời từ hàng nghìn năm trước."
+    ]
+  },
+  "US": {
+    "tourism": ["Tượng Nữ thần Tự do", "Hẻm núi Grand Canyon", "Disneyland", "Cầu Cổng Vàng"],
+    "culture": "Quê hương của Hollywood, siêu anh hùng, nhạc Jazz và môn bóng bầu dục.",
+    "food": ["Hamburger", "Hot dog", "Bánh Pizza kiểu Mỹ", "Bắp rang bơ"],
+    "funFacts": [
+      "Tượng Nữ thần Tự do là món quà nước Pháp tặng nước Mỹ.",
+      "Công viên Yellowstone có mạch nước phun nóng phun cao như tòa nhà!",
+      "Bang Alaska rộng lớn có băng tuyết quanh năm."
+    ]
+  },
+  "GB": {
+    "tourism": ["Tháp đồng hồ Big Ben", "Cung điện Buckingham", "Bãi đá Stonehenge", "Vòng quay London Eye"],
+    "culture": "Đất nước của Nữ hoàng, Harry Potter, đội cận vệ mũ lông và trà chiều.",
+    "food": ["Fish and Chips", "Bánh nướng thịt", "Bánh Scone", "Trà chiều"],
+    "funFacts": [
+      "London từng là thành phố lớn nhất thế giới.",
+      "Truyện Harry Potter được viết ở nước Anh.",
+      "Người Anh rất thích uống trà — mỗi ngày cả nước uống hàng triệu tách!"
+    ]
+  },
+  "FR": {
+    "tourism": ["Tháp Eiffel", "Bảo tàng Louvre", "Lâu đài Versailles", "Disneyland Paris"],
+    "culture": "Kinh đô thời trang, hội họa, và quê hương của những chiếc bánh mì baguette.",
+    "food": ["Bánh sừng bò Croissant", "Bánh mì Baguette", "Phô mai", "Bánh Macaron"],
+    "funFacts": [
+      "Tháp Eiffel cao 330 mét và sáng đèn lấp lánh mỗi tối.",
+      "Bảo tàng Louvre là bảo tàng được ghé thăm nhiều nhất thế giới.",
+      "Nước Pháp có hơn 1.000 loại phô mai khác nhau!"
+    ]
+  },
+  "DE": {
+    "tourism": ["Lâu đài Neuschwanstein", "Cổng Brandenburg", "Rừng Đen", "Sông Rhine"],
+    "culture": "Quê hương của xe hơi, nhạc cổ điển Beethoven và lễ hội bia Oktoberfest.",
+    "food": ["Xúc xích", "Bánh quy xoắn Pretzel", "Bánh mì đen", "Bánh Schnitzel"],
+    "funFacts": [
+      "Chiếc ô tô đầu tiên trên thế giới được phát minh ở Đức.",
+      "Lâu đài Neuschwanstein là hình mẫu cho lâu đài Disney.",
+      "Đức có hơn 1.500 loại xúc xích!"
+    ]
+  },
+  "IT": {
+    "tourism": ["Đấu trường Colosseum", "Tháp nghiêng Pisa", "Thành phố Venice", "Núi lửa Vesuvius"],
+    "culture": "Cái nôi của đế chế La Mã, nghệ thuật Phục Hưng và món pizza, mì Ý.",
+    "food": ["Pizza", "Mì Spaghetti", "Kem Gelato", "Bánh Tiramisu"],
+    "funFacts": [
+      "Pizza và mì Ý ra đời ở nước Ý.",
+      "Tháp Pisa nghiêng nhưng đã đứng vững suốt hơn 800 năm!",
+      "Thành phố Venice nổi trên mặt nước, người ta đi lại bằng thuyền."
+    ]
+  },
+  "ES": {
+    "tourism": ["Nhà thờ Sagrada Familia", "Cung điện Alhambra", "Công viên Güell", "Bãi biển Ibiza"],
+    "culture": "Đất nước của điệu nhảy Flamenco, lễ hội cà chua và bóng đá cuồng nhiệt.",
+    "food": ["Cơm Paella", "Bánh Churros", "Tapas", "Giăm bông Jamón"],
+    "funFacts": [
+      "Lễ hội ném cà chua La Tomatina cực kỳ vui và lộn xộn!",
+      "Nhà thờ Sagrada Familia đã được xây hơn 140 năm mà vẫn chưa xong.",
+      "Người Tây Ban Nha thường ăn tối rất muộn, có khi 10 giờ đêm."
+    ]
+  },
+  "RU": {
+    "tourism": ["Quảng trường Đỏ", "Nhà thờ Thánh Basil", "Cung điện Mùa Đông", "Hồ Baikal"],
+    "culture": "Đất nước rộng lớn nhất thế giới với múa ballet và búp bê gỗ Matryoshka.",
+    "food": ["Súp củ dền Borscht", "Bánh xèo Blini", "Bánh Pirozhki"],
+    "funFacts": [
+      "Nga là quốc gia rộng lớn nhất thế giới, trải dài 11 múi giờ!",
+      "Hồ Baikal là hồ nước ngọt sâu nhất Trái Đất.",
+      "Búp bê Matryoshka lồng nhau là món đồ chơi nổi tiếng của Nga."
+    ]
+  },
+  "BR": {
+    "tourism": ["Tượng Chúa Cứu Thế", "Bãi biển Copacabana", "Thác Iguazu", "Rừng Amazon"],
+    "culture": "Quê hương của lễ hội Carnival rực rỡ, vũ điệu Samba và bóng đá lừng danh.",
+    "food": ["Thịt nướng Churrasco", "Feijoada", "Bánh phô mai Pão de Queijo"],
+    "funFacts": [
+      "Rừng Amazon ở Brazil là rừng mưa nhiệt đới lớn nhất thế giới.",
+      "Brazil đã 5 lần vô địch World Cup — nhiều nhất thế giới!",
+      "Lễ hội Carnival ở Rio là bữa tiệc đường phố lớn nhất hành tinh."
+    ]
+  },
+  "AU": {
+    "tourism": ["Nhà hát Opera Sydney", "Rạn san hô Great Barrier", "Núi Uluru", "Cảng Sydney"],
+    "culture": "Xứ sở của chuột túi, gấu koala và những bãi biển lướt sóng tuyệt đẹp.",
+    "food": ["Bánh thịt Meat Pie", "Vegemite", "Bánh Lamington", "BBQ"],
+    "funFacts": [
+      "Kangaroo và gấu koala chỉ sống ở Úc.",
+      "Rạn san hô Great Barrier lớn đến mức nhìn thấy được từ vũ trụ!",
+      "Úc có nhiều loài nhện và rắn độc đáo bậc nhất thế giới."
+    ]
+  },
+  "EG": {
+    "tourism": ["Kim tự tháp Giza", "Tượng Nhân sư", "Sông Nile", "Đền Luxor"],
+    "culture": "Cái nôi của nền văn minh Pharaoh, chữ tượng hình và những xác ướp bí ẩn.",
+    "food": ["Đậu Ful Medames", "Koshari", "Bánh mì dẹt"],
+    "funFacts": [
+      "Kim tự tháp Giza được xây cách đây hơn 4.500 năm!",
+      "Người Ai Cập cổ đại phát minh ra một trong những loại chữ viết đầu tiên.",
+      "Sông Nile là một trong những con sông dài nhất thế giới."
+    ]
+  },
+  "CA": {
+    "tourism": ["Thác Niagara", "Hồ Louise", "Tháp CN Toronto", "Công viên Banff"],
+    "culture": "Đất nước rộng lớn với lá phong biểu tượng, môn khúc côn cầu trên băng.",
+    "food": ["Poutine", "Siro cây phong", "Bánh Butter Tart"],
+    "funFacts": [
+      "Lá phong đỏ trên quốc kỳ là biểu tượng của Canada.",
+      "Canada có nhiều hồ hơn tất cả các nước khác cộng lại!",
+      "Gấu Bắc Cực sống ở vùng phía bắc lạnh giá của Canada."
+    ]
+  },
+  "MX": {
+    "tourism": ["Kim tự tháp Chichen Itza", "Bãi biển Cancun", "Thành phố Mexico", "Teotihuacan"],
+    "culture": "Quê hương của nền văn minh Maya, Aztec và lễ hội Ngày của Người Chết.",
+    "food": ["Taco", "Burrito", "Guacamole", "Bánh ngô Tortilla"],
+    "funFacts": [
+      "Người Maya và Aztec đã xây những kim tự tháp khổng lồ ở Mexico.",
+      "Sô-cô-la được người Aztec phát hiện đầu tiên!",
+      "Lễ hội Ngày của Người Chết đầy màu sắc và vui nhộn."
+    ]
+  },
+  "GR": {
+    "tourism": ["Đền Parthenon", "Đảo Santorini", "Thành cổ Acropolis", "Đảo Mykonos"],
+    "culture": "Cái nôi của nền dân chủ, thần thoại Hy Lạp và Thế vận hội Olympic.",
+    "food": ["Bánh mì Gyro", "Salad Hy Lạp", "Souvlaki", "Bánh Baklava"],
+    "funFacts": [
+      "Thế vận hội Olympic đầu tiên ra đời ở Hy Lạp.",
+      "Các vị thần như thần Zeus đến từ thần thoại Hy Lạp.",
+      "Những ngôi nhà trắng mái xanh ở Santorini đẹp như tranh vẽ."
+    ]
+  },
+  "NL": {
+    "tourism": ["Cối xay gió", "Cánh đồng hoa tulip", "Kênh đào Amsterdam", "Làng Giethoorn"],
+    "culture": "Xứ sở của hoa tulip, cối xay gió, giày gỗ và những chiếc xe đạp.",
+    "food": ["Bánh kếp Stroopwafel", "Phô mai Gouda", "Khoai tây chiên", "Haring"],
+    "funFacts": [
+      "Hà Lan có nhiều xe đạp hơn cả số người dân!",
+      "Phần lớn đất nước thấp hơn mực nước biển.",
+      "Cánh đồng hoa tulip mùa xuân rực rỡ đủ màu sắc."
+    ]
+  },
+  "CH": {
+    "tourism": ["Dãy Alps", "Đỉnh Matterhorn", "Hồ Geneva", "Thị trấn Zermatt"],
+    "culture": "Đất nước của núi tuyết, đồng hồ chính xác và sô-cô-la thơm ngon.",
+    "food": ["Phô mai nướng chảy Fondue", "Sô-cô-la Thụy Sĩ", "Rösti"],
+    "funFacts": [
+      "Sô-cô-la sữa được phát minh ở Thụy Sĩ.",
+      "Đồng hồ Thụy Sĩ nổi tiếng chính xác khắp thế giới.",
+      "Dãy núi Alps phủ tuyết trắng quanh năm, tuyệt vời để trượt tuyết."
+    ]
+  },
+  "KH": {
+    "tourism": ["Đền Angkor Wat", "Hoàng cung Phnom Penh", "Biển Sihanoukville"],
+    "culture": "Đất nước của đền đài cổ kính và điệu múa Apsara duyên dáng.",
+    "food": ["Cà ri Amok", "Mì Num Banh Chok", "Lap Khmer"],
+    "funFacts": [
+      "Angkor Wat là công trình tôn giáo lớn nhất thế giới!",
+      "Angkor Wat xuất hiện ngay trên quốc kỳ Campuchia.",
+      "Khu đền Angkor từng là thành phố lớn nhất thế giới thời cổ đại."
+    ]
+  },
+  "LA": {
+    "tourism": ["Cố đô Luang Prabang", "Cánh đồng Chum", "Thác Kuang Si", "Vientiane"],
+    "culture": "Đất nước hiền hòa với những ngôi chùa vàng và lễ hội té nước.",
+    "food": ["Xôi nếp", "Gỏi đu đủ", "Larb", "Khao Piak"],
+    "funFacts": [
+      "Lào là quốc gia duy nhất ở Đông Nam Á không giáp biển.",
+      "Người Lào ăn xôi nếp nhiều nhất thế giới!",
+      "Thác Kuang Si có làn nước xanh ngọc tuyệt đẹp."
+    ]
+  },
+  "ZA": {
+    "tourism": ["Núi Bàn", "Vườn quốc gia Kruger", "Mũi Hảo Vọng", "Cape Town"],
+    "culture": "Đất nước cầu vồng với nhiều ngôn ngữ, văn hóa và động vật hoang dã.",
+    "food": ["Thịt nướng Braai", "Bánh Bunny Chow", "Biltong"],
+    "funFacts": [
+      "Nam Phi có tới 11 ngôn ngữ chính thức!",
+      "Bạn có thể nhìn thấy sư tử, voi, hươu cao cổ ở các khu bảo tồn.",
+      "Nam Phi có ba thủ đô khác nhau."
+    ]
+  },
+  "KE": {
+    "tourism": ["Khu bảo tồn Masai Mara", "Núi Kenya", "Hồ Nakuru", "Biển Mombasa"],
+    "culture": "Quê hương của bộ tộc Maasai và những cuộc di cư động vật kỳ vĩ.",
+    "food": ["Ugali", "Nyama Choma", "Sukuma Wiki"],
+    "funFacts": [
+      "Cuộc di cư của hàng triệu con linh dương đầu bò diễn ra ở Kenya.",
+      "Nhiều vận động viên chạy bộ giỏi nhất thế giới đến từ Kenya.",
+      "Bộ tộc Maasai nổi tiếng với điệu nhảy bật cao."
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Cờ Các Nước — Học cờ thế giới cho bé</title>
+  <meta name="description" content="Trang web vui nhộn giúp các bạn nhỏ khám phá và học về cờ các quốc gia trên thế giới." />
+
+  <!-- Tailwind Play CDN (no-build) -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            ground: '#0B1C3E',
+            surface: '#152952',
+            'surface-2': '#1E3567',
+            ink: '#F2F6FF',
+            accent: '#FCD116',
+            'accent-2': '#E8294A',
+            muted: '#8BA3CC',
+          },
+          fontFamily: {
+            display: ['"Baloo 2"', 'cursive'],
+            body: ['"Be Vietnam Pro"', 'sans-serif'],
+          },
+          borderRadius: {
+            flag: '6px',
+            card: '20px',
+          },
+          animation: {
+            'bounce-in': 'bounceIn 0.45s cubic-bezier(0.68,-0.55,0.265,1.55)',
+            'star-pop': 'starPop 0.6s ease-out',
+            'fade-up': 'fadeUp 0.5s ease-out both',
+            'wiggle': 'wiggle 0.4s ease-in-out',
+          },
+        },
+      },
+    }
+  </script>
+
+  <link rel="stylesheet" href="./styles.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@400;500;600;700;800&family=Be+Vietnam+Pro:wght@400;500;600;700&display=swap" rel="stylesheet" />
+
+  <script type="importmap">
+  {
+    "imports": {
+      "react": "https://esm.sh/react@18.3.1",
+      "react/jsx-runtime": "https://esm.sh/react@18.3.1/jsx-runtime",
+      "react-dom/client": "https://esm.sh/react-dom@18.3.1/client",
+      "react-router-dom": "https://esm.sh/react-router-dom@6.26.2?deps=react@18.3.1,react-dom@18.3.1",
+      "htm": "https://esm.sh/htm@3.1.1"
+    }
+  }
+  </script>
+</head>
+<body>
+  <div id="root"></div>
+  <script type="module" src="./src/main.js"></script>
+</body>
+</html>

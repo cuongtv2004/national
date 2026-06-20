@@ -1,0 +1,8 @@
+[
+  { "key": "Asia",     "nameVi": "Châu Á",          "slug": "chau-a",   "color": "#E8294A", "emoji": "🌏" },
+  { "key": "Europe",   "nameVi": "Châu Âu",         "slug": "chau-au",  "color": "#3B82F6", "emoji": "🌍" },
+  { "key": "Africa",   "nameVi": "Châu Phi",        "slug": "chau-phi", "color": "#16A34A", "emoji": "🌍" },
+  { "key": "Americas", "nameVi": "Châu Mỹ",         "slug": "chau-my",  "color": "#EA580C", "emoji": "🌎" },
+  { "key": "Oceania",  "nameVi": "Châu Đại Dương",  "slug": "chau-dai-duong", "color": "#7C3AED", "emoji": "🌏" },
+  { "key": "Antarctic","nameVi": "Châu Nam Cực",    "slug": "chau-nam-cuc",   "color": "#64748B", "emoji": "🧊" }
+]
