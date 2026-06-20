@@ -68,6 +68,10 @@ national/
     └── utils/          # tìm kiếm không dấu, phát âm, điểm số
 ```
 
+## 📝 Lịch sử thay đổi
+
+Xem [CHANGELOG.md](CHANGELOG.md) để biết các phiên bản và thay đổi.
+
 ## ➕ Thêm nội dung cho một quốc gia
 
 - Tên tiếng Việt: thêm vào `data/countries-vi.json` (`"mã ISO": "Tên"`).
