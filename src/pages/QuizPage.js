@@ -7,6 +7,7 @@ import { ScoreBoard } from '../components/ScoreBoard.js'
 import { shuffle, sample } from '../utils/shuffle.js'
 import { speak, canSpeak } from '../utils/speak.js'
 import { saveResult, loadProgress } from '../utils/score.js'
+import { markQuizCorrect } from '../utils/collection.js'
 
 const TOTAL = 10
 
@@ -180,6 +181,7 @@ export function QuizPage() {
     if (picked) return
     setPicked(opt)
     const correct = opt.code === current.answer.code
+    if (correct) markQuizCorrect(current.answer.code)
     const newScore = correct ? score + 1 : score
     const newStreak = correct ? streak + 1 : 0
     const newBest = Math.max(bestStreak, newStreak)
