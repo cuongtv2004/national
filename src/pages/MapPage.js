@@ -1,31 +1,18 @@
 import { useState, useEffect, useMemo } from 'react'
 import { useNavigate } from 'react-router-dom'
 import * as topojson from 'topojson-client'
+import { geoEquirectangular, geoPath } from 'd3-geo'
 import { html } from '../html.js'
 import { useCountries } from '../context.js'
 import { Spinner, ErrorBox } from '../components/Spinner.js'
 
 const W = 1000
 const H = 500
-// Phép chiếu equirectangular: kinh/vĩ độ -> toạ độ phẳng.
+// d3-geo tự cắt ở kinh tuyến 180° nên các nước vắt qua (Nga, Fiji...) vẽ đúng.
+const projection = geoEquirectangular().fitSize([W, H], { type: 'Sphere' })
+const pathGen = geoPath(projection)
 function project(lon, lat) {
-  return [((lon + 180) * W) / 360, ((90 - lat) * H) / 180]
-}
-
-function ringPath(ring) {
-  let d = ''
-  for (let i = 0; i < ring.length; i++) {
-    const [x, y] = project(ring[i][0], ring[i][1])
-    d += (i ? 'L' : 'M') + x.toFixed(1) + ',' + y.toFixed(1)
-  }
-  return d + 'Z'
-}
-
-function geomPath(geom) {
-  if (!geom) return ''
-  if (geom.type === 'Polygon') return geom.coordinates.map(ringPath).join('')
-  if (geom.type === 'MultiPolygon') return geom.coordinates.map((p) => p.map(ringPath).join('')).join('')
-  return ''
+  return projection([lon, lat])
 }
 
 // Nhãn châu lục đặt ở vị trí tượng trưng (kinh độ, vĩ độ).
@@ -70,11 +57,12 @@ export function MapPage() {
   const shapes = useMemo(() => {
     if (!topo) return []
     const feats = topojson.feature(topo, topo.objects.countries).features
-    return feats.map((f) => {
+    // Bỏ Nam Cực (id 010): không phải châu lục để học và nằm ngoài vùng hiển thị.
+    return feats.filter((f) => f.id !== '010').map((f) => {
       const c = byCcn3[f.id]
       return {
         id: f.id,
-        d: geomPath(f.geometry),
+        d: pathGen(f),
         country: c || null,
         color: c ? contColor[c.continent] || '#2a3b5e' : '#2a3b5e',
         name: c ? c.nameVi : f.properties?.name || '',
