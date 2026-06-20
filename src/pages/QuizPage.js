@@ -16,24 +16,68 @@ const MODES = [
   { id: 'flag-en', icon: '🇬🇧', title: 'Học tiếng Anh', desc: 'Xem cờ → chọn tên tiếng Anh' },
 ]
 
-// Tạo danh sách câu hỏi: mỗi câu 1 đáp án đúng + 3 distractor (ưu tiên cùng châu lục).
-function buildQuestions(countries) {
-  // Chỉ dùng nước có tên tiếng Việt riêng để câu hỏi "đời" hơn, nhưng vẫn đủ pool.
-  const pool = countries.filter((c) => c.nameVi && c.nameEn)
-  const answers = sample(pool, TOTAL)
+// Lọc pool theo châu lục đã chọn ('all' = cả thế giới).
+function poolFor(countries, continentKey) {
+  let pool = countries.filter((c) => c.nameVi && c.nameEn)
+  if (continentKey && continentKey !== 'all') pool = pool.filter((c) => c.continent === continentKey)
+  return pool
+}
+
+// Tạo câu hỏi: mỗi câu 1 đáp án đúng + 3 đáp án nhiễu (cùng châu lục đang chơi).
+function buildQuestions(countries, continentKey) {
+  const pool = poolFor(countries, continentKey)
+  const total = Math.min(TOTAL, pool.length)
+  const answers = sample(pool, total)
   return answers.map((ans) => {
-    let sameRegion = pool.filter((c) => c.continent === ans.continent && c.code !== ans.code)
-    if (sameRegion.length < 3) sameRegion = pool.filter((c) => c.code !== ans.code)
-    const distractors = sample(sameRegion, 3)
-    return { answer: ans, options: shuffle([ans, ...distractors]) }
+    let distract = pool.filter((c) => c.code !== ans.code)
+    if (distract.length < 3) distract = countries.filter((c) => c.nameVi && c.code !== ans.code)
+    return { answer: ans, options: shuffle([ans, ...sample(distract, 3)]) }
   })
 }
 
-function ModePicker({ onPick }) {
-  const progress = loadProgress()
+function ContinentPicker({ continents, counts, total, onPick }) {
+  const usable = continents.filter((c) => (counts[c.key] || 0) >= 4)
   return html`
     <div class="max-w-2xl mx-auto px-4 py-10 text-center">
       <h1 class="font-display text-4xl font-extrabold mb-2">Thử thách đoán cờ 🎮</h1>
+      <p class="text-muted mb-8">Chọn khu vực để luyện tập nhé! Bé mới học nên chọn <b>một châu lục</b> cho dễ nhớ.</p>
+      <div class="grid grid-cols-2 sm:grid-cols-3 gap-3 sm:gap-4">
+        <button
+          onClick=${() => onPick('all')}
+          class="rounded-card p-5 font-display font-bold text-ground hover:scale-105 transition-transform shadow-lg"
+          style="background-color:#FCD116"
+        >
+          <div class="text-3xl mb-1" aria-hidden="true">🌍</div>
+          <div>Cả thế giới</div>
+          <div class="text-sm font-body font-medium opacity-80">${total} lá cờ</div>
+        </button>
+        ${usable.map(
+          (c) => html`
+            <button
+              key=${c.key}
+              onClick=${() => onPick(c.key)}
+              class="rounded-card p-5 font-display font-bold text-ground hover:scale-105 transition-transform shadow-lg"
+              style=${`background-color:${c.color}`}
+            >
+              <div class="text-3xl mb-1" aria-hidden="true">${c.emoji}</div>
+              <div>${c.nameVi}</div>
+              <div class="text-sm font-body font-medium opacity-80">${counts[c.key]} lá cờ</div>
+            </button>
+          `
+        )}
+      </div>
+    </div>
+  `
+}
+
+function ModePicker({ regionLabel, onPick, onBack }) {
+  const progress = loadProgress()
+  return html`
+    <div class="max-w-2xl mx-auto px-4 py-10 text-center">
+      <button onClick=${onBack} class="text-muted hover:text-ink text-sm mb-4 inline-flex items-center gap-1">
+        ← Đổi khu vực
+      </button>
+      <h1 class="font-display text-3xl sm:text-4xl font-extrabold mb-1">Khu vực: <span class="text-accent">${regionLabel}</span></h1>
       <p class="text-muted mb-8">Chọn một kiểu chơi nhé!</p>
       <div class="grid sm:grid-cols-3 gap-4">
         ${MODES.map(
@@ -82,9 +126,10 @@ function FlagThumb({ country }) {
 }
 
 export function QuizPage() {
-  const { countries, loading, error } = useCountries()
+  const { countries, continents, loading, error } = useCountries()
   const navigate = useNavigate()
 
+  const [continent, setContinent] = useState(null) // null | 'all' | <region key>
   const [mode, setMode] = useState(null)
   const [questions, setQuestions] = useState([])
   const [idx, setIdx] = useState(0)
@@ -95,10 +140,22 @@ export function QuizPage() {
   const [finished, setFinished] = useState(false)
   const [finalProgress, setFinalProgress] = useState(null)
 
-  const startMode = useCallback(
+  // Đếm số nước (có tên tiếng Việt) theo châu lục.
+  const counts = useMemo(() => {
+    const m = {}
+    for (const c of countries) if (c.nameVi && c.nameEn) m[c.continent] = (m[c.continent] || 0) + 1
+    return m
+  }, [countries])
+
+  const regionLabel =
+    continent === 'all'
+      ? 'Cả thế giới'
+      : continents.find((c) => c.key === continent)?.nameVi || continent
+
+  const start = useCallback(
     (m) => {
       setMode(m)
-      setQuestions(buildQuestions(countries))
+      setQuestions(buildQuestions(countries, continent))
       setIdx(0)
       setPicked(null)
       setScore(0)
@@ -106,9 +163,16 @@ export function QuizPage() {
       setBestStreak(0)
       setFinished(false)
     },
-    [countries]
+    [countries, continent]
   )
 
+  function resetAll() {
+    setContinent(null)
+    setMode(null)
+    setFinished(false)
+  }
+
+  const total = questions.length || TOTAL
   const current = questions[idx]
 
   function choose(opt) {
@@ -125,7 +189,7 @@ export function QuizPage() {
 
     setTimeout(() => {
       if (idx + 1 >= questions.length) {
-        const prog = saveResult({ score: newScore, total: TOTAL, bestStreak: newBest })
+        const prog = saveResult({ score: newScore, total, bestStreak: newBest })
         setFinalProgress(prog)
         setFinished(true)
       } else {
@@ -137,15 +201,27 @@ export function QuizPage() {
 
   if (loading) return html`<${Spinner} />`
   if (error) return html`<${ErrorBox} message=${error} />`
-  if (!mode) return html`<${ModePicker} onPick=${startMode} />`
+  if (!continent)
+    return html`<${ContinentPicker}
+      continents=${continents}
+      counts=${counts}
+      total=${Object.values(counts).reduce((a, b) => a + b, 0)}
+      onPick=${(key) => setContinent(key)}
+    />`
+  if (!mode) return html`<${ModePicker} regionLabel=${regionLabel} onPick=${start} onBack=${resetAll} />`
   if (finished)
-    return html`<div class="px-4 py-10"><${ScoreBoard}
-      score=${score}
-      total=${TOTAL}
-      progress=${finalProgress || loadProgress()}
-      onReplay=${() => startMode(mode)}
-      onExplore=${() => navigate('/kham-pha')}
-    /></div>`
+    return html`<div class="px-4 py-10">
+      <${ScoreBoard}
+        score=${score}
+        total=${total}
+        progress=${finalProgress || loadProgress()}
+        onReplay=${() => start(mode)}
+        onExplore=${() => navigate('/kham-pha')}
+      />
+      <div class="text-center mt-4">
+        <button onClick=${resetAll} class="text-muted hover:text-ink text-sm">← Chọn khu vực / kiểu chơi khác</button>
+      </div>
+    </div>`
 
   if (!current) return html`<${Spinner} />`
 
@@ -159,12 +235,12 @@ export function QuizPage() {
 
   return html`
     <div class="max-w-2xl mx-auto px-4 py-8">
-      <div class="flex items-center justify-between mb-4 text-sm">
-        <span class="text-muted">Câu ${idx + 1} / ${TOTAL}</span>
+      <div class="flex items-center justify-between mb-2 text-sm">
+        <span class="text-muted">Câu ${idx + 1} / ${total} · <span class="text-ink/70">${regionLabel}</span></span>
         <span class="text-accent font-bold">⭐ ${score} điểm${streak >= 2 ? ` · 🔥 ${streak}` : ''}</span>
       </div>
       <div class="h-2 bg-surface rounded-full overflow-hidden mb-6">
-        <div class="h-full bg-accent transition-all" style=${`width:${(idx / TOTAL) * 100}%`}></div>
+        <div class="h-full bg-accent transition-all" style=${`width:${(idx / total) * 100}%`}></div>
       </div>
 
       <div class="bg-surface rounded-card p-6 border border-white/10 mb-6 text-center">
