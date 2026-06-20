@@ -46,7 +46,7 @@ export function MapPage() {
 
   useEffect(() => {
     let alive = true
-    fetch(new URL('../data/countries-110m.json', import.meta.url))
+    fetch(new URL('../../data/countries-110m.json', import.meta.url))
       .then((r) => {
         if (!r.ok) throw new Error('Không tải được dữ liệu bản đồ')
         return r.json()

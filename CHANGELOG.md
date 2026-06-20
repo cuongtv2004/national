@@ -12,6 +12,9 @@ và dự án tuân theo [Semantic Versioning](https://semver.org/lang/vi/).
 - Chạm vào một quốc gia trên bản đồ để xem tên + châu lục và mở trang chi tiết.
 - Bản đồ dựng từ dữ liệu world-atlas (TopoJSON) bundle sẵn; tô màu theo mã số ISO (ccn3) khớp với dữ liệu quốc gia.
 
+### Đã sửa
+- Phần Thử thách chỉ còn chọn các nước có tên tiếng Việt thật (190 nước); loại bỏ lãnh thổ phụ thuộc và "Châu Nam Cực" khỏi danh sách khu vực.
+
 ## [1.3.0] - 2026-06-20
 
 ### Đã thêm

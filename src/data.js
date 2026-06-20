@@ -20,6 +20,7 @@ function pickCapital(country, extra) {
 function normalize(raw, viNames, extraMap) {
   const code = raw.cca2
   const nameEn = raw?.name?.common || code
+  const hasVi = !!viNames[code] // có tên tiếng Việt thật (nước "học chính", không phải lãnh thổ phụ thuộc)
   const nameVi = viNames[code] || nameEn
   const extra = extraMap[code] || null
   const demonym = raw?.demonyms?.eng?.m || raw?.demonyms?.eng?.f || ''
@@ -31,6 +32,7 @@ function normalize(raw, viNames, extraMap) {
     ccn3: raw.ccn3 || null, // mã số ISO 3166-1 (khớp id bản đồ world-atlas)
     nameEn,
     nameVi,
+    hasVi,
     demonym,
     flagEmoji: raw.flag || '🏳️',
     flagPng: `https://flagcdn.com/w320/${lower}.png`,

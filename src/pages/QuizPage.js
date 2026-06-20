@@ -18,7 +18,8 @@ const MODES = [
 
 // Lọc pool theo châu lục đã chọn ('all' = cả thế giới).
 function poolFor(countries, continentKey) {
-  let pool = countries.filter((c) => c.nameVi && c.nameEn)
+  // Chỉ dùng nước có tên tiếng Việt thật (loại lãnh thổ phụ thuộc & Nam Cực) cho quiz chất lượng.
+  let pool = countries.filter((c) => c.hasVi)
   if (continentKey && continentKey !== 'all') pool = pool.filter((c) => c.continent === continentKey)
   return pool
 }
@@ -30,7 +31,7 @@ function buildQuestions(countries, continentKey) {
   const answers = sample(pool, total)
   return answers.map((ans) => {
     let distract = pool.filter((c) => c.code !== ans.code)
-    if (distract.length < 3) distract = countries.filter((c) => c.nameVi && c.code !== ans.code)
+    if (distract.length < 3) distract = countries.filter((c) => c.hasVi && c.code !== ans.code)
     return { answer: ans, options: shuffle([ans, ...sample(distract, 3)]) }
   })
 }
@@ -143,7 +144,7 @@ export function QuizPage() {
   // Đếm số nước (có tên tiếng Việt) theo châu lục.
   const counts = useMemo(() => {
     const m = {}
-    for (const c of countries) if (c.nameVi && c.nameEn) m[c.continent] = (m[c.continent] || 0) + 1
+    for (const c of countries) if (c.hasVi) m[c.continent] = (m[c.continent] || 0) + 1
     return m
   }, [countries])
 
