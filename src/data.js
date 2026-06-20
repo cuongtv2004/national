@@ -41,6 +41,7 @@ function normalize(raw, viNames, extraMap) {
     // nội dung phong phú (có thể null)
     tourism: extra?.tourism || null,
     culture: extra?.culture || null,
+    cultureImage: extra?.cultureImage || null,
     food: extra?.food || null,
     funFacts: extra?.funFacts || null,
     hasExtra: !!extra,

@@ -6,7 +6,7 @@ export function Footer() {
       <p class="font-display text-base text-ink/80">Cờ Các Nước 🌍</p>
       <p class="mt-1">Học cờ thế giới thật vui — dành cho các bạn nhỏ.</p>
       <p class="mt-2 text-xs">
-        Dữ liệu cờ từ flagcdn.com · Thông tin quốc gia từ bộ dữ liệu mở mledoze/countries.
+        Cờ từ flagcdn.com · Thông tin từ mledoze/countries · Hình ảnh từ Wikipedia.
       </p>
     </footer>
   `
