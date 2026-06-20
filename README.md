@@ -68,6 +68,25 @@ national/
     └── utils/          # tìm kiếm không dấu, phát âm, điểm số
 ```
 
+## 🧪 Kiểm thử (tests)
+
+Thư mục `tests/` có sẵn bộ kiểm thử bằng Python:
+
+```bash
+# Kiểm thử dữ liệu (chỉ cần Python, không cần cài gì)
+python3 -m unittest tests.test_data
+
+# Kiểm thử đầu-cuối các trang (cần Playwright; tự bỏ qua nếu chưa cài)
+pip install playwright && python3 -m playwright install chromium
+python3 -m unittest tests.test_e2e
+
+# Chạy tất cả
+python3 -m unittest discover tests
+```
+
+- `test_data.py` — kiểm tra các file JSON: đúng schema, mã quốc gia hợp lệ, mọi nước có ý nghĩa lá cờ, cặp cờ song sinh hợp lệ, id bản đồ khớp ccn3.
+- `test_e2e.py` — tự bật server tĩnh, mở từng trang bằng trình duyệt và đảm bảo **không có lỗi Console**.
+
 ## 📝 Lịch sử thay đổi
 
 Xem [CHANGELOG.md](CHANGELOG.md) để biết các phiên bản và thay đổi.
