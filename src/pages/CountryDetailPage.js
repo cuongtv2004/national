@@ -37,7 +37,7 @@ function InfoStat({ icon, label, value }) {
     <div class="bg-surface rounded-card p-4 border border-white/5">
       <div class="text-2xl mb-1" aria-hidden="true">${icon}</div>
       <div class="text-xs text-muted">${label}</div>
-      <div class="font-display font-bold text-lg leading-tight">${value}</div>
+      <div class="font-display font-bold text-base sm:text-lg leading-tight break-words">${value}</div>
     </div>
   `
 }
@@ -93,7 +93,7 @@ export function CountryDetailPage() {
 
         <div>
           <p class="text-muted text-sm mb-1">${country.continentVi} · ${country.subregion}</p>
-          <h1 class="font-display text-4xl font-extrabold leading-tight">${country.nameVi}</h1>
+          <h1 class="font-display text-3xl sm:text-4xl font-extrabold leading-tight break-words">${country.nameVi}</h1>
           <p class="text-xl mt-2">
             <span class="text-muted text-sm">Tiếng Anh:</span> <span class="font-semibold">${country.nameEn}</span>
             <${SpeakButton} text=${country.nameEn} />
