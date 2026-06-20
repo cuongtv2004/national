@@ -3,6 +3,7 @@ import { useParams, Link, useNavigate } from 'react-router-dom'
 import { html } from '../html.js'
 import { useCountry } from '../context.js'
 import { Spinner, ErrorBox } from '../components/Spinner.js'
+import { ImageCard } from '../components/ImageCard.js'
 import { speak, canSpeak } from '../utils/speak.js'
 
 // Ghi nhớ những nước đã xem (cho huy hiệu "Nhà thám hiểm").
@@ -50,14 +51,6 @@ function Section({ icon, title, children }) {
       ${children}
     </section>
   `
-}
-
-function Chips({ items }) {
-  return html`<div class="flex flex-wrap gap-2">
-    ${items.map(
-      (t, i) => html`<span key=${i} class="bg-surface-2 rounded-full px-3 py-1.5 text-sm">${t}</span>`
-    )}
-  </div>`
 }
 
 export function CountryDetailPage() {
@@ -135,13 +128,35 @@ export function CountryDetailPage() {
                 <//>
               </div>`}
               ${country.tourism &&
-              html`<${Section} icon="🏝️" title="Du lịch"><${Chips} items=${country.tourism} /><//>`}
+              html`<div class="sm:col-span-2">
+                <${Section} icon="🏝️" title="Du lịch">
+                  <div class="grid grid-cols-2 md:grid-cols-4 gap-3">
+                    ${country.tourism.map(
+                      (t, i) => html`<${ImageCard} key=${i} term=${t} label=${t} emoji="🏝️" />`
+                    )}
+                  </div>
+                <//>
+              </div>`}
               ${country.food &&
-              html`<${Section} icon="🍜" title="Món ăn đặc trưng"><${Chips} items=${country.food} /><//>`}
+              html`<div class="sm:col-span-2">
+                <${Section} icon="🍜" title="Món ăn đặc trưng">
+                  <div class="grid grid-cols-2 md:grid-cols-4 gap-3">
+                    ${country.food.map(
+                      (t, i) => html`<${ImageCard} key=${i} term=${t} label=${t} emoji="🍽️" />`
+                    )}
+                  </div>
+                <//>
+              </div>`}
               ${country.culture &&
               html`<div class="sm:col-span-2">
                 <${Section} icon="🎎" title="Văn hóa truyền thống">
-                  <p class="leading-relaxed">${country.culture}</p>
+                  <div class="flex flex-col sm:flex-row gap-4 items-start">
+                    ${country.cultureImage &&
+                    html`<div class="w-full sm:w-56 shrink-0">
+                      <${ImageCard} term=${country.cultureImage} label=${country.cultureImage} emoji="🎎" />
+                    </div>`}
+                    <p class="leading-relaxed flex-1">${country.culture}</p>
+                  </div>
                 <//>
               </div>`}
             </div>
