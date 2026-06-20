@@ -601,5 +601,3196 @@
       "Nhiều vận động viên chạy bộ giỏi nhất thế giới đến từ Kenya.",
       "Bộ tộc Maasai nổi tiếng với điệu nhảy bật cao."
     ]
+  },
+  "MM": {
+    "tourism": [
+      "Chùa Shwedagon",
+      "Đền Bagan",
+      "Hồ Inle",
+      "Đá Vàng Kyaiktiyo"
+    ],
+    "culture": "Người Myanmar thường bôi bột Thanaka màu vàng lên má để làm đẹp và che nắng, trông rất dễ thương!",
+    "cultureImage": "Thanaka",
+    "food": [
+      "Mohinga",
+      "Cơm Shan",
+      "Trà lá lên men Lahpet",
+      "Mì Khao Suey"
+    ],
+    "funFacts": [
+      "Myanmar có hàng nghìn ngôi chùa vàng lấp lánh ở Bagan, nhìn từ khinh khí cầu đẹp như cổ tích.",
+      "Đá Vàng Kyaiktiyo là một tảng đá khổng lồ dát vàng nằm cheo leo trên vách núi mà không hề rơi xuống!"
+    ]
+  },
+  "MN": {
+    "tourism": [
+      "Sa mạc Gobi",
+      "Thảo nguyên Mông Cổ",
+      "Thủ đô Ulaanbaatar",
+      "Hồ Khovsgol"
+    ],
+    "culture": "Người Mông Cổ sống du mục trong những căn lều tròn gọi là lều Ger, và rất giỏi cưỡi ngựa từ khi còn nhỏ!",
+    "cultureImage": "Lều Ger",
+    "food": [
+      "Buuz",
+      "Khuushuur",
+      "Trà sữa Mông Cổ",
+      "Thịt cừu nướng"
+    ],
+    "funFacts": [
+      "Trẻ em Mông Cổ biết cưỡi ngựa trước cả khi biết đi vững!",
+      "Ở sa mạc Gobi, người ta đã tìm thấy những quả trứng khủng long thật sự hóa thạch từ hàng triệu năm trước."
+    ]
+  },
+  "TW": {
+    "tourism": [
+      "Tòa nhà Đài Bắc 101",
+      "Hồ Nhật Nguyệt",
+      "Núi A Lý Sơn",
+      "Chợ đêm Sĩ Lâm"
+    ],
+    "culture": "Người Đài Loan rất thích uống trà sữa trân châu, một thức uống ngọt ngào với những viên trân châu dai dai được phát minh ở đây!",
+    "cultureImage": "Trà sữa trân châu",
+    "food": [
+      "Trà sữa trân châu",
+      "Mì bò",
+      "Đậu hũ thối",
+      "Bánh dứa"
+    ],
+    "funFacts": [
+      "Trà sữa trân châu nổi tiếng khắp thế giới được phát minh ở Đài Loan đấy!",
+      "Tòa nhà Đài Bắc 101 từng là tòa nhà cao nhất thế giới và có một quả cầu vàng khổng lồ bên trong giúp tòa nhà không lắc lư khi có gió bão."
+    ]
+  },
+  "KP": {
+    "tourism": [
+      "Núi Bạch Đầu",
+      "Thủ đô Bình Nhưỡng",
+      "Núi Kim Cương",
+      "Sông Đại Đồng"
+    ],
+    "culture": "Trẻ em Triều Tiên thường biểu diễn những màn đồng diễn thể dục và xếp hình bằng bảng màu vô cùng hoành tráng và đều tăm tắp!",
+    "cultureImage": "Núi Bạch Đầu",
+    "food": [
+      "Mì lạnh Naengmyeon",
+      "Kim chi",
+      "Bánh gạo Tteok",
+      "Cơm trộn"
+    ],
+    "funFacts": [
+      "Núi Bạch Đầu là ngọn núi cao nhất bán đảo Triều Tiên, trên đỉnh có một hồ nước rất lớn nằm trong miệng núi lửa.",
+      "Triều Tiên có lịch riêng tính năm theo cách khác với hầu hết các nước trên thế giới."
+    ]
+  },
+  "BN": {
+    "tourism": [
+      "Thánh đường Sultan Omar Ali Saifuddin",
+      "Làng nổi Kampong Ayer",
+      "Cung điện Istana Nurul Iman",
+      "Rừng Ulu Temburong"
+    ],
+    "culture": "Ở Brunei có cả một ngôi làng được xây trên mặt nước với nhà sàn và cầu gỗ nối với nhau, người ta đi lại bằng thuyền!",
+    "cultureImage": "Làng nổi Kampong Ayer",
+    "food": [
+      "Ambuyat",
+      "Cơm gà nasi katok",
+      "Sa tế",
+      "Cá nướng"
+    ],
+    "funFacts": [
+      "Brunei có cung điện hoàng gia lớn nhất thế giới với gần 1.800 căn phòng!",
+      "Làng nổi Kampong Ayer ở Brunei đã có người sinh sống trên mặt nước suốt hàng trăm năm."
+    ]
+  },
+  "TL": {
+    "tourism": [
+      "Tượng Chúa Cristo Rei",
+      "Đảo Atauro",
+      "Thủ đô Dili",
+      "Bãi biển Jaco"
+    ],
+    "culture": "Người Đông Timor dệt những tấm vải truyền thống đầy màu sắc gọi là Tais, mỗi vùng có hoa văn riêng rất đẹp!",
+    "cultureImage": "Vải Tais",
+    "food": [
+      "Ikan sabuko",
+      "Batar daan",
+      "Cà phê Đông Timor",
+      "Cơm dừa"
+    ],
+    "funFacts": [
+      "Đông Timor là một trong những quốc gia trẻ nhất châu Á, mới ra đời vào năm 2002.",
+      "Vùng biển quanh đảo Atauro có số loài cá nhiều bậc nhất thế giới, là thiên đường cho thợ lặn!"
+    ]
+  },
+  "PK": {
+    "tourism": [
+      "Thánh đường Badshahi",
+      "Thung lũng Hunza",
+      "Đỉnh K2",
+      "Pháo đài Lahore"
+    ],
+    "culture": "Pakistan nổi tiếng với những chiếc xe tải được trang trí rực rỡ đủ màu sắc và hoa văn, gọi là nghệ thuật xe tải, đẹp như đồ chơi!",
+    "cultureImage": "Xe tải Pakistan",
+    "food": [
+      "Biryani",
+      "Cà ri",
+      "Naan",
+      "Samosa"
+    ],
+    "funFacts": [
+      "Đỉnh K2 ở Pakistan là ngọn núi cao thứ hai thế giới và rất khó leo!",
+      "Thung lũng Hunza có những trái mơ và phong cảnh núi tuyết đẹp đến nỗi nhiều người gọi đó là chốn thần tiên."
+    ]
+  },
+  "BD": {
+    "tourism": [
+      "Rừng ngập mặn Sundarbans",
+      "Bãi biển Cox's Bazar",
+      "Sông Hằng",
+      "Thủ đô Dhaka"
+    ],
+    "culture": "Bangladesh có nhiều con sông nên người dân thường đi lại bằng thuyền, và các phiên chợ nổi trên sông rất nhộn nhịp!",
+    "cultureImage": "Rừng Sundarbans",
+    "food": [
+      "Cá hilsa",
+      "Biryani",
+      "Cơm Panta bhat",
+      "Bánh ngọt Roshogolla"
+    ],
+    "funFacts": [
+      "Bãi biển Cox's Bazar ở Bangladesh là một trong những bãi biển tự nhiên dài nhất thế giới!",
+      "Rừng ngập mặn Sundarbans là nơi sinh sống của loài hổ Bengal hoàng gia bơi lội rất giỏi."
+    ]
+  },
+  "LK": {
+    "tourism": [
+      "Pháo đài đá Sigiriya",
+      "Thành phố cổ Kandy",
+      "Đồn điền trà Nuwara Eliya",
+      "Vườn quốc gia Yala"
+    ],
+    "culture": "Sri Lanka nổi tiếng với những đồi chè xanh mướt và những chú voi được trang trí lộng lẫy trong các lễ hội rước đèn!",
+    "cultureImage": "Pháo đài Sigiriya",
+    "food": [
+      "Cơm cà ri",
+      "Hoppers",
+      "Kottu",
+      "Trà Ceylon"
+    ],
+    "funFacts": [
+      "Sigiriya là một pháo đài được xây trên đỉnh một tảng đá khổng lồ cao gần 200 mét!",
+      "Sri Lanka là một trong những nơi trồng trà ngon nổi tiếng nhất thế giới, gọi là trà Ceylon."
+    ]
+  },
+  "NP": {
+    "tourism": [
+      "Đỉnh Everest",
+      "Thành phố Kathmandu",
+      "Hồ Phewa Pokhara",
+      "Đền Pashupatinath"
+    ],
+    "culture": "Nepal là quê hương của những người Sherpa cực kỳ giỏi leo núi, họ giúp các nhà thám hiểm chinh phục những đỉnh núi cao nhất!",
+    "cultureImage": "Đỉnh Everest",
+    "food": [
+      "Momo",
+      "Dal bhat",
+      "Mì Thukpa",
+      "Bánh Sel roti"
+    ],
+    "funFacts": [
+      "Đỉnh Everest ở Nepal là ngọn núi cao nhất thế giới, cao hơn 8.800 mét!",
+      "Lá cờ của Nepal là lá cờ quốc gia duy nhất trên thế giới không có hình chữ nhật mà gồm hai hình tam giác."
+    ]
+  },
+  "BT": {
+    "tourism": [
+      "Tu viện Tổ Hổ Taktsang",
+      "Thủ đô Thimphu",
+      "Thung lũng Paro",
+      "Pháo đài Punakha Dzong"
+    ],
+    "culture": "Bhutan là đất nước đo lường sự thành công bằng Tổng Hạnh phúc Quốc gia, nghĩa là họ quan tâm đến niềm vui của người dân hơn cả tiền bạc!",
+    "cultureImage": "Tu viện Taktsang",
+    "food": [
+      "Ema datshi",
+      "Cơm đỏ",
+      "Momo",
+      "Mì kê Puta"
+    ],
+    "funFacts": [
+      "Bhutan là quốc gia duy nhất trên thế giới đo sự phát triển bằng chỉ số hạnh phúc của người dân!",
+      "Tu viện Tổ Hổ được xây cheo leo trên vách núi cao, người ta phải leo bộ rất lâu mới tới nơi."
+    ]
+  },
+  "MV": {
+    "tourism": [
+      "Thủ đô Malé",
+      "Bãi biển cát trắng",
+      "Rạn san hô Maldives",
+      "Các đảo nghỉ dưỡng"
+    ],
+    "culture": "Maldives gồm rất nhiều hòn đảo nhỏ xinh giữa biển xanh, người dân sống gắn bó với biển và rất giỏi đi thuyền, đánh cá!",
+    "cultureImage": "Bãi biển Maldives",
+    "food": [
+      "Cá ngừ",
+      "Mas huni",
+      "Cà ri cá",
+      "Bánh chuối"
+    ],
+    "funFacts": [
+      "Maldives là quốc gia thấp nhất thế giới, hầu hết đất chỉ cao hơn mặt biển khoảng một mét rưỡi!",
+      "Ban đêm, sóng biển ở một số bãi của Maldives phát sáng lấp lánh như những vì sao nhờ những sinh vật biển tí hon."
+    ]
+  },
+  "AF": {
+    "tourism": [
+      "Hồ Band-e-Amir",
+      "Thủ đô Kabul",
+      "Thung lũng Panjshir",
+      "Thành phố cổ Herat"
+    ],
+    "culture": "Afghanistan nổi tiếng với những tấm thảm dệt tay tinh xảo và môn thể thao đua diều rất được trẻ em yêu thích!",
+    "cultureImage": "Thảm Afghanistan",
+    "food": [
+      "Cơm Kabuli pulao",
+      "Bánh Naan",
+      "Mantu",
+      "Bánh nướng Bolani"
+    ],
+    "funFacts": [
+      "Hồ Band-e-Amir có màu nước xanh ngọc bích tuyệt đẹp và là vườn quốc gia đầu tiên của Afghanistan!",
+      "Afghanistan là một trong những nơi đầu tiên trên thế giới trồng được dưa hấu và nho ngọt."
+    ]
+  },
+  "IR": {
+    "tourism": [
+      "Quảng trường Naqsh-e Jahan",
+      "Thành phố cổ Persepolis",
+      "Đền Hồng Nasir al-Mulk",
+      "Thành phố Isfahan"
+    ],
+    "culture": "Người Iran đón Tết Nowruz vào mùa xuân với một mâm bày bảy món bắt đầu bằng chữ S, và họ rất thích làm thơ!",
+    "cultureImage": "Quảng trường Naqsh-e Jahan",
+    "food": [
+      "Cơm nghệ tây",
+      "Kebab",
+      "Bánh mì Sangak",
+      "Cà ri thịt Ghormeh sabzi"
+    ],
+    "funFacts": [
+      "Iran là nơi tạo ra những tấm thảm Ba Tư dệt tay đẹp nổi tiếng khắp thế giới!",
+      "Đền Hồng ở Iran có những ô cửa kính màu, buổi sáng ánh nắng chiếu qua biến cả căn phòng thành một cầu vồng rực rỡ."
+    ]
+  },
+  "IQ": {
+    "tourism": [
+      "Thành phố cổ Babylon",
+      "Thủ đô Baghdad",
+      "Đầm lầy Mesopotamia",
+      "Thành phố Erbil"
+    ],
+    "culture": "Iraq nằm trên vùng đất Lưỡng Hà cổ xưa, nơi con người đã phát minh ra chữ viết đầu tiên trên thế giới!",
+    "cultureImage": "Thành cổ Babylon",
+    "food": [
+      "Masgouf",
+      "Cơm Biryani",
+      "Bánh mì dẹt",
+      "Bánh ngọt Kleicha"
+    ],
+    "funFacts": [
+      "Vùng đất Iraq ngày nay là nơi con người phát minh ra chữ viết và bánh xe đầu tiên trên thế giới!",
+      "Người xưa kể rằng Vườn treo Babylon, một trong bảy kỳ quan thế giới cổ đại, từng nằm ở Iraq."
+    ]
+  },
+  "SA": {
+    "tourism": [
+      "Thành phố cổ Hegra",
+      "Thủ đô Riyadh",
+      "Vách núi Edge of the World",
+      "Phố cổ Al-Balad Jeddah"
+    ],
+    "culture": "Ả Rập Xê Út có sa mạc mênh mông, người dân du hành trên lưng lạc đà và rất quý chim ưng săn mồi của mình!",
+    "cultureImage": "Lạc đà",
+    "food": [
+      "Cơm Kabsa",
+      "Thịt cừu nướng",
+      "Chà là",
+      "Bánh Falafel"
+    ],
+    "funFacts": [
+      "Ả Rập Xê Út có sa mạc cát Rub' al Khali rộng lớn đến mức là biển cát liền mạch lớn nhất thế giới!",
+      "Hegra là một thành phố cổ với những ngôi mộ khổng lồ được chạm khắc thẳng vào các vách đá sa thạch."
+    ]
+  },
+  "AE": {
+    "tourism": [
+      "Tòa nhà Burj Khalifa",
+      "Đảo cọ Palm Jumeirah",
+      "Thánh đường Sheikh Zayed",
+      "Sa mạc Dubai"
+    ],
+    "culture": "Ở Các Tiểu vương quốc Ả Rập, người ta xây những tòa nhà chọc trời cao nhất thế giới ngay giữa sa mạc nóng bỏng!",
+    "cultureImage": "Tòa nhà Burj Khalifa",
+    "food": [
+      "Cơm Machboos",
+      "Bánh Luqaimat",
+      "Shawarma",
+      "Chà là"
+    ],
+    "funFacts": [
+      "Tòa nhà Burj Khalifa ở Dubai là tòa nhà cao nhất thế giới, cao hơn 800 mét!",
+      "Người ta đã đắp cát biển tạo ra những hòn đảo nhân tạo hình cây cọ khổng lồ mà từ vũ trụ cũng nhìn thấy được."
+    ]
+  },
+  "QA": {
+    "tourism": [
+      "Bảo tàng Nghệ thuật Hồi giáo",
+      "Thủ đô Doha",
+      "Chợ Souq Waqif",
+      "Sa mạc Khor Al Adaid"
+    ],
+    "culture": "Qatar nổi tiếng với những con chim ưng được huấn luyện đi săn, đây là truyền thống lâu đời rất được người dân yêu quý!",
+    "cultureImage": "Chợ Souq Waqif",
+    "food": [
+      "Cơm Machboos",
+      "Bánh Balaleet",
+      "Harees",
+      "Bánh ngọt Luqaimat"
+    ],
+    "funFacts": [
+      "Qatar có một nơi gọi là Biển Nội Địa, nơi sa mạc cát gặp trực tiếp mặt biển xanh, rất hiếm thấy trên thế giới!",
+      "Qatar từng tổ chức một giải bóng đá lớn nhất hành tinh với những sân vận động được làm mát giữa sa mạc nóng."
+    ]
+  },
+  "KW": {
+    "tourism": [
+      "Tháp Kuwait",
+      "Thủ đô Kuwait City",
+      "Đảo Failaka",
+      "Thánh đường Lớn"
+    ],
+    "culture": "Kuwait có những tòa tháp hình quả cầu xanh nổi tiếng, và người dân rất thích đi thuyền buồm gỗ truyền thống ra biển!",
+    "cultureImage": "Tháp Kuwait",
+    "food": [
+      "Cơm Machboos",
+      "Bánh mì Khubz",
+      "Harees",
+      "Bánh ngọt Gers Ogaily"
+    ],
+    "funFacts": [
+      "Kuwait là một trong những nơi nóng nhất Trái Đất, mùa hè nhiệt độ có thể lên rất cao!",
+      "Những con thuyền buồm gỗ truyền thống gọi là Dhow từng giúp người Kuwait lặn tìm ngọc trai dưới đáy biển."
+    ]
+  },
+  "IL": {
+    "tourism": [
+      "Thành cổ Jerusalem",
+      "Biển Chết",
+      "Thành phố Tel Aviv",
+      "Pháo đài Masada"
+    ],
+    "culture": "Israel có Biển Chết kỳ lạ đến mức ai cũng có thể nổi lềnh bềnh trên mặt nước mà không cần biết bơi!",
+    "cultureImage": "Biển Chết",
+    "food": [
+      "Falafel",
+      "Hummus",
+      "Bánh mì Pita",
+      "Shakshuka"
+    ],
+    "funFacts": [
+      "Biển Chết ở Israel mặn đến nỗi bạn có thể nằm nổi trên mặt nước và đọc sách dễ dàng!",
+      "Biển Chết cũng là điểm thấp nhất trên đất liền của toàn Trái Đất."
+    ]
+  },
+  "JO": {
+    "tourism": [
+      "Thành phố cổ Petra",
+      "Sa mạc Wadi Rum",
+      "Biển Chết",
+      "Thủ đô Amman"
+    ],
+    "culture": "Jordan có thành phố cổ Petra được tạc thẳng vào những vách đá hồng tuyệt đẹp, giống như trong phim phiêu lưu!",
+    "cultureImage": "Thành cổ Petra",
+    "food": [
+      "Mansaf",
+      "Falafel",
+      "Hummus",
+      "Bánh Knafeh"
+    ],
+    "funFacts": [
+      "Petra là một thành phố cổ được người xưa khắc trực tiếp vào vách đá hồng, và là một trong bảy kỳ quan thế giới mới!",
+      "Sa mạc Wadi Rum ở Jordan có cảnh quan giống Sao Hỏa đến mức nhiều bộ phim về vũ trụ được quay tại đây."
+    ]
+  },
+  "LB": {
+    "tourism": [
+      "Đền Baalbek",
+      "Thủ đô Beirut",
+      "Hang động Jeita Grotto",
+      "Rừng tuyết tùng Cedars"
+    ],
+    "culture": "Liban tự hào về cây tuyết tùng cổ thụ in trên lá cờ quốc gia, một loài cây xanh tốt suốt hàng nghìn năm!",
+    "cultureImage": "Cây tuyết tùng Liban",
+    "food": [
+      "Hummus",
+      "Tabbouleh",
+      "Falafel",
+      "Bánh Manakish"
+    ],
+    "funFacts": [
+      "Cây tuyết tùng được in ngay trên lá cờ của Liban, và có những cây sống tới hàng nghìn năm tuổi!",
+      "Hang động Jeita Grotto ở Liban có những măng đá khổng lồ và một dòng sông ngầm mà du khách đi thuyền tham quan được."
+    ]
+  },
+  "TR": {
+    "tourism": [
+      "Thánh đường Hagia Sophia",
+      "Vùng Cappadocia",
+      "Suối nước nóng Pamukkale",
+      "Thành phố Istanbul"
+    ],
+    "culture": "Thổ Nhĩ Kỳ nổi tiếng với những chuyến bay khinh khí cầu đầy màu sắc trên vùng đất đá kỳ lạ Cappadocia mỗi sáng sớm!",
+    "cultureImage": "Cappadocia",
+    "food": [
+      "Kebab",
+      "Baklava",
+      "Bánh mì Simit",
+      "Kẹo dẻo Thổ Nhĩ Kỳ"
+    ],
+    "funFacts": [
+      "Pamukkale ở Thổ Nhĩ Kỳ có những bậc thang đá vôi trắng như tuyết với hồ nước ấm, nhìn như một lâu đài bông gòn!",
+      "Thành phố Istanbul nằm trên cả hai châu lục là châu Âu và châu Á cùng một lúc."
+    ]
+  },
+  "KZ": {
+    "tourism": [
+      "Thủ đô Astana",
+      "Hẻm núi Charyn",
+      "Thành phố Almaty",
+      "Hồ Kaindy"
+    ],
+    "culture": "Người Kazakhstan có truyền thống cưỡi ngựa giỏi và nuôi đại bàng để đi săn trên thảo nguyên rộng lớn!",
+    "cultureImage": "Săn đại bàng Kazakhstan",
+    "food": [
+      "Beshbarmak",
+      "Bánh Baursak",
+      "Trà sữa",
+      "Mì Lagman"
+    ],
+    "funFacts": [
+      "Kazakhstan là quốc gia không giáp biển lớn nhất thế giới, rộng mênh mông như cả một châu lục nhỏ!",
+      "Ở hồ Kaindy có cả một khu rừng cây vẫn đứng thẳng dưới làn nước trong xanh, trông như rừng dưới nước."
+    ]
+  },
+  "UZ": {
+    "tourism": [
+      "Quảng trường Registan",
+      "Thành phố cổ Samarkand",
+      "Thành phố Bukhara",
+      "Thành phố Khiva"
+    ],
+    "culture": "Uzbekistan nằm trên Con đường Tơ lụa cổ xưa, nơi các thương nhân từng buôn bán lụa, gia vị và những công trình gạch men xanh tuyệt đẹp!",
+    "cultureImage": "Quảng trường Registan",
+    "food": [
+      "Plov",
+      "Bánh mì Non",
+      "Manti",
+      "Mì Lagman"
+    ],
+    "funFacts": [
+      "Samarkand ở Uzbekistan là một trong những thành phố cổ nhất thế giới với những tòa nhà ốp gạch men xanh ngọc lộng lẫy!",
+      "Uzbekistan là một trong hai quốc gia duy nhất trên thế giới mà muốn ra biển phải đi qua tới hai nước khác."
+    ]
+  },
+  "UA": {
+    "tourism": [
+      "Quảng trường Độc lập",
+      "Nhà thờ Thánh Sophia",
+      "Lâu đài Swallow's Nest",
+      "Núi Carpathian"
+    ],
+    "culture": "Trẻ em Ukraina thích trang trí những quả trứng đầy màu sắc với hoa văn tinh xảo gọi là pysanka.",
+    "cultureImage": "Trứng Phục sinh Pysanka",
+    "food": [
+      "Borscht",
+      "Varenyky",
+      "Bánh mì",
+      "Mật ong"
+    ],
+    "funFacts": [
+      "Ukraina là nước lớn nhất nằm hoàn toàn trong châu Âu.",
+      "Người Ukraina trồng rất nhiều hoa hướng dương, đây là loài hoa biểu tượng của đất nước."
+    ]
+  },
+  "PL": {
+    "tourism": [
+      "Lâu đài Wawel",
+      "Quảng trường chợ Krakow",
+      "Mỏ muối Wieliczka",
+      "Khu phố cổ Warszawa"
+    ],
+    "culture": "Ở Ba Lan, các nghệ nhân tạo ra những hộp gỗ sơn màu rực rỡ và cắt giấy đầy màu sắc gọi là wycinanki.",
+    "cultureImage": "Tranh cắt giấy Wycinanki",
+    "food": [
+      "Pierogi",
+      "Bánh mì",
+      "Xúc xích kielbasa",
+      "Súp củ dền"
+    ],
+    "funFacts": [
+      "Ba Lan có một mỏ muối với cả nhà thờ và tượng được tạc hoàn toàn từ muối.",
+      "Nhà thiên văn nổi tiếng Copernicus, người phát hiện Trái Đất quay quanh Mặt Trời, là người Ba Lan."
+    ]
+  },
+  "CZ": {
+    "tourism": [
+      "Cầu Charles",
+      "Lâu đài Praha",
+      "Đồng hồ thiên văn Praha",
+      "Quảng trường Phố Cổ"
+    ],
+    "culture": "Người Séc nổi tiếng với nghề thổi thủy tinh, tạo ra những món pha lê lấp lánh tuyệt đẹp.",
+    "cultureImage": "Pha lê Bohemia",
+    "food": [
+      "Knedlíky",
+      "Bánh mì",
+      "Goulash",
+      "Bánh nướng trắng trdelník"
+    ],
+    "funFacts": [
+      "Praha có một chiếc đồng hồ thiên văn hơn 600 tuổi vẫn chạy tốt mỗi ngày.",
+      "Cộng hòa Séc có nhiều lâu đài và pháo đài hơn bất kỳ nước nào khác ở châu Âu."
+    ]
+  },
+  "SK": {
+    "tourism": [
+      "Lâu đài Bratislava",
+      "Lâu đài Spiš",
+      "Dãy núi Tatra",
+      "Hang băng Dobšiná"
+    ],
+    "culture": "Ở Slovakia, người ta vẫn thổi loại sáo gỗ rất dài gọi là fujara để chơi những giai điệu dân ca.",
+    "cultureImage": "Sáo Fujara",
+    "food": [
+      "Bryndzové halušky",
+      "Bánh mì",
+      "Phô mai cừu",
+      "Súp bắp cải"
+    ],
+    "funFacts": [
+      "Slovakia có nhiều lâu đài tính trên đầu người nhiều hơn hầu hết các nước trên thế giới.",
+      "Dãy núi Tatra ở Slovakia là nơi sinh sống của gấu nâu, sói và linh miêu."
+    ]
+  },
+  "HU": {
+    "tourism": [
+      "Tòa nhà Quốc hội Hungary",
+      "Cầu Xích Széchenyi",
+      "Nhà tắm nước nóng Budapest",
+      "Hồ Balaton"
+    ],
+    "culture": "Người Hungary rất thích ớt bột đỏ gọi là paprika, họ cho vào hầu hết các món ăn để tạo màu và vị thơm ngon.",
+    "cultureImage": "Ớt bột Paprika",
+    "food": [
+      "Goulash",
+      "Bánh mì",
+      "Bánh Lángos",
+      "Xúc xích"
+    ],
+    "funFacts": [
+      "Budapest nằm trên hàng trăm suối nước nóng tự nhiên, nên có rất nhiều nhà tắm nước nóng.",
+      "Khối lập phương Rubik nổi tiếng được phát minh bởi một người Hungary."
+    ]
+  },
+  "RO": {
+    "tourism": [
+      "Lâu đài Bran",
+      "Lâu đài Peleș",
+      "Núi Carpathian",
+      "Đồng bằng sông Danube"
+    ],
+    "culture": "Người Romania mặc những bộ áo thêu trắng đẹp gọi là ie, và nhảy múa dân gian vòng tròn tay nắm tay.",
+    "cultureImage": "Áo thêu truyền thống Ie",
+    "food": [
+      "Sarmale",
+      "Bánh ngô mămăligă",
+      "Bánh mì",
+      "Phô mai"
+    ],
+    "funFacts": [
+      "Lâu đài Bran ở Romania thường được gọi là lâu đài của Bá tước Dracula.",
+      "Rừng ở Romania là nơi sinh sống của số lượng gấu nâu lớn nhất châu Âu."
+    ]
+  },
+  "BG": {
+    "tourism": [
+      "Nhà thờ Alexander Nevsky",
+      "Tu viện Rila",
+      "Nhà hát cổ Plovdiv",
+      "Núi Vitosha"
+    ],
+    "culture": "Bulgaria nổi tiếng với những cánh đồng hoa hồng bạt ngàn dùng để làm nước hoa thơm ngát.",
+    "cultureImage": "Thung lũng Hoa hồng",
+    "food": [
+      "Sữa chua",
+      "Bánh Banitsa",
+      "Salad shopska",
+      "Bánh mì"
+    ],
+    "funFacts": [
+      "Bulgaria là một trong những nơi đầu tiên trên thế giới làm ra sữa chua.",
+      "Khi người Bulgaria gật đầu thì có nghĩa là không, còn lắc đầu lại có nghĩa là có."
+    ]
+  },
+  "IE": {
+    "tourism": [
+      "Vách đá Moher",
+      "Đường lát đá Khổng lồ",
+      "Lâu đài Blarney",
+      "Công viên Quốc gia Killarney"
+    ],
+    "culture": "Người Ireland thích nhảy điệu Irish dance với đôi chân gõ nhịp nhanh thoăn thoắt còn tay giữ thẳng.",
+    "cultureImage": "Nhảy Irish dance",
+    "food": [
+      "Khoai tây",
+      "Bánh mì soda",
+      "Thịt hầm Ireland",
+      "Phô mai"
+    ],
+    "funFacts": [
+      "Ireland được gọi là Đảo Ngọc vì cỏ cây ở đây luôn xanh mướt quanh năm.",
+      "Cây đàn hạc là biểu tượng quốc gia của Ireland và in trên đồng tiền của nước này."
+    ]
+  },
+  "BE": {
+    "tourism": [
+      "Quảng trường Grand-Place",
+      "Tượng Manneken Pis",
+      "Bến cảng Bruges",
+      "Nguyên tử khổng lồ Atomium"
+    ],
+    "culture": "Bỉ nổi tiếng khắp thế giới với sô-cô-la thơm ngon và những chú robot nhỏ bằng sô-cô-la đủ hình thù.",
+    "cultureImage": "Sô-cô-la Bỉ",
+    "food": [
+      "Sô-cô-la",
+      "Bánh waffle",
+      "Khoai tây chiên",
+      "Vẹm hấp"
+    ],
+    "funFacts": [
+      "Khoai tây chiên thực ra được người Bỉ phát minh ra chứ không phải người Pháp.",
+      "Bỉ có một công trình khổng lồ hình nguyên tử cao 102 mét gọi là Atomium."
+    ]
+  },
+  "AT": {
+    "tourism": [
+      "Cung điện Schönbrunn",
+      "Dãy núi Alps",
+      "Làng Hallstatt",
+      "Cung điện Hofburg"
+    ],
+    "culture": "Áo là quê hương của nhạc cổ điển, nơi nhạc sĩ thiên tài Mozart đã sáng tác những bản nhạc tuyệt đẹp.",
+    "cultureImage": "Cung điện Schönbrunn",
+    "food": [
+      "Bánh táo strudel",
+      "Schnitzel",
+      "Bánh mì",
+      "Bánh Sachertorte"
+    ],
+    "funFacts": [
+      "Nhà soạn nhạc thiên tài Mozart sinh ra ở thành phố Salzburg của Áo.",
+      "Áo có những ngôi làng nhỏ xinh nằm bên hồ giữa dãy núi Alps tuyết phủ."
+    ]
+  },
+  "PT": {
+    "tourism": [
+      "Tháp Belém",
+      "Cầu Vasco da Gama",
+      "Đường tàu điện Lisboa",
+      "Bãi biển Algarve"
+    ],
+    "culture": "Người Bồ Đào Nha trang trí tường nhà bằng những viên gạch men xanh trắng đẹp gọi là azulejo.",
+    "cultureImage": "Gạch men Azulejo",
+    "food": [
+      "Bánh trứng nướng pastel de nata",
+      "Cá tuyết muối",
+      "Bánh mì",
+      "Hải sản"
+    ],
+    "funFacts": [
+      "Bồ Đào Nha là một trong những nước lâu đời nhất châu Âu với đường biên giới gần như không đổi.",
+      "Loại bần dùng làm nút chai rượu phần lớn được trồng và sản xuất ở Bồ Đào Nha."
+    ]
+  },
+  "DK": {
+    "tourism": [
+      "Tượng Nàng tiên cá nhỏ",
+      "Công viên Tivoli",
+      "Cung điện Amalienborg",
+      "Bến cảng Nyhavn"
+    ],
+    "culture": "Đan Mạch là quê hương của những khối đồ chơi Lego đầy màu sắc mà trẻ em khắp thế giới yêu thích.",
+    "cultureImage": "Đồ chơi Lego",
+    "food": [
+      "Bánh mì Smørrebrød",
+      "Bánh ngọt Đan Mạch",
+      "Xúc xích",
+      "Cá trích"
+    ],
+    "funFacts": [
+      "Những khối đồ chơi Lego nổi tiếng được phát minh ở Đan Mạch.",
+      "Nhà văn Andersen người Đan Mạch đã viết các truyện cổ tích như Nàng tiên cá và Cô bé bán diêm."
+    ]
+  },
+  "SE": {
+    "tourism": [
+      "Khu phố cổ Gamla Stan",
+      "Bảo tàng tàu Vasa",
+      "Cung điện Hoàng gia Stockholm",
+      "Khách sạn băng Icehotel"
+    ],
+    "culture": "Trẻ em Thụy Điển rất thích đồ ngọt, và có hẳn một ngày thứ Bảy đặc biệt để được ăn kẹo gọi là lördagsgodis.",
+    "cultureImage": "Ngựa gỗ Dalecarlia",
+    "food": [
+      "Thịt viên Thụy Điển",
+      "Bánh mì",
+      "Cá hồi",
+      "Bánh quế"
+    ],
+    "funFacts": [
+      "Giải thưởng Nobel danh giá được trao hằng năm tại thủ đô Stockholm của Thụy Điển.",
+      "Ở miền bắc Thụy Điển vào mùa hè, Mặt Trời không lặn nên trời sáng suốt cả đêm."
+    ]
+  },
+  "NO": {
+    "tourism": [
+      "Vịnh hẹp Geirangerfjord",
+      "Vách đá Preikestolen",
+      "Thành phố Bergen",
+      "Quần đảo Lofoten"
+    ],
+    "culture": "Ở Na Uy, vào những đêm trời quang, người ta có thể ngắm ánh sáng nhiều màu nhảy múa trên bầu trời gọi là Bắc cực quang.",
+    "cultureImage": "Bắc cực quang",
+    "food": [
+      "Cá hồi",
+      "Bánh mì",
+      "Phô mai nâu",
+      "Cá tuyết khô"
+    ],
+    "funFacts": [
+      "Na Uy có những vịnh biển sâu hẹp tuyệt đẹp gọi là fjord được núi đá bao quanh.",
+      "Vào mùa đông ở miền bắc Na Uy, người ta có thể ngắm dải Bắc cực quang lung linh trên trời."
+    ]
+  },
+  "FI": {
+    "tourism": [
+      "Nhà thờ chính tòa Helsinki",
+      "Làng Ông già Noel",
+      "Lâu đài tuyết Kemi",
+      "Khu hồ Lakeland"
+    ],
+    "culture": "Người Phần Lan rất thích tắm hơi trong phòng gỗ nóng gọi là sauna, hầu như nhà nào cũng có một phòng như vậy.",
+    "cultureImage": "Phòng tắm hơi Sauna",
+    "food": [
+      "Cá hồi",
+      "Bánh mì lúa mạch đen",
+      "Bánh Karelian",
+      "Quả việt quất"
+    ],
+    "funFacts": [
+      "Phần Lan có hơn 180 nghìn hồ nước nên được gọi là Xứ sở của ngàn hồ.",
+      "Người ta tin rằng Ông già Noel sống ở vùng Lapland phía bắc Phần Lan."
+    ]
+  },
+  "IS": {
+    "tourism": [
+      "Thác Gullfoss",
+      "Mạch nước phun Geysir",
+      "Hồ băng Jökulsárlón",
+      "Suối nước nóng Blue Lagoon"
+    ],
+    "culture": "Ở Iceland có rất nhiều mạch nước nóng phun lên từ lòng đất, người dân dùng để tắm và sưởi ấm nhà cửa.",
+    "cultureImage": "Mạch nước phun Geysir",
+    "food": [
+      "Cá",
+      "Bánh mì lúa mạch đen",
+      "Sữa chua skyr",
+      "Thịt cừu"
+    ],
+    "funFacts": [
+      "Iceland có rất nhiều núi lửa và mạch nước nóng phun lên từ lòng đất.",
+      "Iceland gần như không có muỗi, đây là điều rất hiếm thấy trên thế giới."
+    ]
+  },
+  "HR": {
+    "tourism": [
+      "Phố cổ Dubrovnik",
+      "Hồ Plitvice",
+      "Đấu trường Pula",
+      "Cung điện Diocletian"
+    ],
+    "culture": "Croatia là nơi ra đời của chiếc cà vạt, ban đầu là khăn quàng cổ của những người lính.",
+    "cultureImage": "Hồ Plitvice",
+    "food": [
+      "Hải sản",
+      "Bánh mì",
+      "Mực nướng",
+      "Phô mai"
+    ],
+    "funFacts": [
+      "Chiếc cà vạt mà mọi người đeo ngày nay có nguồn gốc từ Croatia.",
+      "Croatia có những hồ nước trong xanh với nhiều thác nước nối tiếp nhau ở vườn quốc gia Plitvice."
+    ]
+  },
+  "RS": {
+    "tourism": [
+      "Pháo đài Belgrade",
+      "Tu viện Studenica",
+      "Hẻm núi Đrina",
+      "Sông Danube"
+    ],
+    "culture": "Người Serbia thích nhảy điệu dân gian vòng tròn tay nắm tay gọi là kolo trong các dịp lễ hội vui vẻ.",
+    "cultureImage": "Điệu nhảy Kolo",
+    "food": [
+      "Thịt nướng ćevapi",
+      "Bánh mì",
+      "Bánh Burek",
+      "Mận khô"
+    ],
+    "funFacts": [
+      "Mận là loại trái cây rất quan trọng ở Serbia, được dùng làm mứt và nhiều món ngon.",
+      "Serbia có một ngôi nhà gỗ nhỏ xíu xây ngay trên một tảng đá giữa dòng sông Drina."
+    ]
+  },
+  "SI": {
+    "tourism": [
+      "Hồ Bled",
+      "Hang động Postojna",
+      "Lâu đài Predjama",
+      "Dãy núi Alps Julian"
+    ],
+    "culture": "Slovenia có hệ thống hang động đá vôi khổng lồ, nơi sinh sống của một loài kỳ giông trắng đặc biệt sống dưới lòng đất.",
+    "cultureImage": "Hồ Bled",
+    "food": [
+      "Bánh cuộn Potica",
+      "Bánh mì",
+      "Mật ong",
+      "Xúc xích Kranjska"
+    ],
+    "funFacts": [
+      "Slovenia có một hòn đảo nhỏ với nhà thờ nằm giữa hồ Bled tuyệt đẹp.",
+      "Trong hang động ở Slovenia có loài kỳ giông trắng gọi là rồng con, sống được hơn 100 năm."
+    ]
+  },
+  "EE": {
+    "tourism": [
+      "Phố cổ Tallinn",
+      "Lâu đài Toompea",
+      "Quảng trường Tòa thị chính",
+      "Vườn quốc gia Lahemaa"
+    ],
+    "culture": "Người Estonia rất yêu ca hát, cứ vài năm họ lại tổ chức lễ hội với hàng chục nghìn người cùng hát một lúc.",
+    "cultureImage": "Lễ hội ca hát Estonia",
+    "food": [
+      "Bánh mì đen",
+      "Cá trích",
+      "Khoai tây",
+      "Phô mai"
+    ],
+    "funFacts": [
+      "Estonia có lễ hội ca hát khổng lồ với hàng chục nghìn người cùng cất tiếng hát.",
+      "Estonia là một trong những nước có nhiều rừng và đầm lầy nhất châu Âu."
+    ]
+  },
+  "LV": {
+    "tourism": [
+      "Phố cổ Riga",
+      "Cung điện Rundāle",
+      "Thác Ventas",
+      "Bãi biển Jūrmala"
+    ],
+    "culture": "Người Latvia rất thích hát, và những bài dân ca ngắn của họ gọi là daina kể về thiên nhiên và cuộc sống.",
+    "cultureImage": "Phố cổ Riga",
+    "food": [
+      "Bánh mì lúa mạch đen",
+      "Cá trích",
+      "Khoai tây",
+      "Mật ong"
+    ],
+    "funFacts": [
+      "Latvia có một thác nước rộng nhất châu Âu, nơi cá có thể nhảy vọt lên không trung.",
+      "Thủ đô Riga của Latvia có rất nhiều tòa nhà cổ trang trí hoa văn cầu kỳ tuyệt đẹp."
+    ]
+  },
+  "LT": {
+    "tourism": [
+      "Phố cổ Vilnius",
+      "Đồi Thánh giá",
+      "Lâu đài Trakai",
+      "Mũi đất Curonian Spit"
+    ],
+    "culture": "Người Litva rất yêu quý hổ phách, loại đá vàng óng được làm từ nhựa cây cổ đại tìm thấy bên bờ biển.",
+    "cultureImage": "Hổ phách",
+    "food": [
+      "Bánh khoai tây cepelinai",
+      "Bánh mì đen",
+      "Súp củ dền",
+      "Phô mai"
+    ],
+    "funFacts": [
+      "Bên bờ biển Litva người ta tìm thấy hổ phách, loại đá vàng óng từ nhựa cây cổ đại.",
+      "Litva có một lâu đài bằng gạch đỏ xây trên một hòn đảo nhỏ giữa hồ."
+    ]
+  },
+  "BY": {
+    "tourism": [
+      "Lâu đài Mir",
+      "Lâu đài Nesvizh",
+      "Rừng nguyên sinh Belovezhskaya",
+      "Thư viện Quốc gia Minsk"
+    ],
+    "culture": "Belarus có những khu rừng cổ rộng lớn, nơi sinh sống của loài bò rừng bison châu Âu khổng lồ.",
+    "cultureImage": "Bò rừng bison châu Âu",
+    "food": [
+      "Bánh khoai tây draniki",
+      "Bánh mì đen",
+      "Súp củ dền",
+      "Mật ong"
+    ],
+    "funFacts": [
+      "Belarus có khu rừng nguyên sinh cổ xưa nhất châu Âu, nơi loài bò rừng bison sinh sống.",
+      "Khoảng 40 phần trăm diện tích Belarus được rừng cây bao phủ."
+    ]
+  },
+  "MC": {
+    "tourism": [
+      "Cung điện Hoàng tử Monaco",
+      "Bảo tàng Hải dương học",
+      "Vườn ngoại lai Monaco",
+      "Bến cảng Hercule"
+    ],
+    "culture": "Monaco là một đất nước tí hon bên bờ Địa Trung Hải, nổi tiếng với những chiếc du thuyền và xe đua sang trọng.",
+    "cultureImage": "Cung điện Hoàng tử Monaco",
+    "food": [
+      "Bánh Barbagiuan",
+      "Bánh mì",
+      "Hải sản",
+      "Bánh focaccia"
+    ],
+    "funFacts": [
+      "Monaco là quốc gia nhỏ thứ hai trên thế giới, chỉ sau Vatican.",
+      "Monaco nhỏ đến mức bạn có thể đi bộ ngang qua cả nước chỉ trong khoảng một giờ."
+    ]
+  },
+  "VA": {
+    "tourism": [
+      "Vương cung thánh đường Thánh Phêrô",
+      "Nhà nguyện Sistine",
+      "Bảo tàng Vatican",
+      "Quảng trường Thánh Phêrô"
+    ],
+    "culture": "Vatican là quốc gia nhỏ nhất thế giới, nơi có những bức bích họa nổi tiếng do danh họa Michelangelo vẽ trên trần nhà.",
+    "cultureImage": "Vương cung thánh đường Thánh Phêrô",
+    "food": [
+      "Mì Ý",
+      "Bánh mì",
+      "Pizza",
+      "Bánh ngọt"
+    ],
+    "funFacts": [
+      "Vatican là quốc gia nhỏ nhất thế giới, nhỏ hơn nhiều công viên lớn.",
+      "Trần nhà nguyện Sistine ở Vatican được danh họa Michelangelo vẽ khi nằm ngửa trên giàn giáo cao."
+    ]
+  },
+  "LU": {
+    "tourism": [
+      "Phố cổ Luxembourg",
+      "Cung điện Đại Công tước",
+      "Hẻm núi Bock",
+      "Lâu đài Vianden"
+    ],
+    "culture": "Luxembourg là một đất nước nhỏ với những lâu đài cổ kính và các pháo đài đá đục sâu vào vách núi.",
+    "cultureImage": "Lâu đài Vianden",
+    "food": [
+      "Judd mat Gaardebounen",
+      "Bánh mì",
+      "Phô mai",
+      "Bánh ngọt"
+    ],
+    "funFacts": [
+      "Luxembourg là quốc gia duy nhất trên thế giới có người đứng đầu là một vị Đại Công tước.",
+      "Thủ đô Luxembourg có những đường hầm và hang động đục sâu trong vách đá gọi là Bock."
+    ]
+  },
+  "AL": {
+    "tourism": [
+      "Lâu đài Gjirokastër",
+      "Bãi biển Ksamil",
+      "Thành cổ Berat",
+      "Núi Albania Alps"
+    ],
+    "culture": "Albania được gọi là vùng đất của những chú đại bàng, và hình đại bàng hai đầu nằm ngay trên lá cờ của nước này.",
+    "cultureImage": "Thành cổ Berat",
+    "food": [
+      "Byrek",
+      "Bánh mì",
+      "Phô mai",
+      "Sữa chua"
+    ],
+    "funFacts": [
+      "Albania được gọi là vùng đất của những chú đại bàng.",
+      "Thành phố Berat ở Albania có nhiều cửa sổ xếp chồng đến mức được gọi là Thành phố nghìn cửa sổ."
+    ]
+  },
+  "MA": {
+    "tourism": [
+      "Thành phố Marrakech",
+      "Sa mạc Sahara",
+      "Dãy núi Atlas",
+      "Thành phố Chefchaouen"
+    ],
+    "culture": "Người Maroc thích uống trà bạc hà ngọt và ở trong những ngôi nhà sơn màu xanh dương rất đẹp!",
+    "cultureImage": "Trà bạc hà Maroc",
+    "food": [
+      "Tagine",
+      "Couscous",
+      "Bánh mì Khobz",
+      "Trà bạc hà"
+    ],
+    "funFacts": [
+      "Maroc có một thành phố tên Chefchaouen nơi gần như mọi bức tường đều được sơn màu xanh dương!",
+      "Lạc đà ở Maroc có thể đi nhiều ngày trên sa mạc Sahara mà không cần uống nước."
+    ]
+  },
+  "TN": {
+    "tourism": [
+      "Thành phố Carthage",
+      "Sa mạc Sahara",
+      "Đảo Djerba",
+      "Thành phố Sidi Bou Said"
+    ],
+    "culture": "Người Tunisia sống bên bờ biển Địa Trung Hải xanh biếc và thích những ngôi nhà trắng cửa xanh xinh xắn!",
+    "cultureImage": "Sidi Bou Said",
+    "food": [
+      "Couscous",
+      "Bánh Brik",
+      "Harissa",
+      "Bánh mì Tabouna"
+    ],
+    "funFacts": [
+      "Một phần bộ phim Chiến Tranh Giữa Các Vì Sao được quay trên sa mạc của Tunisia!",
+      "Tunisia là quốc gia nằm xa nhất về phía bắc của cả châu Phi."
+    ]
+  },
+  "DZ": {
+    "tourism": [
+      "Sa mạc Sahara",
+      "Dãy núi Atlas",
+      "Thành phố Algiers",
+      "Cao nguyên Tassili n'Ajjer"
+    ],
+    "culture": "Người Algeria sống cạnh sa mạc lớn nhất thế giới và rất hiếu khách với những bữa ăn ấm cúng!",
+    "cultureImage": "Sa mạc Sahara",
+    "food": [
+      "Couscous",
+      "Tagine",
+      "Bánh mì Khobz",
+      "Chorba"
+    ],
+    "funFacts": [
+      "Algeria là quốc gia lớn nhất ở châu Phi về diện tích.",
+      "Hơn 80% diện tích Algeria là sa mạc Sahara với những cồn cát khổng lồ!"
+    ]
+  },
+  "LY": {
+    "tourism": [
+      "Sa mạc Sahara",
+      "Thành phố cổ Leptis Magna",
+      "Biển Địa Trung Hải",
+      "Thành phố Tripoli"
+    ],
+    "culture": "Người Libya sống giữa sa mạc rộng lớn và bờ biển xanh, thích uống trà ngọt cùng nhau!",
+    "cultureImage": "Sa mạc Sahara",
+    "food": [
+      "Couscous",
+      "Bazin",
+      "Bánh mì",
+      "Trà"
+    ],
+    "funFacts": [
+      "Gần như toàn bộ Libya là sa mạc, nên người dân sống tập trung gần bờ biển.",
+      "Libya có một thành phố cổ La Mã tên Leptis Magna với những cột đá khổng lồ còn nguyên vẹn!"
+    ]
+  },
+  "ET": {
+    "tourism": [
+      "Núi Simien",
+      "Hồ Tana",
+      "Thành phố Lalibela",
+      "Thung lũng Danakil"
+    ],
+    "culture": "Người Ethiopia có cách tính lịch riêng và một buổi pha cà phê đặc biệt rất vui dành cho cả nhà!",
+    "cultureImage": "Cà phê Ethiopia",
+    "food": [
+      "Injera",
+      "Doro Wat",
+      "Cà phê",
+      "Tibs"
+    ],
+    "funFacts": [
+      "Ethiopia được cho là nơi cây cà phê được phát hiện đầu tiên trên thế giới!",
+      "Lịch của Ethiopia có 13 tháng, nên họ luôn chậm hơn chúng ta khoảng 7 năm."
+    ]
+  },
+  "NG": {
+    "tourism": [
+      "Thác nước Erin Ijesha",
+      "Rừng thiêng Osun-Osogbo",
+      "Thành phố Lagos",
+      "Cao nguyên Jos"
+    ],
+    "culture": "Người Nigeria yêu âm nhạc và nhảy múa, với những bộ trang phục đầy màu sắc rực rỡ trong lễ hội!",
+    "cultureImage": "Trang phục truyền thống Nigeria",
+    "food": [
+      "Cơm Jollof",
+      "Egusi",
+      "Suya",
+      "Chuối chiên Plantain"
+    ],
+    "funFacts": [
+      "Nigeria là quốc gia đông dân nhất châu Phi.",
+      "Ở Nigeria có hơn 500 ngôn ngữ khác nhau được người dân sử dụng!"
+    ]
+  },
+  "GH": {
+    "tourism": [
+      "Vườn quốc gia Kakum",
+      "Hồ Volta",
+      "Thành phố Accra",
+      "Bờ biển Cape Coast"
+    ],
+    "culture": "Người Ghana dệt vải Kente nhiều màu sắc rực rỡ và rất nổi tiếng với những điệu trống vui nhộn!",
+    "cultureImage": "Vải Kente",
+    "food": [
+      "Cơm Jollof",
+      "Fufu",
+      "Banku",
+      "Kelewele"
+    ],
+    "funFacts": [
+      "Ghana có hồ Volta, một trong những hồ nhân tạo lớn nhất thế giới!",
+      "Ghana là nước trồng nhiều ca cao để làm sô cô la hàng đầu thế giới."
+    ]
+  },
+  "SN": {
+    "tourism": [
+      "Hồ Hồng Retba",
+      "Đảo Gorée",
+      "Thành phố Dakar",
+      "Vườn quốc gia Niokolo-Koba"
+    ],
+    "culture": "Người Senegal yêu âm nhạc với những chiếc trống và rất thân thiện, hay mời khách cùng ăn chung một mâm lớn!",
+    "cultureImage": "Trống Sabar",
+    "food": [
+      "Thieboudienne",
+      "Yassa",
+      "Mafe",
+      "Bánh Thiakry"
+    ],
+    "funFacts": [
+      "Senegal có một cái hồ tên Hồ Hồng vì nước của nó có màu hồng như sữa dâu!",
+      "Tượng đài Phục Hưng châu Phi ở Senegal còn cao hơn cả tượng Nữ Thần Tự Do."
+    ]
+  },
+  "TZ": {
+    "tourism": [
+      "Núi Kilimanjaro",
+      "Vườn quốc gia Serengeti",
+      "Đảo Zanzibar",
+      "Miệng núi lửa Ngorongoro"
+    ],
+    "culture": "Người Tanzania sống gần những đồng cỏ đầy thú hoang dã và chào nhau bằng từ vui tai Jambo!",
+    "cultureImage": "Sư tử",
+    "food": [
+      "Ugali",
+      "Nyama Choma",
+      "Pilau",
+      "Chuối Ndizi"
+    ],
+    "funFacts": [
+      "Núi Kilimanjaro ở Tanzania là ngọn núi cao nhất châu Phi và có tuyết trên đỉnh dù nằm gần xích đạo!",
+      "Mỗi năm hơn một triệu con linh dương đầu bò di cư qua đồng cỏ Serengeti."
+    ]
+  },
+  "UG": {
+    "tourism": [
+      "Thác nước Murchison",
+      "Hồ Victoria",
+      "Rừng Bwindi",
+      "Sông Nile"
+    ],
+    "culture": "Người Uganda sống gần những khu rừng có khỉ đột và hồ nước khổng lồ, rất yêu thiên nhiên!",
+    "cultureImage": "Khỉ đột núi",
+    "food": [
+      "Matoke",
+      "Posho",
+      "Rolex",
+      "Đậu phộng"
+    ],
+    "funFacts": [
+      "Uganda là một trong số ít nơi trên thế giới còn loài khỉ đột núi quý hiếm sinh sống!",
+      "Hồ Victoria nằm ở Uganda là hồ nước ngọt lớn nhất châu Phi."
+    ]
+  },
+  "RW": {
+    "tourism": [
+      "Vườn quốc gia Núi Lửa",
+      "Hồ Kivu",
+      "Thành phố Kigali",
+      "Rừng Nyungwe"
+    ],
+    "culture": "Người Rwanda sống ở đất nước ngàn ngọn đồi xanh mướt và rất tự hào về sự sạch đẹp của quê hương!",
+    "cultureImage": "Khỉ đột núi",
+    "food": [
+      "Ugali",
+      "Đậu",
+      "Chuối Plantain",
+      "Brochette"
+    ],
+    "funFacts": [
+      "Rwanda được gọi là Đất Nước Của Ngàn Ngọn Đồi vì có rất nhiều đồi xanh!",
+      "Rwanda cấm túi ni lông để giữ đất nước sạch đẹp, được coi là một trong những nước sạch nhất châu Phi."
+    ]
+  },
+  "CM": {
+    "tourism": [
+      "Núi Cameroon",
+      "Vườn quốc gia Waza",
+      "Thành phố Yaoundé",
+      "Bãi biển Kribi"
+    ],
+    "culture": "Người Cameroon yêu bóng đá và có rất nhiều bộ tộc với những điệu nhảy vui nhộn khác nhau!",
+    "cultureImage": "Voi châu Phi",
+    "food": [
+      "Ndolé",
+      "Fufu",
+      "Chuối Plantain",
+      "Cơm Jollof"
+    ],
+    "funFacts": [
+      "Cameroon được gọi là Châu Phi Thu Nhỏ vì có đủ rừng, núi, sa mạc và biển!",
+      "Núi Cameroon là một ngọn núi lửa và là điểm cao nhất của vùng Tây Phi."
+    ]
+  },
+  "CD": {
+    "tourism": [
+      "Sông Congo",
+      "Vườn quốc gia Virunga",
+      "Núi lửa Nyiragongo",
+      "Rừng nhiệt đới Congo"
+    ],
+    "culture": "Người Congo sống bên khu rừng nhiệt đới khổng lồ với nhiều loài thú quý hiếm và yêu âm nhạc sôi động!",
+    "cultureImage": "Khỉ đột",
+    "food": [
+      "Fufu",
+      "Cá hun khói",
+      "Chuối Plantain",
+      "Đậu phộng"
+    ],
+    "funFacts": [
+      "Rừng nhiệt đới Congo là khu rừng lớn thứ hai thế giới, chỉ sau rừng Amazon!",
+      "Sông Congo là con sông sâu nhất thế giới."
+    ]
+  },
+  "AO": {
+    "tourism": [
+      "Thác nước Kalandula",
+      "Thành phố Luanda",
+      "Sa mạc Namib",
+      "Vườn quốc gia Kissama"
+    ],
+    "culture": "Người Angola yêu âm nhạc và những điệu nhảy sôi động, sống bên bờ biển dài đầy nắng!",
+    "cultureImage": "Linh dương Sable đen khổng lồ",
+    "food": [
+      "Funge",
+      "Cá nướng",
+      "Cơm",
+      "Đậu"
+    ],
+    "funFacts": [
+      "Angola có thác nước Kalandula, một trong những thác nước lớn nhất châu Phi!",
+      "Angola là quê hương của loài linh dương Sable đen khổng lồ rất hiếm, chỉ sống ở đây."
+    ]
+  },
+  "ZM": {
+    "tourism": [
+      "Thác Victoria",
+      "Vườn quốc gia Nam Luangwa",
+      "Sông Zambezi",
+      "Hồ Kariba"
+    ],
+    "culture": "Người Zambia sống gần thác nước khổng lồ và những đồng cỏ đầy voi, sư tử và hươu cao cổ!",
+    "cultureImage": "Thác Victoria",
+    "food": [
+      "Nshima",
+      "Cá rô phi",
+      "Đậu",
+      "Rau xanh"
+    ],
+    "funFacts": [
+      "Thác Victoria nằm ở Zambia là một trong những thác nước lớn nhất thế giới, lớn đến mức khói nước bay lên trời!",
+      "Người địa phương gọi thác Victoria là Mosi-oa-Tunya, nghĩa là Làn Khói Vang Rền."
+    ]
+  },
+  "ZW": {
+    "tourism": [
+      "Thác Victoria",
+      "Khu di tích Great Zimbabwe",
+      "Vườn quốc gia Hwange",
+      "Hồ Kariba"
+    ],
+    "culture": "Người Zimbabwe tự hào về những công trình bằng đá cổ xưa và sống gần nhiều đàn voi lớn!",
+    "cultureImage": "Voi châu Phi",
+    "food": [
+      "Sadza",
+      "Nyama",
+      "Đậu phộng",
+      "Rau xanh"
+    ],
+    "funFacts": [
+      "Zimbabwe có một thành phố đá cổ tên Great Zimbabwe được xây hoàn toàn bằng đá mà không cần xi măng!",
+      "Tên nước Zimbabwe có nghĩa là Những Ngôi Nhà Bằng Đá."
+    ]
+  },
+  "MZ": {
+    "tourism": [
+      "Quần đảo Bazaruto",
+      "Đảo Mozambique",
+      "Vườn quốc gia Gorongosa",
+      "Bãi biển Tofo"
+    ],
+    "culture": "Người Mozambique sống bên bờ biển Ấn Độ Dương tuyệt đẹp với những rặng san hô đầy màu sắc!",
+    "cultureImage": "Rặng san hô",
+    "food": [
+      "Peri-peri gà",
+      "Hải sản",
+      "Cơm",
+      "Matapa"
+    ],
+    "funFacts": [
+      "Mozambique có bờ biển dài tuyệt đẹp nơi bạn có thể bơi cùng cá đuối khổng lồ và cá mập voi hiền lành!",
+      "Cá mập voi ở vùng biển Mozambique là loài cá lớn nhất thế giới nhưng chỉ ăn sinh vật nhỏ xíu."
+    ]
+  },
+  "BW": {
+    "tourism": [
+      "Đồng bằng Okavango",
+      "Sa mạc Kalahari",
+      "Vườn quốc gia Chobe",
+      "Cánh đồng muối Makgadikgadi"
+    ],
+    "culture": "Người Botswana sống gần những vùng đầm lầy đầy voi và rất gần gũi với thiên nhiên hoang dã!",
+    "cultureImage": "Voi châu Phi",
+    "food": [
+      "Seswaa",
+      "Pap",
+      "Đậu Morogo",
+      "Thịt bò"
+    ],
+    "funFacts": [
+      "Botswana có số lượng voi nhiều nhất thế giới!",
+      "Đồng bằng Okavango là nơi một con sông lớn chảy vào sa mạc rồi biến mất mà không ra biển."
+    ]
+  },
+  "NA": {
+    "tourism": [
+      "Sa mạc Namib",
+      "Cồn cát Sossusvlei",
+      "Vườn quốc gia Etosha",
+      "Bờ biển Skeleton"
+    ],
+    "culture": "Người Namibia sống gần sa mạc lâu đời nhất thế giới với những cồn cát đỏ cao chót vót!",
+    "cultureImage": "Cồn cát Sossusvlei",
+    "food": [
+      "Thịt nướng Braai",
+      "Pap",
+      "Biltong",
+      "Kapana"
+    ],
+    "funFacts": [
+      "Namibia có những cồn cát đỏ cao nhất thế giới, có cồn cao hơn cả 300 mét!",
+      "Sa mạc Namib được cho là sa mạc lâu đời nhất trên Trái Đất."
+    ]
+  },
+  "MG": {
+    "tourism": [
+      "Đại lộ Cây Bao Báp",
+      "Vườn quốc gia Andasibe",
+      "Đảo Nosy Be",
+      "Rừng đá Tsingy"
+    ],
+    "culture": "Người Madagascar sống trên hòn đảo đặc biệt với nhiều loài thú không nơi nào khác trên thế giới có được!",
+    "cultureImage": "Vượn cáo",
+    "food": [
+      "Romazava",
+      "Cơm",
+      "Ravitoto",
+      "Trái cây nhiệt đới"
+    ],
+    "funFacts": [
+      "Madagascar là quê hương của loài vượn cáo đáng yêu mà bạn không thể tìm thấy ở bất kỳ nơi nào khác trong tự nhiên!",
+      "Hơn 90% các loài động vật ở Madagascar chỉ sống duy nhất trên hòn đảo này."
+    ]
+  },
+  "MU": {
+    "tourism": [
+      "Bãi biển Le Morne",
+      "Đất Bảy Màu Chamarel",
+      "Thác Chamarel",
+      "Vườn bách thảo Pamplemousses"
+    ],
+    "culture": "Người Mauritius sống trên hòn đảo nhiệt đới xinh đẹp giữa biển xanh với nhiều nền văn hóa hòa quyện!",
+    "cultureImage": "Đất Bảy Màu Chamarel",
+    "food": [
+      "Dholl Puri",
+      "Cà ri",
+      "Cơm chiên",
+      "Trái cây nhiệt đới"
+    ],
+    "funFacts": [
+      "Mauritius có một vùng đất kỳ lạ với bảy màu sắc khác nhau tự nhiên trên cát!",
+      "Loài chim Dodo nổi tiếng từng sống duy nhất ở đảo Mauritius."
+    ]
+  },
+  "CI": {
+    "tourism": [
+      "Nhà thờ Basilica Yamoussoukro",
+      "Vườn quốc gia Taï",
+      "Thành phố Abidjan",
+      "Bãi biển Assinie"
+    ],
+    "culture": "Người Bờ Biển Ngà yêu âm nhạc, nhảy múa và trồng rất nhiều ca cao để làm sô cô la!",
+    "cultureImage": "Mặt nạ truyền thống",
+    "food": [
+      "Attiéké",
+      "Cơm Jollof",
+      "Foutou",
+      "Kedjenou"
+    ],
+    "funFacts": [
+      "Bờ Biển Ngà là nước trồng nhiều ca cao nhất thế giới để làm sô cô la!",
+      "Ở Bờ Biển Ngà có một nhà thờ khổng lồ là một trong những nhà thờ lớn nhất thế giới."
+    ]
+  },
+  "ML": {
+    "tourism": [
+      "Thành phố Timbuktu",
+      "Sông Niger",
+      "Nhà thờ Hồi giáo Djenné",
+      "Vách đá Bandiagara"
+    ],
+    "culture": "Người Mali xây những ngôi nhà bằng bùn đất độc đáo và có truyền thống kể chuyện bằng âm nhạc rất hay!",
+    "cultureImage": "Nhà thờ Hồi giáo Djenné",
+    "food": [
+      "Cơm",
+      "Tô (cháo)",
+      "Đậu phộng",
+      "Cá sông"
+    ],
+    "funFacts": [
+      "Mali có nhà thờ Hồi giáo Djenné, công trình bằng bùn đất lớn nhất thế giới!",
+      "Thành phố Timbuktu của Mali từng là một trung tâm học tập nổi tiếng với hàng ngàn cuốn sách cổ."
+    ]
+  },
+  "SO": {
+    "tourism": [
+      "Bãi biển Mogadishu",
+      "Hang động Laas Geel",
+      "Bờ biển Ấn Độ Dương",
+      "Thành phố Berbera"
+    ],
+    "culture": "Người Somalia là những người chăn lạc đà tài giỏi và yêu thích kể những bài thơ truyền miệng!",
+    "cultureImage": "Lạc đà",
+    "food": [
+      "Bánh Sabayad",
+      "Cơm Bariis",
+      "Thịt dê",
+      "Chuối"
+    ],
+    "funFacts": [
+      "Somalia có đường bờ biển dài nhất ở lục địa châu Phi!",
+      "Somalia nuôi rất nhiều lạc đà, thuộc hàng nhiều nhất thế giới."
+    ]
+  },
+  "SD": {
+    "tourism": [
+      "Kim tự tháp Meroë",
+      "Sông Nile",
+      "Sa mạc Nubia",
+      "Núi Jebel Barkal"
+    ],
+    "culture": "Người Sudan sống nơi hai dòng sông Nile gặp nhau và có những kim tự tháp cổ xưa độc đáo!",
+    "cultureImage": "Kim tự tháp Meroë",
+    "food": [
+      "Ful Medames",
+      "Bánh mì Kisra",
+      "Cơm",
+      "Đậu"
+    ],
+    "funFacts": [
+      "Sudan có nhiều kim tự tháp hơn cả Ai Cập, với hơn 200 kim tự tháp cổ!",
+      "Hai dòng sông Nile Xanh và Nile Trắng gặp nhau ở Sudan để tạo thành sông Nile."
+    ]
+  },
+  "AR": {
+    "tourism": [
+      "Thác Iguazu",
+      "Sông băng Perito Moreno",
+      "Vùng Patagonia",
+      "Bán đảo Valdés"
+    ],
+    "culture": "Người Argentina rất mê điệu nhảy Tango và môn bóng đá, họ thường nhảy múa vui vẻ ngoài đường phố.",
+    "cultureImage": "Tango",
+    "food": [
+      "Thịt nướng Asado",
+      "Bánh Empanada",
+      "Trà Mate",
+      "Kẹo sữa Dulce de leche"
+    ],
+    "funFacts": [
+      "Argentina có ngọn núi cao nhất châu Mỹ tên là Aconcagua.",
+      "Đây là quê hương của siêu sao bóng đá Lionel Messi.",
+      "Ở miền Nam Argentina lạnh đến mức có cả chim cánh cụt sống ngoài tự nhiên!"
+    ]
+  },
+  "CL": {
+    "tourism": [
+      "Đảo Phục Sinh",
+      "Sa mạc Atacama",
+      "Vùng Patagonia",
+      "Thành phố Valparaíso"
+    ],
+    "culture": "Người Chile yêu thích điệu nhảy dân gian Cueca và thường vẫy khăn tay trắng khi nhảy.",
+    "cultureImage": "Tượng Moai",
+    "food": [
+      "Bánh Empanada",
+      "Món Cazuela",
+      "Ngô nướng Humita",
+      "Bánh mì kẹp Completo"
+    ],
+    "funFacts": [
+      "Sa mạc Atacama ở Chile là nơi khô hạn nhất Trái Đất, có chỗ chưa từng có mưa.",
+      "Chile là quốc gia dài và hẹp nhất thế giới, dài hơn 4.000 km.",
+      "Trên Đảo Phục Sinh có gần 900 bức tượng đá khổng lồ bí ẩn gọi là Moai!"
+    ]
+  },
+  "PE": {
+    "tourism": [
+      "Machu Picchu",
+      "Hồ Titicaca",
+      "Đường vẽ Nazca",
+      "Thành phố Cusco"
+    ],
+    "culture": "Người Peru là hậu duệ của đế chế Inca, họ dệt vải len rực rỡ và chơi sáo gỗ truyền thống.",
+    "cultureImage": "Machu Picchu",
+    "food": [
+      "Cá sống Ceviche",
+      "Khoai tây Papa a la Huancaína",
+      "Thịt xiên Anticucho",
+      "Món Lomo saltado"
+    ],
+    "funFacts": [
+      "Machu Picchu là thành phố cổ của người Inca nằm cao trên đỉnh núi mây mù.",
+      "Peru là nơi đầu tiên trên thế giới trồng khoai tây, với hơn 3.000 loại khác nhau.",
+      "Loài lạc đà không bướu Llama ở Peru có thể phun nước bọt khi giận dỗi!"
+    ]
+  },
+  "CO": {
+    "tourism": [
+      "Thành phố Cartagena",
+      "Vùng cà phê Colombia",
+      "Sông Caño Cristales",
+      "Thủ đô Bogotá"
+    ],
+    "culture": "Người Colombia yêu thích điệu nhảy Cumbia sôi động và rất tự hào về cà phê thơm ngon của mình.",
+    "cultureImage": "Cumbia",
+    "food": [
+      "Món Bandeja paisa",
+      "Bánh ngô Arepa",
+      "Súp Ajiaco",
+      "Bánh Empanada"
+    ],
+    "funFacts": [
+      "Colombia là một trong những nước trồng cà phê ngon nhất thế giới.",
+      "Sông Caño Cristales được gọi là 'dòng sông năm màu' vì nước có nhiều màu sắc.",
+      "Colombia có nhiều loài chim hơn bất kỳ quốc gia nào trên Trái Đất!"
+    ]
+  },
+  "VE": {
+    "tourism": [
+      "Thác Angel",
+      "Núi bàn Roraima",
+      "Đảo Margarita",
+      "Hồ Maracaibo"
+    ],
+    "culture": "Người Venezuela yêu âm nhạc Joropo và thường chơi đàn hạc, đàn guitar nhỏ trong các buổi tiệc.",
+    "cultureImage": "Thác Angel",
+    "food": [
+      "Bánh ngô Arepa",
+      "Món Pabellón criollo",
+      "Bánh Hallaca",
+      "Bánh kẹp Cachapa"
+    ],
+    "funFacts": [
+      "Thác Angel ở Venezuela là thác nước cao nhất thế giới, cao gần một cây số.",
+      "Hồ Maracaibo có sấm sét đánh xuống gần như mỗi đêm trong năm.",
+      "Nước cao đến mức nó tan thành sương mù trước khi chạm đất!"
+    ]
+  },
+  "EC": {
+    "tourism": [
+      "Quần đảo Galápagos",
+      "Núi lửa Cotopaxi",
+      "Thủ đô Quito",
+      "Vùng đường xích đạo"
+    ],
+    "culture": "Người Ecuador đội mũ rơm Panama nổi tiếng và bán những tấm vải dệt nhiều màu ở chợ làng.",
+    "cultureImage": "Rùa Galápagos",
+    "food": [
+      "Cá sống Ceviche",
+      "Súp Locro",
+      "Chuối chiên Patacón",
+      "Món Hornado"
+    ],
+    "funFacts": [
+      "Quần đảo Galápagos là nơi có rùa khổng lồ sống hơn 100 tuổi.",
+      "Tên nước Ecuador có nghĩa là 'đường xích đạo' trong tiếng Tây Ban Nha.",
+      "Ở Ecuador, bạn có thể đặt một chân ở Bắc bán cầu và chân kia ở Nam bán cầu!"
+    ]
+  },
+  "BO": {
+    "tourism": [
+      "Cánh đồng muối Uyuni",
+      "Hồ Titicaca",
+      "Thành phố La Paz",
+      "Thung lũng Mặt Trăng"
+    ],
+    "culture": "Người Bolivia mặc váy xòe nhiều tầng và đội mũ quả dưa, họ tổ chức lễ hội Carnaval rực rỡ.",
+    "cultureImage": "Cánh đồng muối Uyuni",
+    "food": [
+      "Bánh Salteña",
+      "Món Silpancho",
+      "Súp Sopa de maní",
+      "Bánh Empanada"
+    ],
+    "funFacts": [
+      "Cánh đồng muối Uyuni là sa mạc muối lớn nhất thế giới, trắng xóa như tuyết.",
+      "Thủ đô La Paz là thủ đô nằm cao nhất thế giới.",
+      "Sau cơn mưa, cánh đồng muối biến thành tấm gương khổng lồ phản chiếu cả bầu trời!"
+    ]
+  },
+  "PY": {
+    "tourism": [
+      "Thác Monday",
+      "Sông Paraguay",
+      "Vùng Gran Chaco",
+      "Thủ đô Asunción"
+    ],
+    "culture": "Người Paraguay làm ren Ñandutí tinh xảo như mạng nhện và chơi đàn hạc Paraguay du dương.",
+    "cultureImage": "Đàn hạc Paraguay",
+    "food": [
+      "Bánh Chipa",
+      "Bánh ngô Sopa paraguaya",
+      "Món Mbejú",
+      "Trà lạnh Tereré"
+    ],
+    "funFacts": [
+      "Người Paraguay nói hai thứ tiếng là Tây Ban Nha và tiếng Guaraní cổ.",
+      "Ren Ñandutí trong tiếng địa phương có nghĩa là 'mạng nhện'.",
+      "Món 'súp Paraguay' thật ra không phải súp mà là một loại bánh ngô đặc!"
+    ]
+  },
+  "UY": {
+    "tourism": [
+      "Bãi biển Punta del Este",
+      "Thành phố Colonia del Sacramento",
+      "Thủ đô Montevideo",
+      "Bàn tay Los Dedos"
+    ],
+    "culture": "Người Uruguay yêu bóng đá và điệu nhảy Candombe với những chiếc trống lớn rộn ràng.",
+    "cultureImage": "Candombe",
+    "food": [
+      "Thịt nướng Asado",
+      "Bánh mì kẹp Chivito",
+      "Trà Mate",
+      "Bánh Empanada"
+    ],
+    "funFacts": [
+      "Uruguay là nước đầu tiên vô địch World Cup bóng đá năm 1930.",
+      "Người Uruguay uống trà Mate nhiều hơn hầu hết các nước trên thế giới.",
+      "Ở bãi biển có một bàn tay khổng lồ bằng đá nhô lên khỏi mặt cát!"
+    ]
+  },
+  "CU": {
+    "tourism": [
+      "Phố cổ Havana",
+      "Bãi biển Varadero",
+      "Thung lũng Viñales",
+      "Thành phố Trinidad"
+    ],
+    "culture": "Người Cuba mê điệu nhảy Salsa và âm nhạc Son, họ thường chạy những chiếc ô tô cổ đầy màu sắc.",
+    "cultureImage": "Salsa",
+    "food": [
+      "Cơm đậu Moros y Cristianos",
+      "Bánh mì Cubano",
+      "Thịt heo quay Lechón",
+      "Chuối chiên Tostones"
+    ],
+    "funFacts": [
+      "Trên đường phố Cuba có rất nhiều xe ô tô cổ từ những năm 1950 vẫn còn chạy.",
+      "Cuba là hòn đảo lớn nhất vùng biển Caribe.",
+      "Loài chim ruồi nhỏ nhất thế giới sống ở Cuba, bé như một con ong!"
+    ]
+  },
+  "JM": {
+    "tourism": [
+      "Thác Dunn's River",
+      "Vịnh Montego",
+      "Dãy núi Blue Mountains",
+      "Bãi biển Negril"
+    ],
+    "culture": "Người Jamaica sáng tạo ra nhạc Reggae vui tươi và rất giỏi chạy đua điền kinh.",
+    "cultureImage": "Nhạc Reggae",
+    "food": [
+      "Gà nướng Jerk",
+      "Cá Ackee",
+      "Cơm đậu",
+      "Bánh Festival"
+    ],
+    "funFacts": [
+      "Nhạc Reggae nổi tiếng thế giới ra đời từ Jamaica.",
+      "Người chạy nhanh nhất thế giới Usain Bolt là người Jamaica.",
+      "Cà phê Blue Mountain của Jamaica là một trong những loại cà phê đắt nhất thế giới!"
+    ]
+  },
+  "HT": {
+    "tourism": [
+      "Pháo đài Citadelle Laferrière",
+      "Cung điện Sans-Souci",
+      "Vịnh Labadee",
+      "Thác Bassin Bleu"
+    ],
+    "culture": "Người Haiti vẽ tranh đầy màu sắc và yêu âm nhạc Kompa với những điệu nhảy vui nhộn.",
+    "cultureImage": "Pháo đài Citadelle Laferrière",
+    "food": [
+      "Cơm đậu Diri ak pwa",
+      "Món Griot",
+      "Súp Soup joumou",
+      "Chuối chiên Banane pesée"
+    ],
+    "funFacts": [
+      "Haiti là nước đầu tiên trên thế giới do người nô lệ tự giải phóng lập nên.",
+      "Pháo đài Citadelle là một trong những lâu đài lớn nhất châu Mỹ.",
+      "Mỗi năm vào ngày đầu năm, người Haiti ăn món súp bí vàng để mừng tự do!"
+    ]
+  },
+  "DO": {
+    "tourism": [
+      "Bãi biển Punta Cana",
+      "Phố cổ Santo Domingo",
+      "Hồ Enriquillo",
+      "Bán đảo Samaná"
+    ],
+    "culture": "Người Dominica yêu điệu nhảy Merengue rộn ràng và môn bóng chày rất phổ biến.",
+    "cultureImage": "Merengue",
+    "food": [
+      "Món La bandera",
+      "Chuối nghiền Mangú",
+      "Món Sancocho",
+      "Chuối chiên Tostones"
+    ],
+    "funFacts": [
+      "Santo Domingo là thành phố châu Âu lập nên đầu tiên ở châu Mỹ.",
+      "Điệu nhảy Merengue ra đời ở đây và rất vui nhộn.",
+      "Cá voi lưng gù bơi hàng nghìn cây số đến vịnh Samaná để sinh con mỗi năm!"
+    ]
+  },
+  "GT": {
+    "tourism": [
+      "Đền Tikal",
+      "Hồ Atitlán",
+      "Thành phố Antigua",
+      "Núi lửa Pacaya"
+    ],
+    "culture": "Người Maya ở Guatemala dệt những bộ trang phục thổ cẩm rực rỡ và tổ chức chợ phiên đầy màu sắc.",
+    "cultureImage": "Đền Tikal",
+    "food": [
+      "Món Pepián",
+      "Bánh ngô Tamale",
+      "Bánh Tortilla",
+      "Món Kak'ik"
+    ],
+    "funFacts": [
+      "Đền Tikal là kim tự tháp cổ của người Maya ẩn giữa rừng rậm.",
+      "Guatemala có hơn 30 ngọn núi lửa, một số vẫn đang hoạt động.",
+      "Tên Guatemala có nghĩa là 'vùng đất nhiều cây cối' và còn có loài chim quetzal đuôi dài tuyệt đẹp!"
+    ]
+  },
+  "CR": {
+    "tourism": [
+      "Núi lửa Arenal",
+      "Rừng mây Monteverde",
+      "Vườn quốc gia Manuel Antonio",
+      "Bãi biển Tamarindo"
+    ],
+    "culture": "Người Costa Rica sống vui vẻ với câu nói 'Pura Vida' nghĩa là cuộc sống tươi đẹp.",
+    "cultureImage": "Núi lửa Arenal",
+    "food": [
+      "Cơm đậu Gallo pinto",
+      "Món Casado",
+      "Bánh ngô Tamale",
+      "Món Olla de carne"
+    ],
+    "funFacts": [
+      "Costa Rica không có quân đội mà dùng tiền đó để xây trường học.",
+      "Đất nước nhỏ bé này có gần 5 phần trăm số loài sinh vật của cả Trái Đất.",
+      "Loài lười ở đây di chuyển chậm đến mức rêu xanh mọc cả trên lông của chúng!"
+    ]
+  },
+  "PA": {
+    "tourism": [
+      "Kênh đào Panama",
+      "Phố cổ Panama",
+      "Quần đảo San Blas",
+      "Vườn quốc gia Soberanía"
+    ],
+    "culture": "Người bản địa Kuna ở Panama may những tấm vải Mola nhiều màu rất đẹp để trang trí áo.",
+    "cultureImage": "Kênh đào Panama",
+    "food": [
+      "Món Sancocho",
+      "Bánh ngô Tortilla",
+      "Cơm gà Arroz con pollo",
+      "Bánh chiên Carimañola"
+    ],
+    "funFacts": [
+      "Kênh đào Panama nối liền hai đại dương lớn nhất thế giới.",
+      "Tàu thuyền được nâng lên hạ xuống như đi thang máy nước để qua kênh đào.",
+      "Ở Panama, bạn có thể ngắm Mặt Trời mọc ở Thái Bình Dương và lặn ở Đại Tây Dương!"
+    ]
+  },
+  "HN": {
+    "tourism": [
+      "Đền Copán",
+      "Đảo Roatán",
+      "Hồ Yojoa",
+      "Vườn quốc gia Pico Bonito"
+    ],
+    "culture": "Người Honduras yêu điệu nhảy Punta của người Garífuna với tiếng trống rộn ràng bên bờ biển.",
+    "cultureImage": "Đền Copán",
+    "food": [
+      "Món Baleada",
+      "Bánh ngô Tamale",
+      "Cơm chiên Carne asada",
+      "Súp Sopa de caracol"
+    ],
+    "funFacts": [
+      "Đền Copán là thành phố cổ của người Maya với nhiều tượng đá chạm khắc tinh xảo.",
+      "Vùng biển Honduras có rạn san hô lớn thứ hai thế giới.",
+      "Ở Honduras có hiện tượng 'mưa cá', khi cá thật sự rơi từ trên trời xuống sau bão!"
+    ]
+  },
+  "NI": {
+    "tourism": [
+      "Hồ Nicaragua",
+      "Núi lửa Masaya",
+      "Thành phố Granada",
+      "Đảo Ometepe"
+    ],
+    "culture": "Người Nicaragua yêu thơ ca và âm nhạc Marimba với chiếc đàn gỗ phát ra âm thanh vui tai.",
+    "cultureImage": "Đàn Marimba",
+    "food": [
+      "Cơm đậu Gallo pinto",
+      "Món Nacatamal",
+      "Món Vigorón",
+      "Bánh Quesillo"
+    ],
+    "funFacts": [
+      "Hồ Nicaragua là hồ lớn nhất Trung Mỹ và có cả những hòn đảo núi lửa.",
+      "Bạn có thể trượt ván xuống sườn núi lửa Cerro Negro đang phun khói.",
+      "Hồ Nicaragua là một trong số ít hồ nước ngọt trên thế giới có cá mập sinh sống!"
+    ]
+  },
+  "SV": {
+    "tourism": [
+      "Hồ Coatepeque",
+      "Núi lửa Izalco",
+      "Bãi biển El Tunco",
+      "Tàn tích Joya de Cerén"
+    ],
+    "culture": "Người El Salvador làm món bánh Pupusa nổi tiếng và tổ chức nhiều lễ hội hoa rực rỡ.",
+    "cultureImage": "Bánh Pupusa",
+    "food": [
+      "Bánh Pupusa",
+      "Bánh ngô Tamale",
+      "Chuối chiên Plátano frito",
+      "Món Yuca frita"
+    ],
+    "funFacts": [
+      "El Salvador được gọi là 'vùng đất của những ngọn núi lửa'.",
+      "Đây là nước nhỏ nhất ở lục địa Trung Mỹ.",
+      "Tàn tích Joya de Cerén được gọi là 'Pompeii của châu Mỹ' vì bị tro núi lửa giữ nguyên vẹn!"
+    ]
+  },
+  "TT": {
+    "tourism": [
+      "Bãi biển Maracas",
+      "Đầm lầy Caroni",
+      "Hồ nhựa đường Pitch Lake",
+      "Vịnh Pigeon Point"
+    ],
+    "culture": "Người Trinidad và Tobago tổ chức lễ hội Carnival tưng bừng và chơi đàn trống thép Steelpan độc đáo.",
+    "cultureImage": "Đàn trống thép Steelpan",
+    "food": [
+      "Bánh Doubles",
+      "Bánh Roti",
+      "Món Callaloo",
+      "Cá chiên Bake and shark"
+    ],
+    "funFacts": [
+      "Đàn trống thép Steelpan được phát minh ở đây từ những chiếc thùng phuy cũ.",
+      "Đầm lầy Caroni là nơi sinh sống của loài chim ibis đỏ rực tuyệt đẹp.",
+      "Đảo này có cả một cái hồ làm bằng nhựa đường tự nhiên lớn nhất thế giới!"
+    ]
+  },
+  "BS": {
+    "tourism": [
+      "Bãi biển Pink Sand",
+      "Đảo Exuma",
+      "Thủ đô Nassau",
+      "Hố xanh Dean's Blue Hole"
+    ],
+    "culture": "Người Bahamas tổ chức lễ hội Junkanoo với trang phục lông vũ sặc sỡ và tiếng trống rộn ràng.",
+    "cultureImage": "Lễ hội Junkanoo",
+    "food": [
+      "Món Conch salad",
+      "Bánh Johnnycake",
+      "Súp Conch chowder",
+      "Cá chiên Fried snapper"
+    ],
+    "funFacts": [
+      "Bahamas có hơn 700 hòn đảo nằm rải rác trên vùng biển xanh trong.",
+      "Có một bãi biển ở đây cát màu hồng do vỏ sinh vật biển nhỏ xíu tạo nên.",
+      "Ở đảo Exuma có những chú heo con biết bơi ra biển để chào khách du lịch!"
+    ]
+  },
+  "BB": {
+    "tourism": [
+      "Hang động Harrison's Cave",
+      "Bãi biển Crane",
+      "Thủ đô Bridgetown",
+      "Vịnh Carlisle"
+    ],
+    "culture": "Người Barbados yêu nhạc Calypso và tổ chức lễ hội mùa thu hoạch mía đường Crop Over vui nhộn.",
+    "cultureImage": "Lễ hội Crop Over",
+    "food": [
+      "Cá chuồn Flying fish",
+      "Món Cou-cou",
+      "Bánh Macaroni pie",
+      "Món Pudding and souse"
+    ],
+    "funFacts": [
+      "Loài cá chuồn ở Barbados có thể lướt bay trên mặt biển.",
+      "Ngôi sao ca nhạc Rihanna sinh ra ở hòn đảo này.",
+      "Hang động Harrison có cả thác nước và hồ ngầm lung linh nằm sâu dưới lòng đất!"
+    ]
+  },
+  "NZ": {
+    "tourism": [
+      "Hồ Tekapo",
+      "Núi Cook",
+      "Vịnh Milford Sound",
+      "Hang đom đóm Waitomo"
+    ],
+    "culture": "Người Maori bản địa chào nhau bằng cách chạm mũi vào nhau và biểu diễn điệu nhảy haka đầy mạnh mẽ trước mỗi trận đấu!",
+    "cultureImage": "Điệu nhảy Haka",
+    "food": [
+      "Bánh Pavlova",
+      "Khoai lang Kumara",
+      "Thịt cừu nướng",
+      "Kem Hokey Pokey"
+    ],
+    "funFacts": [
+      "New Zealand có loài chim kiwi không biết bay, lông mềm như lông thú và là biểu tượng của cả đất nước.",
+      "Ở đây có số lượng cừu nhiều gấp khoảng 5 lần số người dân sống trên đảo!"
+    ]
+  },
+  "PG": {
+    "tourism": [
+      "Sông Sepik",
+      "Núi Wilhelm",
+      "Vịnh Kimbe",
+      "Đảo New Britain"
+    ],
+    "culture": "Papua New Guinea có hơn 800 ngôn ngữ khác nhau, là nơi nói nhiều thứ tiếng nhất thế giới, và các bộ tộc thường vẽ mặt rực rỡ trong lễ hội!",
+    "cultureImage": "Lễ hội Sing-sing",
+    "food": [
+      "Khoai môn",
+      "Chuối nướng",
+      "Khoai lang",
+      "Cá nướng lá chuối"
+    ],
+    "funFacts": [
+      "Đây là nơi sinh sống của chim thiên đường với bộ lông sặc sỡ tuyệt đẹp, được in cả lên lá cờ quốc gia.",
+      "Có những bộ tộc trong rừng sâu mà mãi gần đây thế giới bên ngoài mới biết đến!"
+    ]
+  },
+  "FJ": {
+    "tourism": [
+      "Đảo Mamanuca",
+      "Đảo Yasawa",
+      "Vịnh Beqa",
+      "Thành phố Suva"
+    ],
+    "culture": "Người Fiji nổi tiếng thân thiện, họ chào nhau bằng từ 'Bula!' và thường nhảy múa, hát quanh bát nước kava trong các buổi gặp mặt!",
+    "cultureImage": "Nghi lễ Kava",
+    "food": [
+      "Kokoda",
+      "Khoai môn",
+      "Cá hấp nước cốt dừa",
+      "Lovo"
+    ],
+    "funFacts": [
+      "Fiji có hơn 330 hòn đảo, nhưng chỉ khoảng một phần ba trong số đó có người sinh sống.",
+      "Những rạn san hô quanh đảo nhiều màu sắc đến mức người ta gọi nơi đây là thủ đô san hô mềm của thế giới!"
+    ]
+  },
+  "SB": {
+    "tourism": [
+      "Đầm Marovo",
+      "Đảo Guadalcanal",
+      "Thủ đô Honiara",
+      "Núi lửa Kavachi"
+    ],
+    "culture": "Người dân quần đảo Solomon sống gần biển, giỏi chèo xuồng gỗ và thường dùng vỏ ốc xinh đẹp làm tiền và đồ trang sức truyền thống!",
+    "cultureImage": "Xuồng gỗ truyền thống",
+    "food": [
+      "Khoai môn",
+      "Cá ngừ",
+      "Dừa",
+      "Khoai mỡ"
+    ],
+    "funFacts": [
+      "Đầm Marovo ở đây là đầm nước mặn lớn nhất thế giới được bao quanh bởi vô số đảo san hô.",
+      "Quanh đảo có một ngọn núi lửa nằm dưới biển tên Kavachi, thỉnh thoảng phun trào tạo ra cả hòn đảo mới rồi lại biến mất!"
+    ]
+  },
+  "VU": {
+    "tourism": [
+      "Núi lửa Yasur",
+      "Hồ xanh Nanda",
+      "Đảo Espiritu Santo",
+      "Thác Mele"
+    ],
+    "culture": "Ở Vanuatu có tục nhảy từ tháp gỗ cao với dây leo buộc ở chân, đây chính là trò nhảy bungee đầu tiên trên thế giới!",
+    "cultureImage": "Nhảy đất Naghol",
+    "food": [
+      "Laplap",
+      "Khoai môn",
+      "Cá nướng",
+      "Dừa"
+    ],
+    "funFacts": [
+      "Núi lửa Yasur ở đây luôn rực sáng và được gọi là một trong những ngọn núi lửa dễ ngắm nhất thế giới.",
+      "Đất nước này có nước biển trong xanh đến nỗi có thể nhìn thấy tận đáy ở nhiều bãi tắm!"
+    ]
+  },
+  "WS": {
+    "tourism": [
+      "Hố bơi Sua",
+      "Thác Sopoaga",
+      "Bãi biển Lalomanu",
+      "Đảo Upolu"
+    ],
+    "culture": "Người Samoa tự hào với nghệ thuật xăm mình truyền thống và điệu múa lửa đầy ấn tượng trong các lễ hội!",
+    "cultureImage": "Múa lửa Samoa",
+    "food": [
+      "Palusami",
+      "Khoai môn",
+      "Cá sống trộn nước cốt dừa",
+      "Chuối nướng"
+    ],
+    "funFacts": [
+      "Samoa từng đổi múi giờ, nhảy thẳng qua một ngày nên ở đây không hề có ngày 30 tháng 12 năm 2011!",
+      "Hố bơi Sua là một hồ nước xanh biếc nằm sâu dưới lòng đất, phải leo thang xuống mới bơi được."
+    ]
+  },
+  "TO": {
+    "tourism": [
+      "Đảo Tongatapu",
+      "Cổng đá Ha'amonga",
+      "Vòi phun Mapu'a",
+      "Đảo Vava'u"
+    ],
+    "culture": "Tonga là vương quốc duy nhất còn vua ở Thái Bình Dương, người dân yêu thích đan chiếu và dệt vải vỏ cây tapa nhiều hoa văn!",
+    "cultureImage": "Vải vỏ cây Tapa",
+    "food": [
+      "Lu sipi",
+      "Khoai môn",
+      "Heo quay",
+      "Ota ika"
+    ],
+    "funFacts": [
+      "Mỗi mùa đông, hàng đàn cá voi lưng gù bơi về vùng biển Tonga để sinh con.",
+      "Tonga là một trong những nơi đầu tiên trên Trái Đất đón bình minh mỗi ngày!"
+    ]
+  },
+  "KI": {
+    "tourism": [
+      "Đảo san hô Tarawa",
+      "Đảo Christmas",
+      "Vịnh Kiritimati",
+      "Đầm phá Tarawa"
+    ],
+    "culture": "Người Kiribati là những thủy thủ tài ba, họ biết nhìn sao trời và sóng biển để chèo thuyền đi khắp đại dương mênh mông!",
+    "cultureImage": "Thuyền buồm truyền thống",
+    "food": [
+      "Cá ngừ",
+      "Dừa",
+      "Quả mít chuối",
+      "Khoai môn"
+    ],
+    "funFacts": [
+      "Kiribati trải dài qua cả bốn nửa bán cầu của Trái Đất, là quốc gia duy nhất làm được điều này.",
+      "Hầu hết đất nước chỉ là những dải đảo san hô thấp, có nơi chỉ cao hơn mặt biển vài mét thôi!"
+    ]
+  },
+  "PW": {
+    "tourism": [
+      "Hồ Sứa",
+      "Quần đảo Rock",
+      "Vịnh Ngọc Lam",
+      "Đảo Babeldaob"
+    ],
+    "culture": "Palau nổi tiếng với những ngôi nhà họp mặt cộng đồng tên là Bai, được trang trí bằng các bức tranh kể chuyện đầy màu sắc!",
+    "cultureImage": "Nhà Bai",
+    "food": [
+      "Khoai môn",
+      "Cá ngừ",
+      "Dừa",
+      "Quả dứa"
+    ],
+    "funFacts": [
+      "Palau có một hồ nước chứa hàng triệu con sứa không hề chích, du khách có thể bơi lội cùng chúng.",
+      "Đây là một trong những nơi đầu tiên trên thế giới lập khu bảo tồn cá mập để bảo vệ chúng!"
+    ]
+  },
+  "NR": {
+    "tourism": [
+      "Vịnh Anibare",
+      "Đầm Buada",
+      "Cao nguyên Topside",
+      "Bãi đá Pinnacles"
+    ],
+    "culture": "Người Nauru có một môn thể thao độc đáo là huấn luyện chim cốc biển bắt cá, một truyền thống được truyền lại qua nhiều đời!",
+    "cultureImage": "Chim cốc biển",
+    "food": [
+      "Cá ngừ",
+      "Dừa",
+      "Quả dứa",
+      "Quả mít chuối"
+    ],
+    "funFacts": [
+      "Nauru là quốc gia nhỏ thứ ba thế giới, đi bộ vòng quanh cả đảo chỉ mất vài giờ đồng hồ.",
+      "Đây là nước cộng hòa nhỏ nhất hành tinh và không hề có thủ đô chính thức!"
+    ]
+  },
+  "HK": {
+    "tourism": [
+      "Đỉnh Thái Bình (Victoria Peak)",
+      "Cảng Victoria",
+      "Tượng Phật khổng lồ Thiên Đàn",
+      "Công viên Disneyland Hồng Kông"
+    ],
+    "culture": "Hồng Kông là thành phố nhộn nhịp với những tòa nhà chọc trời cao vút và những chuyến tàu điện hai tầng dễ thương!",
+    "cultureImage": "Cảng Victoria",
+    "food": [
+      "Dim sum",
+      "Mì hoành thánh",
+      "Trà sữa Hồng Kông",
+      "Bánh trứng nướng"
+    ],
+    "funFacts": [
+      "Hồng Kông có nhiều tòa nhà chọc trời hơn bất kỳ thành phố nào trên thế giới.",
+      "Tàu điện leo núi Peak Tram đưa du khách lên đỉnh núi cao nhất thành phố."
+    ]
+  },
+  "BH": {
+    "tourism": [
+      "Tháp đôi Bahrain World Trade Center",
+      "Cây Sự Sống (Tree of Life)",
+      "Pháo đài Bahrain",
+      "Đường đua Công thức 1 Bahrain"
+    ],
+    "culture": "Bahrain là một quốc đảo nhỏ ở vịnh Ba Tư, nổi tiếng với những bãi biển đẹp và nghề lặn tìm ngọc trai!",
+    "cultureImage": "Pháo đài Bahrain",
+    "food": [
+      "Cơm machboos",
+      "Bánh ngọt halwa",
+      "Cá nướng"
+    ],
+    "funFacts": [
+      "Bahrain là một hòn đảo, được nối với Ả Rập Xê Út bằng một cây cầu rất dài trên biển.",
+      "Cây Sự Sống là một cái cây cổ thụ sống giữa sa mạc khô cằn suốt hơn 400 năm."
+    ]
+  },
+  "OM": {
+    "tourism": [
+      "Nhà thờ Hồi giáo Sultan Qaboos",
+      "Sa mạc Wahiba Sands",
+      "Vịnh hẹp Khasab",
+      "Pháo đài Nizwa"
+    ],
+    "culture": "Oman là đất nước của những sa mạc vàng óng, núi cao và biển xanh, nơi người dân rất hiếu khách!",
+    "cultureImage": "Sa mạc",
+    "food": [
+      "Cơm shuwa",
+      "Bánh halwa Oman",
+      "Cá nướng"
+    ],
+    "funFacts": [
+      "Oman có những con đường mòn dẫn lên các ngọn núi cao nhất bán đảo Ả Rập.",
+      "Vùng biển Oman là nơi rùa biển khổng lồ lên bờ đẻ trứng mỗi năm."
+    ]
+  },
+  "YE": {
+    "tourism": [
+      "Đảo Socotra",
+      "Thành cổ Shibam",
+      "Thành phố cổ Sana'a",
+      "Cây máu rồng"
+    ],
+    "culture": "Yemen có những ngôi nhà tháp bằng đất sét cao như những tòa nhà chọc trời từ thời xa xưa!",
+    "cultureImage": "Cây máu rồng",
+    "food": [
+      "Bánh mì malooga",
+      "Súp saltah",
+      "Mật ong Yemen"
+    ],
+    "funFacts": [
+      "Đảo Socotra của Yemen có cây máu rồng kỳ lạ trông giống chiếc ô khổng lồ.",
+      "Thành phố Shibam được gọi là 'Manhattan của sa mạc' vì những tòa nhà đất cao tầng."
+    ]
+  },
+  "SY": {
+    "tourism": [
+      "Thành cổ Aleppo",
+      "Thành phố cổ Damascus",
+      "Lâu đài Krak des Chevaliers",
+      "Vườn ô liu"
+    ],
+    "culture": "Syria là một trong những nơi có thành phố lâu đời nhất thế giới, với những khu chợ cổ đầy màu sắc!",
+    "cultureImage": "Thành cổ Aleppo",
+    "food": [
+      "Bánh kibbeh",
+      "Đậu hummus",
+      "Bánh ngọt baklava"
+    ],
+    "funFacts": [
+      "Damascus là một trong những thành phố có người sinh sống lâu đời nhất trên Trái Đất.",
+      "Syria trồng rất nhiều ô liu để làm dầu ô liu thơm ngon."
+    ]
+  },
+  "PS": {
+    "tourism": [
+      "Thành phố cổ Jericho",
+      "Biển Chết",
+      "Thành phố Bethlehem",
+      "Vườn ô liu"
+    ],
+    "culture": "Palestine có những vườn ô liu xanh mướt và các thành phố cổ kính lâu đời bậc nhất thế giới!",
+    "cultureImage": "Vườn ô liu",
+    "food": [
+      "Đậu hummus",
+      "Bánh falafel",
+      "Bánh maqluba"
+    ],
+    "funFacts": [
+      "Jericho được xem là một trong những thành phố cổ xưa nhất thế giới.",
+      "Người Palestine làm món đậu hummus thơm ngon từ đậu gà nghiền."
+    ]
+  },
+  "TM": {
+    "tourism": [
+      "Hố lửa Darvaza",
+      "Thủ đô Ashgabat",
+      "Sa mạc Karakum",
+      "Hẻm núi Yangykala"
+    ],
+    "culture": "Turkmenistan là đất nước sa mạc rộng lớn với những con ngựa Akhal-Teke lông óng ánh như vàng!",
+    "cultureImage": "Ngựa Akhal-Teke",
+    "food": [
+      "Cơm plov",
+      "Bánh mì chorek",
+      "Dưa hấu"
+    ],
+    "funFacts": [
+      "Turkmenistan có một hố lửa giữa sa mạc cháy suốt nhiều chục năm gọi là 'Cổng Địa Ngục'.",
+      "Ngựa Akhal-Teke của nước này có bộ lông sáng bóng lấp lánh như kim loại."
+    ]
+  },
+  "KG": {
+    "tourism": [
+      "Hồ Issyk-Kul",
+      "Núi Thiên Sơn",
+      "Thung lũng Ala Archa",
+      "Tháp Burana"
+    ],
+    "culture": "Kyrgyzstan là đất nước của những ngọn núi cao chót vót và các lều tròn yurt truyền thống!",
+    "cultureImage": "Lều yurt",
+    "food": [
+      "Mì beshbarmak",
+      "Cơm plov",
+      "Bánh boorsok"
+    ],
+    "funFacts": [
+      "Hồ Issyk-Kul là một trong những hồ trên núi lớn nhất thế giới và không bao giờ đóng băng.",
+      "Hơn 90 phần trăm đất nước Kyrgyzstan được bao phủ bởi núi non."
+    ]
+  },
+  "TJ": {
+    "tourism": [
+      "Dãy núi Pamir",
+      "Hồ Iskanderkul",
+      "Thủ đô Dushanbe",
+      "Hồ Karakul"
+    ],
+    "culture": "Tajikistan là xứ sở của những đỉnh núi cao ngất ngưởng được gọi là 'nóc nhà thế giới'!",
+    "cultureImage": "Dãy núi Pamir",
+    "food": [
+      "Cơm osh (plov)",
+      "Mì qurutob",
+      "Bánh mì non"
+    ],
+    "funFacts": [
+      "Tajikistan có đỉnh núi Ismoil Somoni cao gần 7.500 mét, một trong những đỉnh cao nhất Trung Á.",
+      "Hơn một nửa đất nước nằm ở độ cao trên 3.000 mét so với mực nước biển."
+    ]
+  },
+  "AZ": {
+    "tourism": [
+      "Tháp Lửa (Flame Towers)",
+      "Thành cổ Baku",
+      "Núi lửa bùn",
+      "Cung điện Shirvanshah"
+    ],
+    "culture": "Azerbaijan được gọi là 'Vùng đất lửa' vì có những ngọn lửa tự nhiên cháy từ lòng đất!",
+    "cultureImage": "Tháp Lửa",
+    "food": [
+      "Cơm plov",
+      "Bánh dolma",
+      "Trà đen Azerbaijan"
+    ],
+    "funFacts": [
+      "Azerbaijan có nhiều núi lửa bùn nhất thế giới, phun ra bùn thay vì dung nham.",
+      "Thủ đô Baku có ba tòa tháp hình ngọn lửa khổng lồ phát sáng vào ban đêm."
+    ]
+  },
+  "AM": {
+    "tourism": [
+      "Tu viện Geghard",
+      "Hồ Sevan",
+      "Núi Aragats",
+      "Đền Garni"
+    ],
+    "culture": "Armenia là đất nước nhỏ xinh giữa những ngọn núi, nổi tiếng với bảng chữ cái riêng độc đáo!",
+    "cultureImage": "Hồ Sevan",
+    "food": [
+      "Bánh mì lavash",
+      "Bánh dolma",
+      "Mơ khô Armenia"
+    ],
+    "funFacts": [
+      "Armenia có bảng chữ cái riêng được tạo ra từ hơn 1.600 năm trước.",
+      "Hồ Sevan là một trong những hồ nước ngọt trên núi lớn nhất thế giới."
+    ]
+  },
+  "GE": {
+    "tourism": [
+      "Dãy núi Kavkaz",
+      "Thủ đô Tbilisi",
+      "Thị trấn hang động Uplistsikhe",
+      "Bãi biển Batumi"
+    ],
+    "culture": "Gruzia là đất nước có những điệu múa sôi động và là nơi làm rượu nho lâu đời nhất thế giới!",
+    "cultureImage": "Dãy núi Kavkaz",
+    "food": [
+      "Bánh phô mai khachapuri",
+      "Bánh bao khinkali",
+      "Nho"
+    ],
+    "funFacts": [
+      "Gruzia được xem là nơi con người làm rượu vang từ nho sớm nhất trên Trái Đất.",
+      "Đất nước này nằm dưới chân dãy núi Kavkaz hùng vĩ."
+    ]
+  },
+  "MD": {
+    "tourism": [
+      "Tu viện đá Orheiul Vechi",
+      "Hầm rượu Cricova",
+      "Thủ đô Chișinău",
+      "Vườn nho"
+    ],
+    "culture": "Moldova là đất nước nhỏ với những cánh đồng nho mênh mông và các điệu nhảy dân gian vui nhộn!",
+    "cultureImage": "Vườn nho",
+    "food": [
+      "Bánh ngô mămăligă",
+      "Bánh plăcintă",
+      "Súp zeamă"
+    ],
+    "funFacts": [
+      "Moldova có hầm rượu Cricova với những đường hầm dài như cả một thành phố ngầm.",
+      "Đất nước này có rất nhiều vườn nho và nổi tiếng về làm rượu vang."
+    ]
+  },
+  "LI": {
+    "tourism": [
+      "Lâu đài Vaduz",
+      "Dãy núi Alps",
+      "Thủ đô Vaduz",
+      "Đường mòn đi bộ trên núi"
+    ],
+    "culture": "Liechtenstein là một trong những nước nhỏ nhất thế giới, nằm gọn giữa những ngọn núi Alps tuyệt đẹp!",
+    "cultureImage": "Lâu đài Vaduz",
+    "food": [
+      "Bánh bột käsknöpfle",
+      "Bánh ngô ribel",
+      "Phô mai"
+    ],
+    "funFacts": [
+      "Liechtenstein nhỏ đến mức bạn có thể đi bộ băng qua cả nước chỉ trong một ngày.",
+      "Đây là một trong số ít quốc gia trên thế giới không có sân bay riêng."
+    ]
+  },
+  "MT": {
+    "tourism": [
+      "Thủ đô Valletta",
+      "Đảo Gozo",
+      "Đền cổ Megalithic",
+      "Bãi biển Đầm Xanh (Blue Lagoon)"
+    ],
+    "culture": "Malta là một đảo quốc nhỏ giữa biển Địa Trung Hải với làn nước xanh trong vắt như pha lê!",
+    "cultureImage": "Bãi biển Đầm Xanh",
+    "food": [
+      "Bánh pastizzi",
+      "Bánh mì ftira",
+      "Cá nướng"
+    ],
+    "funFacts": [
+      "Malta có những ngôi đền bằng đá cổ hơn cả kim tự tháp Ai Cập.",
+      "Biển quanh Malta trong xanh đến mức là nơi tuyệt vời để lặn ngắm cá."
+    ]
+  },
+  "SM": {
+    "tourism": [
+      "Ba Tháp San Marino",
+      "Núi Titano",
+      "Vương cung thánh đường San Marino",
+      "Phố cổ trên núi"
+    ],
+    "culture": "San Marino là một đất nước tí hon nằm trên đỉnh núi, được bao quanh hoàn toàn bởi nước Ý!",
+    "cultureImage": "Ba Tháp San Marino",
+    "food": [
+      "Bánh torta tre monti",
+      "Mì pasta",
+      "Bánh ngọt Ý"
+    ],
+    "funFacts": [
+      "San Marino là một trong những nước cộng hòa lâu đời nhất thế giới còn tồn tại.",
+      "Cả đất nước nằm gọn trên ngọn núi Titano và được nước Ý bao quanh."
+    ]
+  },
+  "AD": {
+    "tourism": [
+      "Dãy núi Pyrenees",
+      "Khu trượt tuyết Grandvalira",
+      "Thủ đô Andorra la Vella",
+      "Hồ Engolasters"
+    ],
+    "culture": "Andorra là đất nước nhỏ nằm giữa các ngọn núi Pyrenees, nơi tuyệt vời để trượt tuyết vào mùa đông!",
+    "cultureImage": "Dãy núi Pyrenees",
+    "food": [
+      "Món hầm trinxat",
+      "Thịt nướng",
+      "Phô mai núi"
+    ],
+    "funFacts": [
+      "Andorra nằm trên núi cao nên có rất nhiều khu trượt tuyết nổi tiếng.",
+      "Đây là một quốc gia nhỏ kẹp giữa hai nước Pháp và Tây Ban Nha."
+    ]
+  },
+  "BA": {
+    "tourism": [
+      "Cầu cổ Stari Most",
+      "Thác nước Kravica",
+      "Thủ đô Sarajevo",
+      "Sông Neretva"
+    ],
+    "culture": "Bosnia và Herzegovina có những cây cầu đá cổ kính bắc qua các dòng sông xanh ngọc bích!",
+    "cultureImage": "Cầu cổ Stari Most",
+    "food": [
+      "Thịt cuộn ćevapi",
+      "Bánh burek",
+      "Bánh ngọt baklava"
+    ],
+    "funFacts": [
+      "Cây cầu cổ Stari Most ở thành phố Mostar đã hơn 400 năm tuổi.",
+      "Đất nước này có nhiều dòng sông và thác nước xanh trong tuyệt đẹp."
+    ]
+  },
+  "ME": {
+    "tourism": [
+      "Vịnh Kotor",
+      "Hồ Skadar",
+      "Bãi biển Sveti Stefan",
+      "Vườn quốc gia Durmitor"
+    ],
+    "culture": "Montenegro có nghĩa là 'Núi Đen', đất nước với những ngọn núi cao và bờ biển tuyệt đẹp!",
+    "cultureImage": "Vịnh Kotor",
+    "food": [
+      "Thịt cuộn ćevapi",
+      "Phô mai núi",
+      "Cá nướng"
+    ],
+    "funFacts": [
+      "Tên Montenegro có nghĩa là 'Núi Đen' trong tiếng Ý.",
+      "Vịnh Kotor uốn lượn giữa những ngọn núi trông giống như một vịnh hẹp tuyệt đẹp."
+    ]
+  },
+  "MK": {
+    "tourism": [
+      "Hồ Ohrid",
+      "Thủ đô Skopje",
+      "Hẻm núi Matka",
+      "Núi Vodno"
+    ],
+    "culture": "Bắc Macedonia có hồ Ohrid cổ xưa và trong xanh, là nơi tuyệt đẹp để bơi lội và ngắm cảnh!",
+    "cultureImage": "Hồ Ohrid",
+    "food": [
+      "Món hầm tavče gravče",
+      "Ớt nướng ajvar",
+      "Bánh burek"
+    ],
+    "funFacts": [
+      "Hồ Ohrid là một trong những hồ cổ xưa và sâu nhất châu Âu.",
+      "Hồ này có nhiều loài cá và sinh vật chỉ sống riêng ở nơi đây."
+    ]
+  },
+  "XK": {
+    "tourism": [
+      "Thác nước Mirusha",
+      "Thủ đô Pristina",
+      "Dãy núi Sharr",
+      "Thành phố cổ Prizren"
+    ],
+    "culture": "Kosovo là một đất nước trẻ ở châu Âu với những ngọn núi xanh và các thị trấn cổ xinh đẹp!",
+    "cultureImage": "Dãy núi Sharr",
+    "food": [
+      "Bánh flia",
+      "Thịt cuộn qebapa",
+      "Bánh burek"
+    ],
+    "funFacts": [
+      "Kosovo là một trong những quốc gia trẻ nhất ở châu Âu.",
+      "Dãy núi Sharr là nơi có những đồng cỏ xanh và các khu trượt tuyết."
+    ]
+  },
+  "CY": {
+    "tourism": [
+      "Bãi biển Petra tou Romiou",
+      "Thủ đô Nicosia",
+      "Dãy núi Troodos",
+      "Vịnh Fig Tree"
+    ],
+    "culture": "Cộng hòa Síp là một đảo quốc xinh đẹp giữa biển Địa Trung Hải với nắng vàng và biển xanh quanh năm!",
+    "cultureImage": "Bãi biển",
+    "food": [
+      "Phô mai halloumi",
+      "Bánh mì pita",
+      "Món souvlaki"
+    ],
+    "funFacts": [
+      "Síp là một hòn đảo nắng ấm quanh năm với rất nhiều bãi biển đẹp.",
+      "Phô mai halloumi nổi tiếng của Síp có thể nướng mà không bị chảy."
+    ]
+  },
+  "CV": {
+    "tourism": [
+      "Đảo Sal",
+      "Núi lửa Pico do Fogo",
+      "Bãi biển Santa Maria",
+      "Thủ đô Praia"
+    ],
+    "culture": "Cabo Verde là một nhóm đảo giữa Đại Tây Dương, nổi tiếng với âm nhạc vui tươi và bãi biển cát trắng!",
+    "cultureImage": "Bãi biển",
+    "food": [
+      "Món hầm cachupa",
+      "Cá nướng",
+      "Cơm với đậu"
+    ],
+    "funFacts": [
+      "Cabo Verde gồm mười hòn đảo nằm rải rác giữa Đại Tây Dương.",
+      "Đảo Fogo có một ngọn núi lửa cao mà người dân vẫn trồng nho ở gần đó."
+    ]
+  },
+  "BZ": {
+    "tourism": [
+      "Hố xanh khổng lồ (Great Blue Hole)",
+      "Rạn san hô Belize",
+      "Đền cổ Maya Caracol",
+      "Đảo Caye Caulker"
+    ],
+    "culture": "Belize có rạn san hô tuyệt đẹp và những ngôi đền cổ Maya ẩn mình trong rừng xanh!",
+    "cultureImage": "Hố xanh khổng lồ",
+    "food": [
+      "Cơm với đậu",
+      "Cá nướng",
+      "Bánh ngô tamale"
+    ],
+    "funFacts": [
+      "Belize có 'Hố Xanh Khổng Lồ', một hố tròn sâu thẳm dưới biển nhìn từ trên cao rất đẹp.",
+      "Rạn san hô của Belize là một trong những rạn san hô lớn nhất thế giới."
+    ]
+  },
+  "GY": {
+    "tourism": [
+      "Thác nước Kaieteur",
+      "Rừng mưa Amazon",
+      "Thủ đô Georgetown",
+      "Sông Essequibo"
+    ],
+    "culture": "Guyana là đất nước của những khu rừng mưa xanh thẳm và một thác nước hùng vĩ bậc nhất thế giới!",
+    "cultureImage": "Thác nước Kaieteur",
+    "food": [
+      "Bánh roti",
+      "Cơm cà ri",
+      "Bánh pepperpot"
+    ],
+    "funFacts": [
+      "Thác Kaieteur của Guyana cao gấp nhiều lần thác Niagara nổi tiếng.",
+      "Phần lớn đất nước được bao phủ bởi rừng mưa nhiệt đới rậm rạp."
+    ]
+  },
+  "SR": {
+    "tourism": [
+      "Rừng mưa nhiệt đới Suriname",
+      "Thủ đô Paramaribo",
+      "Hồ Brokopondo",
+      "Sông Suriname"
+    ],
+    "culture": "Suriname là một đất nước nhỏ ở Nam Mỹ với những khu rừng mưa rộng lớn đầy chim và thú quý hiếm!",
+    "cultureImage": "Rừng mưa nhiệt đới",
+    "food": [
+      "Cơm cà ri",
+      "Bánh roti",
+      "Mì pom"
+    ],
+    "funFacts": [
+      "Suriname là quốc gia có diện tích nhỏ nhất ở Nam Mỹ.",
+      "Hơn 90 phần trăm đất nước được phủ kín bởi rừng mưa nhiệt đới xanh tươi."
+    ]
+  },
+  "SS": {
+    "tourism": [
+      "Vườn quốc gia Boma",
+      "Sông Nin Trắng",
+      "Vườn quốc gia Bandingilo",
+      "Thác Fula"
+    ],
+    "culture": "Ở Nam Sudan, người dân thường nuôi những đàn bò sừng dài rất to và quý như báu vật!",
+    "cultureImage": "Bò sừng dài",
+    "food": [
+      "Cháo kẫn (asida)",
+      "Đậu phộng",
+      "Cá sông"
+    ],
+    "funFacts": [
+      "Nam Sudan là một trong những quốc gia trẻ nhất thế giới.",
+      "Hàng triệu con linh dương di cư qua đồng bằng nơi đây mỗi năm."
+    ]
+  },
+  "ER": {
+    "tourism": [
+      "Thành phố Asmara",
+      "Quần đảo Dahlak",
+      "Biển Đỏ",
+      "Núi Emba Soira"
+    ],
+    "culture": "Người Eritrea thích uống cà phê theo nghi thức truyền thống rất vui và ấm cúng.",
+    "cultureImage": "Cà phê",
+    "food": [
+      "Bánh injera",
+      "Món zigni cay",
+      "Bánh mì"
+    ],
+    "funFacts": [
+      "Eritrea nằm bên bờ Biển Đỏ xanh biếc đầy san hô.",
+      "Thủ đô Asmara có nhiều tòa nhà cổ rất đẹp được bảo tồn."
+    ]
+  },
+  "DJ": {
+    "tourism": [
+      "Hồ Assal",
+      "Hồ Abbé",
+      "Vịnh Tadjoura",
+      "Biển Đỏ"
+    ],
+    "culture": "Ở Djibouti, du khách có thể bơi cùng những chú cá mập voi khổng lồ hiền lành!",
+    "cultureImage": "Cá mập voi",
+    "food": [
+      "Bánh lahoh",
+      "Cá nướng",
+      "Cơm cà ri"
+    ],
+    "funFacts": [
+      "Hồ Assal là điểm thấp nhất châu Phi và mặn hơn cả biển.",
+      "Djibouti có những cột muối trắng kỳ lạ mọc lên từ mặt hồ."
+    ]
+  },
+  "BI": {
+    "tourism": [
+      "Hồ Tanganyika",
+      "Vườn quốc gia Kibira",
+      "Thác Karera",
+      "Núi Heha"
+    ],
+    "culture": "Burundi nổi tiếng với những người đánh trống cùng nhảy múa tưng bừng theo nhịp.",
+    "cultureImage": "Trống",
+    "food": [
+      "Chuối",
+      "Đậu",
+      "Cá hồ Tanganyika"
+    ],
+    "funFacts": [
+      "Hồ Tanganyika là một trong những hồ sâu nhất thế giới.",
+      "Burundi nằm giữa những ngọn đồi xanh nên được gọi là vùng đất ngàn đồi."
+    ]
+  },
+  "BF": {
+    "tourism": [
+      "Vườn quốc gia Arli",
+      "Đỉnh Tenakourou",
+      "Hồ Tengrela",
+      "Vòm đá Sindou"
+    ],
+    "culture": "Burkina Faso có lễ hội phim ảnh và mặt nạ gỗ đầy màu sắc rất vui nhộn.",
+    "cultureImage": "Mặt nạ",
+    "food": [
+      "Cháo tô (tô)",
+      "Cơm gạo",
+      "Đậu phộng"
+    ],
+    "funFacts": [
+      "Hồ Tengrela có những chú hà mã sống cùng người dân hiền hòa.",
+      "Burkina Faso nổi tiếng với những bức tượng đồng và mặt nạ gỗ tinh xảo."
+    ]
+  },
+  "NE": {
+    "tourism": [
+      "Sa mạc Sahara",
+      "Sông Niger",
+      "Cao nguyên Aïr",
+      "Sa mạc Ténéré"
+    ],
+    "culture": "Ở Niger, người Tuareg mặc áo choàng xanh và cưỡi lạc đà băng qua sa mạc.",
+    "cultureImage": "Lạc đà",
+    "food": [
+      "Cháo kê",
+      "Cơm",
+      "Thịt cừu nướng"
+    ],
+    "funFacts": [
+      "Niger có những con hươu cao cổ cuối cùng ở Tây Phi.",
+      "Phần lớn đất nước là sa mạc Sahara mênh mông cát vàng."
+    ]
+  },
+  "TD": {
+    "tourism": [
+      "Hồ Tchad",
+      "Vườn quốc gia Zakouma",
+      "Cao nguyên Ennedi",
+      "Hồ Ounianga"
+    ],
+    "culture": "Tchad có những vòm đá khổng lồ giữa sa mạc trông như lâu đài thiên nhiên.",
+    "cultureImage": "Vòm đá",
+    "food": [
+      "Cháo bột (boule)",
+      "Cá khô",
+      "Đậu phộng"
+    ],
+    "funFacts": [
+      "Vườn quốc gia Zakouma là nơi sống của nhiều đàn voi lớn.",
+      "Cao nguyên Ennedi có những cổng đá tự nhiên cao vút rất kỳ vĩ."
+    ]
+  },
+  "CF": {
+    "tourism": [
+      "Vườn quốc gia Dzanga-Sangha",
+      "Thác Boali",
+      "Sông Ubangi",
+      "Rừng nhiệt đới"
+    ],
+    "culture": "Trong rừng Cộng hòa Trung Phi có khỉ đột và voi rừng sống giữa cây xanh rậm rạp.",
+    "cultureImage": "Khỉ đột",
+    "food": [
+      "Sắn",
+      "Chuối",
+      "Đậu phộng"
+    ],
+    "funFacts": [
+      "Khu rừng nơi đây là nhà của loài khỉ đột đất thấp quý hiếm.",
+      "Voi rừng thường ra bãi đất trống để liếm khoáng chất."
+    ]
+  },
+  "CG": {
+    "tourism": [
+      "Vườn quốc gia Odzala",
+      "Sông Congo",
+      "Thác Loufoulakari",
+      "Rừng nhiệt đới"
+    ],
+    "culture": "Cộng hòa Congo có khu rừng mưa rộng lớn với khỉ đột và rất nhiều loài chim.",
+    "cultureImage": "Khỉ đột",
+    "food": [
+      "Cá nướng",
+      "Sắn",
+      "Chuối"
+    ],
+    "funFacts": [
+      "Rừng mưa Congo là khu rừng lớn thứ hai thế giới.",
+      "Sông Congo là một trong những con sông sâu nhất hành tinh."
+    ]
+  },
+  "GA": {
+    "tourism": [
+      "Vườn quốc gia Loango",
+      "Sông Ogooué",
+      "Bãi biển Pongara",
+      "Rừng nhiệt đới"
+    ],
+    "culture": "Gabon có những bãi biển nơi voi rừng và hà mã dạo chơi sát mép sóng biển!",
+    "cultureImage": "Voi rừng",
+    "food": [
+      "Cá nướng",
+      "Sắn",
+      "Chuối"
+    ],
+    "funFacts": [
+      "Gabon dành gần một phần mười diện tích làm vườn quốc gia bảo vệ thiên nhiên.",
+      "Đây là nơi hiếm hoi thấy hà mã bơi ngoài biển."
+    ]
+  },
+  "GQ": {
+    "tourism": [
+      "Đảo Bioko",
+      "Núi lửa Pico Basile",
+      "Bãi biển Arena Blanca",
+      "Rừng nhiệt đới"
+    ],
+    "culture": "Guinea Xích Đạo là đất nước nói tiếng Tây Ban Nha duy nhất ở châu Phi.",
+    "cultureImage": "Rùa biển",
+    "food": [
+      "Cá nướng",
+      "Sắn",
+      "Chuối"
+    ],
+    "funFacts": [
+      "Rùa biển khổng lồ về đẻ trứng trên các bãi biển nơi đây.",
+      "Đảo Bioko có những chú khỉ với khuôn mặt nhiều màu rất đặc biệt."
+    ]
+  },
+  "MW": {
+    "tourism": [
+      "Hồ Malawi",
+      "Vườn quốc gia Liwonde",
+      "Cao nguyên Mulanje",
+      "Vườn quốc gia Nyika"
+    ],
+    "culture": "Hồ Malawi được gọi là hồ sao lung linh vì ánh đèn thuyền chài về đêm.",
+    "cultureImage": "Hồ Malawi",
+    "food": [
+      "Cháo nsima",
+      "Cá chambo",
+      "Đậu"
+    ],
+    "funFacts": [
+      "Hồ Malawi có nhiều loài cá nhiều màu hơn bất kỳ hồ nào trên thế giới.",
+      "Người dân thân thiện nên Malawi được gọi là trái tim ấm áp của châu Phi."
+    ]
+  },
+  "LS": {
+    "tourism": [
+      "Núi Maloti",
+      "Thác Maletsunyane",
+      "Đỉnh Thabana Ntlenyana",
+      "Hồ Katse"
+    ],
+    "culture": "Người Lesotho khoác chăn len đầy màu sắc và cưỡi ngựa nhỏ băng qua núi.",
+    "cultureImage": "Ngựa",
+    "food": [
+      "Cháo papa",
+      "Đậu",
+      "Bánh mì hấp"
+    ],
+    "funFacts": [
+      "Lesotho là nước duy nhất có toàn bộ lãnh thổ cao trên 1000 mét.",
+      "Vào mùa đông, tuyết trắng phủ kín những ngọn núi nơi đây."
+    ]
+  },
+  "SZ": {
+    "tourism": [
+      "Khu bảo tồn Mlilwane",
+      "Thung lũng Ezulwini",
+      "Núi Sibebe",
+      "Vườn quốc gia Hlane"
+    ],
+    "culture": "Eswatini có lễ hội nhảy múa với hoa lau rực rỡ rất đông vui và náo nhiệt.",
+    "cultureImage": "Lễ hội",
+    "food": [
+      "Cháo ngô",
+      "Thịt nướng",
+      "Đậu phộng"
+    ],
+    "funFacts": [
+      "Núi Sibebe là một trong những khối đá lớn nhất thế giới.",
+      "Eswatini là một trong những vương quốc cuối cùng còn lại ở châu Phi."
+    ]
+  },
+  "SC": {
+    "tourism": [
+      "Bãi biển Anse Lazio",
+      "Đảo Praslin",
+      "Khu bảo tồn Vallée de Mai",
+      "Đảo La Digue"
+    ],
+    "culture": "Seychelles có những bãi biển cát trắng và đá granit khổng lồ tròn nhẵn rất đẹp.",
+    "cultureImage": "Rùa khổng lồ",
+    "food": [
+      "Cá ri",
+      "Cơm dừa",
+      "Trái cây nhiệt đới"
+    ],
+    "funFacts": [
+      "Nơi đây có loài dừa biển nặng nhất thế giới với hạt khổng lồ.",
+      "Rùa khổng lồ Aldabra sống ở Seychelles có thể thọ hơn trăm tuổi."
+    ]
+  },
+  "GM": {
+    "tourism": [
+      "Sông Gambia",
+      "Khu bảo tồn Abuko",
+      "Đảo Kunta Kinteh",
+      "Bãi biển Kotu"
+    ],
+    "culture": "Gambia là thiên đường ngắm chim với hàng trăm loài chim đủ màu sắc rực rỡ.",
+    "cultureImage": "Chim",
+    "food": [
+      "Cơm benachin",
+      "Cá nướng",
+      "Đậu phộng"
+    ],
+    "funFacts": [
+      "Gambia là quốc gia nhỏ nhất ở lục địa châu Phi.",
+      "Dòng sông Gambia chảy dài xuyên suốt gần hết đất nước."
+    ]
+  },
+  "GN": {
+    "tourism": [
+      "Cao nguyên Fouta Djallon",
+      "Thác Soumba",
+      "Núi Nimba",
+      "Sông Niger"
+    ],
+    "culture": "Guinea được gọi là tháp nước Tây Phi vì nhiều con sông lớn bắt nguồn từ đây.",
+    "cultureImage": "Thác nước",
+    "food": [
+      "Cơm gạo",
+      "Cá nướng",
+      "Đậu phộng"
+    ],
+    "funFacts": [
+      "Nhiều con sông lớn của Tây Phi đều bắt nguồn từ vùng núi Guinea.",
+      "Núi Nimba là nơi sống của nhiều loài vật quý hiếm."
+    ]
+  },
+  "GW": {
+    "tourism": [
+      "Quần đảo Bijagós",
+      "Vườn quốc gia Orango",
+      "Sông Geba",
+      "Bãi biển Bubaque"
+    ],
+    "culture": "Guinea-Bissau có quần đảo xinh đẹp với hà mã biết bơi trong nước biển!",
+    "cultureImage": "Hà mã",
+    "food": [
+      "Cơm gạo",
+      "Cá nướng",
+      "Hạt điều"
+    ],
+    "funFacts": [
+      "Quần đảo Bijagós có nhóm hà mã hiếm hoi sống ở vùng nước mặn.",
+      "Rùa biển về đẻ trứng trên các bãi cát của quần đảo này."
+    ]
+  },
+  "SL": {
+    "tourism": [
+      "Bãi biển Tokeh",
+      "Đảo Banana",
+      "Vườn quốc gia Outamba-Kilimi",
+      "Khu bảo tồn tinh tinh Tacugama"
+    ],
+    "culture": "Sierra Leone có khu bảo tồn nơi những chú tinh tinh được chăm sóc yêu thương.",
+    "cultureImage": "Tinh tinh",
+    "food": [
+      "Cơm gạo",
+      "Lá sắn",
+      "Cá nướng"
+    ],
+    "funFacts": [
+      "Bãi biển ở Sierra Leone có cát trắng mịn và nước biển trong xanh.",
+      "Khu bảo tồn Tacugama cứu giúp những chú tinh tinh mồ côi."
+    ]
+  },
+  "LR": {
+    "tourism": [
+      "Vườn quốc gia Sapo",
+      "Bãi biển Robertsport",
+      "Núi Nimba",
+      "Rừng nhiệt đới"
+    ],
+    "culture": "Liberia có rừng mưa xanh tươi với những chú hà mã lùn nhỏ nhắn dễ thương.",
+    "cultureImage": "Hà mã lùn",
+    "food": [
+      "Cơm gạo",
+      "Lá khoai",
+      "Cá nướng"
+    ],
+    "funFacts": [
+      "Vườn quốc gia Sapo là khu rừng mưa lớn nhất của Liberia.",
+      "Hà mã lùn quý hiếm sống trong những khu rừng rậm nơi đây."
+    ]
+  },
+  "TG": {
+    "tourism": [
+      "Hồ Togo",
+      "Vườn quốc gia Fazao-Malfakassa",
+      "Làng Tamberma (Koutammakou)",
+      "Bãi biển Lomé"
+    ],
+    "culture": "Togo có những ngôi nhà đất hình tháp độc đáo trông như lâu đài tí hon.",
+    "cultureImage": "Nhà đất",
+    "food": [
+      "Cháo fufu",
+      "Cơm gạo",
+      "Cá nướng"
+    ],
+    "funFacts": [
+      "Những ngôi nhà tháp đất ở Koutammakou rất nổi tiếng và được bảo vệ.",
+      "Togo có bờ biển đẹp với hàng cọ dừa rợp bóng."
+    ]
+  },
+  "BJ": {
+    "tourism": [
+      "Làng nổi Ganvié",
+      "Vườn quốc gia Pendjari",
+      "Bãi biển Ouidah",
+      "Sông Ouémé"
+    ],
+    "culture": "Benin có ngôi làng nổi trên mặt nước với những ngôi nhà sàn và thuyền nhỏ.",
+    "cultureImage": "Làng nổi",
+    "food": [
+      "Cháo fufu",
+      "Cơm gạo",
+      "Đậu phộng"
+    ],
+    "funFacts": [
+      "Làng nổi Ganvié được gọi là Venice của châu Phi.",
+      "Vườn quốc gia Pendjari có sư tử, voi và nhiều thú hoang dã."
+    ]
+  },
+  "MR": {
+    "tourism": [
+      "Sa mạc Sahara",
+      "Mắt Sahara (Richat)",
+      "Vườn quốc gia Banc d'Arguin",
+      "Thị trấn Chinguetti"
+    ],
+    "culture": "Mauritania có mắt Sahara, một vòng tròn đá khổng lồ nhìn rõ từ vũ trụ!",
+    "cultureImage": "Sa mạc",
+    "food": [
+      "Cơm cá thieboudienne",
+      "Thịt cừu",
+      "Chà là"
+    ],
+    "funFacts": [
+      "Mắt Sahara là vòng tròn đá rộng tới mức phi hành gia nhìn thấy từ trên cao.",
+      "Hàng triệu con chim biển trú đông ở vườn quốc gia Banc d'Arguin."
+    ]
+  },
+  "FM": {
+    "tourism": [
+      "Đảo Pohnpei",
+      "Di tích Nan Madol",
+      "Đảo Yap",
+      "Đảo Chuuk"
+    ],
+    "culture": "Micronesia có thành phố đá cổ xây trên mặt nước biển rất kỳ bí và độc đáo.",
+    "cultureImage": "San hô",
+    "food": [
+      "Cá biển",
+      "Khoai môn",
+      "Dừa"
+    ],
+    "funFacts": [
+      "Nan Madol là thành phố đá cổ được xây trên hơn chín mươi hòn đảo nhỏ.",
+      "Ở đảo Yap, người xưa dùng những đồng tiền bằng đá khổng lồ."
+    ]
+  },
+  "MH": {
+    "tourism": [
+      "Đảo san hô Majuro",
+      "Đảo Bikini",
+      "Hồ nước Arno",
+      "Bãi biển nhiệt đới"
+    ],
+    "culture": "Người Quần đảo Marshall ngày xưa dùng bản đồ làm từ que và vỏ ốc để đi biển.",
+    "cultureImage": "San hô",
+    "food": [
+      "Cá biển",
+      "Dừa",
+      "Quả bánh mì (sa kê)"
+    ],
+    "funFacts": [
+      "Quần đảo Marshall gồm hàng nghìn đảo nhỏ và đảo san hô vòng.",
+      "Người xưa biết đọc sóng biển để tìm đường giữa đại dương mênh mông."
+    ]
+  },
+  "TV": {
+    "tourism": [
+      "Đảo san hô Funafuti",
+      "Khu bảo tồn Funafuti",
+      "Đảo Nanumea",
+      "Biển Thái Bình Dương"
+    ],
+    "culture": "Tuvalu là đất nước tí hon giữa biển xanh với những đảo san hô vòng tuyệt đẹp.",
+    "cultureImage": "San hô",
+    "food": [
+      "Cá biển",
+      "Dừa",
+      "Quả bánh mì (sa kê)"
+    ],
+    "funFacts": [
+      "Tuvalu là một trong những quốc gia nhỏ nhất thế giới.",
+      "Đất nước này gồm các đảo san hô vòng thấp nổi giữa Thái Bình Dương."
+    ]
   }
 }
