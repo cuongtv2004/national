@@ -5,6 +5,7 @@ import { geoEquirectangular, geoPath } from 'd3-geo'
 import { html } from '../html.js'
 import { useCountries } from '../context.js'
 import { Spinner, ErrorBox } from '../components/Spinner.js'
+import { Globe } from '../components/Globe.js'
 
 const W = 1000
 const H = 500
@@ -30,6 +31,7 @@ export function MapPage() {
   const [topo, setTopo] = useState(null)
   const [topoErr, setTopoErr] = useState(null)
   const [sel, setSel] = useState(null)
+  const [view, setView] = useState('2d') // '2d' phẳng | '3d' quả cầu
 
   useEffect(() => {
     let alive = true
@@ -91,6 +93,20 @@ export function MapPage() {
         )}
       </div>
 
+      <!-- Chuyển chế độ phẳng / quả cầu -->
+      <div class="flex gap-2 mb-3">
+        <button
+          onClick=${() => setView('2d')}
+          aria-pressed=${view === '2d'}
+          class=${`px-4 py-2 rounded-full font-semibold text-sm transition-all ${view === '2d' ? 'bg-accent text-ground' : 'bg-surface text-ink/80 hover:bg-surface-2'}`}
+        >🗺️ Bản đồ phẳng</button>
+        <button
+          onClick=${() => setView('3d')}
+          aria-pressed=${view === '3d'}
+          class=${`px-4 py-2 rounded-full font-semibold text-sm transition-all ${view === '3d' ? 'bg-accent text-ground' : 'bg-surface text-ink/80 hover:bg-surface-2'}`}
+        >🌐 Quả địa cầu</button>
+      </div>
+
       <!-- Thanh thông tin nước đang chọn -->
       <div class="mb-3 min-h-[52px] bg-surface rounded-card border border-white/10 px-4 py-3 flex items-center justify-between gap-3">
         ${sel
@@ -108,7 +124,11 @@ export function MapPage() {
           : html`<span class="text-muted text-sm">Chạm vào một quốc gia trên bản đồ để xem tên nhé! 👆</span>`}
       </div>
 
-      ${topoErr
+      ${view === '3d'
+        ? html`<div class="rounded-card border border-white/10 bg-[#0a1830] p-4">
+            <${Globe} countries=${countries} continents=${continents} selected=${sel} onSelect=${setSel} />
+          </div>`
+        : topoErr
         ? html`<${ErrorBox} message=${topoErr} />`
         : !topo
         ? html`<${Spinner} label="Đang vẽ bản đồ..." />`

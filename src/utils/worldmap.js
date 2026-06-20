@@ -1,6 +1,6 @@
 // Tiện ích bản đồ dùng chung: tải dữ liệu TopoJSON + phép chiếu d3-geo.
 import * as topojson from 'topojson-client'
-import { geoEquirectangular, geoPath, geoOrthographic } from 'd3-geo'
+import { geoEquirectangular, geoPath } from 'd3-geo'
 
 export const MAP_W = 1000
 export const MAP_H = 500
@@ -19,14 +19,6 @@ export async function loadWorldFeatures() {
   const topo = await res.json()
   _features = topojson.feature(topo, topo.objects.countries).features.filter((f) => f.id !== '010')
   return _features
-}
-
-// Tạo phép chiếu quả cầu (orthographic) với bán kính & tâm cho trước.
-export function makeGlobe(size) {
-  return geoOrthographic()
-    .scale(size / 2 - 2)
-    .translate([size / 2, size / 2])
-    .clipAngle(90)
 }
 
 export { geoPath }
