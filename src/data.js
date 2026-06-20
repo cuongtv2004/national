@@ -28,6 +28,7 @@ function normalize(raw, viNames, extraMap) {
   return {
     code,
     lower,
+    ccn3: raw.ccn3 || null, // mã số ISO 3166-1 (khớp id bản đồ world-atlas)
     nameEn,
     nameVi,
     demonym,

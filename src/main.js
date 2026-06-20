@@ -9,6 +9,7 @@ import { HomePage } from './pages/HomePage.js'
 import { GalleryPage } from './pages/GalleryPage.js'
 import { CountryDetailPage } from './pages/CountryDetailPage.js'
 import { QuizPage } from './pages/QuizPage.js'
+import { MapPage } from './pages/MapPage.js'
 
 function App() {
   return html`
@@ -19,6 +20,7 @@ function App() {
           <main class="flex-1">
             <${Routes}>
               <${Route} path="/" element=${html`<${HomePage} />`} />
+              <${Route} path="/ban-do" element=${html`<${MapPage} />`} />
               <${Route} path="/kham-pha" element=${html`<${GalleryPage} />`} />
               <${Route} path="/quoc-gia/:code" element=${html`<${CountryDetailPage} />`} />
               <${Route} path="/thu-thach" element=${html`<${QuizPage} />`} />
