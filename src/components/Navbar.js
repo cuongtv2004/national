@@ -4,6 +4,7 @@ import { html } from '../html.js'
 
 const LINKS = [
   { to: '/', label: 'Trang chủ', end: true },
+  { to: '/ban-do', label: 'Bản đồ' },
   { to: '/kham-pha', label: 'Khám phá' },
   { to: '/thu-thach', label: 'Thử thách' },
 ]
