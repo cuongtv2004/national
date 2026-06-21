@@ -20,7 +20,8 @@
       "Hang Sơn Đoòng ở Việt Nam là hang động lớn nhất thế giới, to đến mức chứa được cả một tòa nhà chọc trời!",
       "Việt Nam có 54 dân tộc anh em cùng chung sống."
     ],
-    "flagMeaning": "Lá cờ Việt Nam có nền màu đỏ tươi và một ngôi sao vàng năm cánh ở chính giữa, trông rất rực rỡ và đẹp."
+    "flagDescription": "Cờ nền đỏ, chính giữa có một ngôi sao vàng năm cánh.",
+    "flagMeaning": "Nền đỏ tượng trưng cho cách mạng và máu của những người đã hi sinh vì đất nước. Ngôi sao vàng năm cánh tượng trưng cho sự đoàn kết của các tầng lớp nhân dân Việt Nam."
   },
   "TH": {
     "tourism": [
@@ -42,7 +43,8 @@
       "Thái Lan là nước duy nhất ở Đông Nam Á chưa từng bị nước ngoài đô hộ.",
       "Voi là loài vật biểu tượng thiêng liêng của Thái Lan."
     ],
-    "flagMeaning": "Cờ Thái Lan có năm sọc ngang: đỏ, trắng, rồi sọc xanh dương to ở giữa, sau đó lại trắng và đỏ."
+    "flagDescription": "Cờ có năm sọc ngang: đỏ ở trên và dưới cùng, rồi đến hai sọc trắng, và một sọc xanh dương to ở giữa.",
+    "flagMeaning": "Màu đỏ tượng trưng cho dân tộc, màu trắng tượng trưng cho tôn giáo (đạo Phật), còn màu xanh dương ở giữa tượng trưng cho nhà vua."
   },
   "JP": {
     "tourism": [
@@ -65,7 +67,8 @@
       "Tàu cao tốc Shinkansen chạy nhanh tới hơn 300 km/h.",
       "Ở Nhật có nhiều máy bán hàng tự động hơn bất kỳ nước nào — bán cả kem và mì nóng!"
     ],
-    "flagMeaning": "Cờ Nhật Bản có nền trắng với một hình tròn màu đỏ ở giữa, hình tròn đó tượng trưng cho Mặt Trời. Vì thế Nhật Bản còn được gọi là xứ sở Mặt Trời mọc."
+    "flagDescription": "Cờ nền trắng, chính giữa có một hình tròn màu đỏ to.",
+    "flagMeaning": "Hình tròn đỏ ở giữa tượng trưng cho mặt trời. Nhật Bản còn được gọi là 'Đất nước Mặt Trời Mọc'."
   },
   "KR": {
     "tourism": [
@@ -88,7 +91,8 @@
       "Người Hàn ăn kimchi gần như mỗi bữa, có hàng trăm loại kimchi khác nhau!",
       "Seoul có hệ thống internet nhanh bậc nhất thế giới."
     ],
-    "flagMeaning": "Cờ Hàn Quốc có nền trắng, ở giữa là một vòng tròn nửa đỏ nửa xanh dương xoắn vào nhau, cùng bốn nhóm vạch đen ở bốn góc."
+    "flagDescription": "Cờ nền trắng, ở giữa có một vòng tròn nửa đỏ nửa xanh dương (gọi là Thái Cực), bốn góc có bốn nhóm vạch đen.",
+    "flagMeaning": "Vòng tròn đỏ-xanh tượng trưng cho sự cân bằng giữa hai mặt đối lập trong vũ trụ (âm và dương). Bốn nhóm vạch ở các góc tượng trưng cho trời, đất, lửa và nước."
   },
   "CN": {
     "tourism": [
@@ -110,7 +114,8 @@
       "Gấu trúc chỉ sống tự nhiên ở Trung Quốc và ăn tre cả ngày.",
       "Người Trung Quốc phát minh ra pháo hoa, giấy và la bàn."
     ],
-    "flagMeaning": "Cờ Trung Quốc có nền đỏ với một ngôi sao vàng lớn và bốn ngôi sao vàng nhỏ ở góc trên bên trái."
+    "flagDescription": "Cờ nền đỏ, góc trên bên trái có một ngôi sao vàng lớn và bốn ngôi sao vàng nhỏ xếp thành hình vòng cung bên cạnh.",
+    "flagMeaning": "Nền đỏ tượng trưng cho cách mạng. Ngôi sao lớn tượng trưng cho sự lãnh đạo, còn bốn ngôi sao nhỏ tượng trưng cho sự đoàn kết của nhân dân quanh ngôi sao lớn."
   },
   "SG": {
     "tourism": [
@@ -132,7 +137,8 @@
       "Cây Siêu Cây (Supertree) ở Singapore phát sáng lung linh mỗi tối!",
       "Singapore nhỏ tới mức bạn có thể đi hết đất nước trong một ngày."
     ],
-    "flagMeaning": "Cờ Singapore có sọc đỏ ở trên và sọc trắng ở dưới, góc trái có mặt trăng lưỡi liềm trắng và năm ngôi sao trắng nhỏ."
+    "flagDescription": "Cờ chia hai nửa ngang: nửa trên màu đỏ, nửa dưới màu trắng; góc trên bên trái có một vầng trăng lưỡi liềm và năm ngôi sao nhỏ màu trắng.",
+    "flagMeaning": "Màu đỏ tượng trưng cho tình anh em và sự bình đẳng giữa mọi người, màu trắng tượng trưng cho sự trong sạch. Vầng trăng lưỡi liềm tượng trưng cho một đất nước trẻ đang vươn lên, còn năm ngôi sao tượng trưng cho năm lý tưởng: dân chủ, hòa bình, tiến bộ, công bằng và bình đẳng."
   },
   "MY": {
     "tourism": [
@@ -154,7 +160,8 @@
       "Rừng mưa Malaysia là một trong những khu rừng cổ nhất Trái Đất.",
       "Hoa Rafflesia khổng lồ ở đây có thể to bằng cái bánh xe!"
     ],
-    "flagMeaning": "Cờ Malaysia có nhiều sọc ngang đỏ và trắng xen kẽ, góc trên bên trái màu xanh dương với một mặt trăng lưỡi liềm vàng và một ngôi sao vàng."
+    "flagDescription": "Cờ có 14 sọc ngang đỏ và trắng xen kẽ; góc trên bên trái là ô màu xanh dương với một vầng trăng lưỡi liềm vàng và một ngôi sao vàng 14 cánh.",
+    "flagMeaning": "14 sọc và ngôi sao 14 cánh tượng trưng cho sự đoàn kết của 13 bang và chính quyền liên bang. Vầng trăng lưỡi liềm tượng trưng cho đạo Hồi, còn màu vàng là màu của nhà vua."
   },
   "ID": {
     "tourism": [
@@ -176,7 +183,8 @@
       "Rồng Komodo — loài thằn lằn lớn nhất Trái Đất — chỉ sống ở Indonesia.",
       "Đây là nơi có nhiều núi lửa đang hoạt động nhất thế giới."
     ],
-    "flagMeaning": "Cờ Indonesia rất đơn giản với hai sọc ngang: sọc đỏ ở trên và sọc trắng ở dưới."
+    "flagDescription": "Cờ chia hai sọc ngang bằng nhau: nửa trên màu đỏ, nửa dưới màu trắng.",
+    "flagMeaning": "Màu đỏ tượng trưng cho lòng dũng cảm, còn màu trắng tượng trưng cho sự trong sạch và chân thành."
   },
   "PH": {
     "tourism": [
@@ -198,7 +206,8 @@
       "Cá thòi lòi và loài khỉ mắt to Tarsier tí hon sống ở đây.",
       "Người Philippines rất mê hát karaoke."
     ],
-    "flagMeaning": "Cờ Philippines có sọc xanh dương ở trên, sọc đỏ ở dưới, và một tam giác trắng bên trái chứa mặt trời vàng cùng ba ngôi sao vàng."
+    "flagDescription": "Cờ có một hình tam giác trắng bên trái với mặt trời vàng và ba ngôi sao vàng, phần còn lại chia làm hai sọc ngang: xanh dương ở trên và đỏ ở dưới.",
+    "flagMeaning": "Màu xanh dương tượng trưng cho hòa bình, màu đỏ cho lòng dũng cảm, màu trắng cho sự trong sạch. Mặt trời với những tia nắng tượng trưng cho tự do, và ba ngôi sao tượng trưng cho ba vùng đất lớn của đất nước là Luzon, Visayas và Mindanao."
   },
   "IN": {
     "tourism": [
@@ -220,7 +229,8 @@
       "Số 0 và hệ đếm hiện đại có nguồn gốc từ Ấn Độ.",
       "Ấn Độ là nơi yoga ra đời từ hàng nghìn năm trước."
     ],
-    "flagMeaning": "Cờ Ấn Độ có ba sọc ngang màu cam, trắng và xanh lá, ở giữa sọc trắng là một bánh xe màu xanh dương có nhiều nan."
+    "flagDescription": "Cờ có ba sọc ngang: cam ở trên, trắng ở giữa, xanh lá ở dưới; chính giữa sọc trắng có một bánh xe màu xanh dương với 24 nan hoa.",
+    "flagMeaning": "Màu cam tượng trưng cho lòng can đảm, màu trắng cho hòa bình và sự thật, màu xanh lá cho sự trù phú của đất đai. Bánh xe ở giữa (gọi là bánh xe Pháp luân) tượng trưng cho sự chuyển động và tiến bộ không ngừng."
   },
   "US": {
     "tourism": [
@@ -242,7 +252,8 @@
       "Công viên Yellowstone có mạch nước phun nóng phun cao như tòa nhà!",
       "Bang Alaska rộng lớn có băng tuyết quanh năm."
     ],
-    "flagMeaning": "Cờ Mỹ có 50 ngôi sao trắng tượng trưng cho 50 bang, và 13 sọc đỏ trắng là 13 vùng đất đầu tiên lập nên đất nước."
+    "flagDescription": "Cờ có 13 sọc ngang đỏ và trắng xen kẽ; góc trên bên trái là ô màu xanh dương chứa 50 ngôi sao trắng nhỏ.",
+    "flagMeaning": "13 sọc tượng trưng cho 13 vùng thuộc địa đầu tiên đã lập nên đất nước, còn 50 ngôi sao tượng trưng cho 50 bang ngày nay."
   },
   "GB": {
     "tourism": [
@@ -264,7 +275,8 @@
       "Truyện Harry Potter được viết ở nước Anh.",
       "Người Anh rất thích uống trà — mỗi ngày cả nước uống hàng triệu tách!"
     ],
-    "flagMeaning": "Lá cờ Anh có nền xanh dương với các chữ thập đỏ và trắng đan chéo nhau, được ghép từ cờ của các vùng trong nước."
+    "flagDescription": "Cờ nền xanh dương với các dải chữ thập đỏ và trắng chồng lên nhau theo cả chiều thẳng và chiều chéo.",
+    "flagMeaning": "Lá cờ được ghép từ ba chữ thập của các vùng: chữ thập đỏ của thánh George (nước Anh), chữ thập chéo trắng của thánh Andrew (Scotland) và chữ thập chéo đỏ của thánh Patrick (Ireland), thể hiện sự hợp nhất của các vùng đất."
   },
   "FR": {
     "tourism": [
@@ -286,7 +298,8 @@
       "Bảo tàng Louvre là bảo tàng được ghé thăm nhiều nhất thế giới.",
       "Nước Pháp có hơn 1.000 loại phô mai khác nhau!"
     ],
-    "flagMeaning": "Lá cờ Pháp có ba sọc dọc xanh dương, trắng và đỏ, nên còn được gọi là lá cờ tam tài."
+    "flagDescription": "Lá cờ có ba sọc dọc bằng nhau, từ trái sang phải là xanh dương, trắng và đỏ.",
+    "flagMeaning": "Ba màu này gắn với cuộc Cách mạng Pháp. Xanh dương và đỏ là hai màu của thành phố Paris, còn màu trắng là màu của hoàng gia ngày xưa. Người Pháp thường gắn ba màu với các giá trị Tự do, Bình đẳng và Bác ái."
   },
   "DE": {
     "tourism": [
@@ -308,7 +321,8 @@
       "Lâu đài Neuschwanstein là hình mẫu cho lâu đài Disney.",
       "Đức có hơn 1.500 loại xúc xích!"
     ],
-    "flagMeaning": "Lá cờ Đức có ba sọc ngang đen, đỏ và vàng xếp chồng lên nhau."
+    "flagDescription": "Lá cờ có ba sọc ngang bằng nhau, từ trên xuống là đen, đỏ và vàng.",
+    "flagMeaning": "Ba màu đen - đỏ - vàng là màu truyền thống lâu đời của nước Đức, gắn với mong muốn đoàn kết và tự do của người dân. Đây cũng là màu trên quân phục của những người lính từng đấu tranh cho một nước Đức thống nhất."
   },
   "IT": {
     "tourism": [
@@ -330,7 +344,8 @@
       "Tháp Pisa nghiêng nhưng đã đứng vững suốt hơn 800 năm!",
       "Thành phố Venice nổi trên mặt nước, người ta đi lại bằng thuyền."
     ],
-    "flagMeaning": "Lá cờ Ý có ba sọc dọc xanh lá, trắng và đỏ đứng cạnh nhau."
+    "flagDescription": "Lá cờ có ba sọc dọc bằng nhau, từ trái sang phải là xanh lá, trắng và đỏ.",
+    "flagMeaning": "Người Ý thường giải thích xanh lá là đồng cỏ và đất nước tươi xanh, trắng là tuyết trên dãy núi Alps, còn đỏ là máu của những người đã hi sinh vì đất nước. Ba màu này ra đời trong thời kỳ nước Ý đấu tranh để thống nhất."
   },
   "ES": {
     "tourism": [
@@ -352,7 +367,8 @@
       "Nhà thờ Sagrada Familia đã được xây hơn 140 năm mà vẫn chưa xong.",
       "Người Tây Ban Nha thường ăn tối rất muộn, có khi 10 giờ đêm."
     ],
-    "flagMeaning": "Lá cờ Tây Ban Nha có sọc đỏ ở trên và dưới, sọc vàng rộng ở giữa, kèm một huy hiệu nhỏ bên trái."
+    "flagDescription": "Lá cờ có ba sọc ngang: sọc đỏ ở trên và dưới, sọc vàng to gấp đôi ở giữa. Trên sọc vàng, lệch về bên trái, có hình quốc huy với chiếc vương miện.",
+    "flagMeaning": "Hai màu đỏ và vàng là màu truyền thống của Tây Ban Nha từ rất lâu đời. Quốc huy ở giữa thể hiện các vùng đất xưa hợp lại thành đất nước, cùng hai cây cột tượng trưng cho eo biển nơi tàu thuyền đi ra biển lớn."
   },
   "RU": {
     "tourism": [
@@ -373,7 +389,8 @@
       "Hồ Baikal là hồ nước ngọt sâu nhất Trái Đất.",
       "Búp bê Matryoshka lồng nhau là món đồ chơi nổi tiếng của Nga."
     ],
-    "flagMeaning": "Lá cờ Nga có ba sọc ngang trắng, xanh dương và đỏ."
+    "flagDescription": "Lá cờ có ba sọc ngang bằng nhau, từ trên xuống là trắng, xanh dương và đỏ.",
+    "flagMeaning": "Ba màu trắng - xanh - đỏ là bộ màu truyền thống của người Slav (nhóm các dân tộc ở vùng Đông Âu). Người Nga thường gắn trắng với sự cao quý, xanh dương với lòng trung thành và đỏ với lòng dũng cảm."
   },
   "BR": {
     "tourism": [
@@ -394,7 +411,8 @@
       "Brazil đã 5 lần vô địch World Cup — nhiều nhất thế giới!",
       "Lễ hội Carnival ở Rio là bữa tiệc đường phố lớn nhất hành tinh."
     ],
-    "flagMeaning": "Cờ Brazil màu xanh lá với hình thoi vàng, ở giữa là quả cầu xanh điểm nhiều ngôi sao trắng tượng trưng cho bầu trời đầy sao."
+    "flagDescription": "Lá cờ nền xanh lá, ở giữa có hình thoi màu vàng, bên trong là vòng tròn xanh dương với nhiều ngôi sao và một dải băng trắng vắt ngang.",
+    "flagMeaning": "Màu xanh lá tượng trưng cho rừng và đồng ruộng, màu vàng cho sự giàu có và vàng bạc của đất nước. Vòng tròn xanh với các ngôi sao mô tả bầu trời sao trên thành phố Rio de Janeiro, mỗi ngôi sao đại diện cho một bang hoặc thủ đô. Dòng chữ trên dải băng nghĩa là Trật tự và Tiến bộ."
   },
   "AU": {
     "tourism": [
@@ -416,7 +434,8 @@
       "Rạn san hô Great Barrier lớn đến mức nhìn thấy được từ vũ trụ!",
       "Úc có nhiều loài nhện và rắn độc đáo bậc nhất thế giới."
     ],
-    "flagMeaning": "Cờ Úc màu xanh dương, góc trên có cờ nước Anh nhỏ. Phía dưới là ngôi sao lớn và chùm sao Nam Thập Tự lấp lánh, giúp người ta nhìn lên bầu trời đêm để tìm phương hướng."
+    "flagDescription": "Lá cờ nền xanh dương, góc trên bên trái có lá cờ nhỏ của nước Anh. Bên dưới có một ngôi sao lớn, còn bên phải là chùm sao gồm năm ngôi sao.",
+    "flagMeaning": "Lá cờ Anh ở góc nhắc về lịch sử nước Úc từng là thuộc địa của Anh. Ngôi sao lớn bảy cánh đại diện cho các bang và vùng lãnh thổ. Chùm năm ngôi sao bên phải là chòm sao Nam Thập Tự, chòm sao mà người dân ở Nam bán cầu nhìn thấy trên bầu trời."
   },
   "EG": {
     "tourism": [
@@ -437,7 +456,8 @@
       "Người Ai Cập cổ đại phát minh ra một trong những loại chữ viết đầu tiên.",
       "Sông Nile là một trong những con sông dài nhất thế giới."
     ],
-    "flagMeaning": "Cờ Ai Cập có ba dải đỏ, trắng, đen nằm ngang, ở giữa có hình con đại bàng vàng oai vệ làm biểu tượng của đất nước."
+    "flagDescription": "Lá cờ có ba sọc ngang: đỏ ở trên, trắng ở giữa, đen ở dưới. Chính giữa sọc trắng có hình con đại bàng vàng.",
+    "flagMeaning": "Đây là bộ màu của các nước Ả Rập: đỏ, trắng và đen. Con đại bàng vàng ở giữa là Đại bàng Saladin, một biểu tượng nổi tiếng tượng trưng cho sức mạnh và niềm tự hào của Ai Cập."
   },
   "CA": {
     "tourism": [
@@ -458,7 +478,8 @@
       "Canada có nhiều hồ hơn tất cả các nước khác cộng lại!",
       "Gấu Bắc Cực sống ở vùng phía bắc lạnh giá của Canada."
     ],
-    "flagMeaning": "Cờ Canada có hai sọc đỏ hai bên và một chiếc lá phong đỏ rất đẹp ở giữa, đây là loài cây nổi tiếng của đất nước này."
+    "flagDescription": "Lá cờ có sọc đỏ ở hai bên và một ô vuông trắng ở giữa, bên trong ô trắng là một chiếc lá phong màu đỏ.",
+    "flagMeaning": "Lá phong là biểu tượng quen thuộc của Canada vì cây phong mọc rất nhiều ở đất nước này. Màu đỏ và trắng là hai màu chính thức của Canada."
   },
   "MX": {
     "tourism": [
@@ -480,7 +501,8 @@
       "Sô-cô-la được người Aztec phát hiện đầu tiên!",
       "Lễ hội Ngày của Người Chết đầy màu sắc và vui nhộn."
     ],
-    "flagMeaning": "Cờ Mexico có ba sọc xanh lá, trắng, đỏ, và ở giữa là hình một chú đại bàng đậu trên cây xương rồng đang ngậm con rắn."
+    "flagDescription": "Lá cờ có ba sọc dọc bằng nhau: xanh lá, trắng và đỏ. Ở giữa sọc trắng có hình con đại bàng đậu trên cây xương rồng và đang quắp một con rắn.",
+    "flagMeaning": "Hình con đại bàng đậu trên xương rồng cắp con rắn đến từ một truyền thuyết xưa chỉ nơi người dân lập nên thành phố của mình. Xanh lá thường gắn với hi vọng, trắng với sự đoàn kết và đỏ với những người đã hi sinh vì đất nước."
   },
   "GR": {
     "tourism": [
@@ -502,7 +524,8 @@
       "Các vị thần như thần Zeus đến từ thần thoại Hy Lạp.",
       "Những ngôi nhà trắng mái xanh ở Santorini đẹp như tranh vẽ."
     ],
-    "flagMeaning": "Lá cờ Hy Lạp có chín sọc ngang xanh dương và trắng xen kẽ, cùng một chữ thập trắng trên nền xanh ở góc trên bên trái."
+    "flagDescription": "Lá cờ có chín sọc ngang xen kẽ xanh dương và trắng. Góc trên bên trái có một ô vuông xanh dương với hình thập tự trắng.",
+    "flagMeaning": "Hình thập tự trắng thể hiện đạo Cơ Đốc Chính Thống, tôn giáo của phần lớn người dân Hy Lạp. Màu xanh dương thường gắn với biển và bầu trời, còn màu trắng gắn với sự trong sáng."
   },
   "NL": {
     "tourism": [
@@ -524,7 +547,8 @@
       "Phần lớn đất nước thấp hơn mực nước biển.",
       "Cánh đồng hoa tulip mùa xuân rực rỡ đủ màu sắc."
     ],
-    "flagMeaning": "Lá cờ Hà Lan có ba sọc ngang đỏ, trắng và xanh dương."
+    "flagDescription": "Lá cờ có ba sọc ngang bằng nhau, từ trên xuống là đỏ, trắng và xanh dương.",
+    "flagMeaning": "Ba màu này bắt nguồn từ màu cờ của Hoàng tử Cam, người lãnh đạo Hà Lan giành độc lập ngày xưa (ban đầu là cam - trắng - xanh, sau màu cam đổi thành đỏ cho dễ nhìn). Vì vậy đỏ - trắng - xanh trở thành bộ màu truyền thống của Hà Lan."
   },
   "CH": {
     "tourism": [
@@ -545,7 +569,8 @@
       "Đồng hồ Thụy Sĩ nổi tiếng chính xác khắp thế giới.",
       "Dãy núi Alps phủ tuyết trắng quanh năm, tuyệt vời để trượt tuyết."
     ],
-    "flagMeaning": "Lá cờ Thụy Sĩ là hình vuông màu đỏ với một chữ thập trắng ở giữa, rất dễ nhận ra."
+    "flagDescription": "Lá cờ hình vuông màu đỏ, ở giữa có một chữ thập trắng với bốn cánh bằng nhau.",
+    "flagMeaning": "Chữ thập trắng là dấu thánh giá Cơ Đốc giáo lâu đời của Thụy Sĩ. Màu đỏ là màu truyền thống của đất nước, thường gắn với lòng dũng cảm. Khi đổi ngược màu (chữ thập đỏ trên nền trắng) thì thành biểu tượng của Hội Chữ thập đỏ."
   },
   "KH": {
     "tourism": [
@@ -565,7 +590,8 @@
       "Angkor Wat xuất hiện ngay trên quốc kỳ Campuchia.",
       "Khu đền Angkor từng là thành phố lớn nhất thế giới thời cổ đại."
     ],
-    "flagMeaning": "Cờ Campuchia có sọc xanh dương ở trên và dưới, sọc đỏ to ở giữa, cùng hình ngôi đền trắng tuyệt đẹp."
+    "flagDescription": "Cờ có ba sọc ngang: hai sọc xanh dương ở trên và dưới, một sọc đỏ rộng ở giữa. Chính giữa sọc đỏ là hình đền Angkor Wat màu trắng.",
+    "flagMeaning": "Đền Angkor Wat là ngôi đền cổ nổi tiếng và là niềm tự hào của người Campuchia. Màu xanh dương tượng trưng cho nhà vua (hoàng gia), màu đỏ tượng trưng cho dân tộc, còn màu trắng tượng trưng cho tôn giáo (đạo Phật)."
   },
   "LA": {
     "tourism": [
@@ -587,7 +613,8 @@
       "Người Lào ăn xôi nếp nhiều nhất thế giới!",
       "Thác Kuang Si có làn nước xanh ngọc tuyệt đẹp."
     ],
-    "flagMeaning": "Cờ Lào có ba sọc ngang, sọc xanh dương to ở giữa với một vòng tròn trắng, hai sọc đỏ ở trên và dưới."
+    "flagDescription": "Cờ có ba sọc ngang: hai sọc đỏ ở trên và dưới, một sọc xanh dương rộng ở giữa. Chính giữa có một vòng tròn trắng lớn.",
+    "flagMeaning": "Vòng tròn trắng tượng trưng cho mặt trăng tròn soi sáng dòng sông Mê Kông, đồng thời thể hiện sự đoàn kết của người dân Lào. Màu xanh dương tượng trưng cho dòng sông và sự trù phú, còn màu đỏ tượng trưng cho máu của những người đã đấu tranh giành tự do cho đất nước."
   },
   "ZA": {
     "tourism": [
@@ -608,7 +635,8 @@
       "Bạn có thể nhìn thấy sư tử, voi, hươu cao cổ ở các khu bảo tồn.",
       "Nam Phi có ba thủ đô khác nhau."
     ],
-    "flagMeaning": "Cờ Nam Phi có nhiều màu đỏ, xanh dương, xanh lá, vàng, đen, trắng ghép thành hình chữ Y nằm ngang rất đặc biệt."
+    "flagDescription": "Cờ có hình chữ Y nằm ngang màu xanh lá viền trắng, mở ra từ phía cột cờ. Phần tam giác sát cột cờ màu đen, các vùng còn lại có màu đỏ, xanh dương, vàng.",
+    "flagMeaning": "Hình chữ Y cho thấy nhiều con đường khác nhau cùng hội tụ lại, ý nói các dân tộc của Nam Phi đoàn kết bước về một tương lai chung. Cờ dùng nhiều màu để gom các sắc màu của những cộng đồng khác nhau; nhà nước không gán ý nghĩa riêng cho từng màu để mọi người đều thấy mình trong lá cờ."
   },
   "KE": {
     "tourism": [
@@ -629,7 +657,8 @@
       "Nhiều vận động viên chạy bộ giỏi nhất thế giới đến từ Kenya.",
       "Bộ tộc Maasai nổi tiếng với điệu nhảy bật cao."
     ],
-    "flagMeaning": "Cờ Kenya có các dải đen, đỏ, xanh lá, ở giữa là hình chiếc khiên và hai ngọn giáo truyền thống."
+    "flagDescription": "Cờ có ba sọc ngang đen, đỏ, lục (xen các đường trắng nhỏ). Chính giữa có một chiếc khiên truyền thống cùng hai ngọn giáo bắt chéo.",
+    "flagMeaning": "Màu đen tượng trưng cho người dân Kenya, màu đỏ cho máu đã đổ vì tự do, màu lục cho thiên nhiên và đất đai (các đường trắng là hòa bình). Chiếc khiên và hai ngọn giáo thể hiện việc bảo vệ tự do của đất nước."
   },
   "MM": {
     "tourism": [
@@ -650,7 +679,8 @@
       "Myanmar có hàng nghìn ngôi chùa vàng lấp lánh ở Bagan, nhìn từ khinh khí cầu đẹp như cổ tích.",
       "Đá Vàng Kyaiktiyo là một tảng đá khổng lồ dát vàng nằm cheo leo trên vách núi mà không hề rơi xuống!"
     ],
-    "flagMeaning": "Cờ Myanmar có ba sọc ngang vàng, xanh lá và đỏ, với một ngôi sao trắng lớn ở giữa."
+    "flagDescription": "Cờ có ba sọc ngang vàng, lục, đỏ, với một ngôi sao trắng năm cánh lớn ở chính giữa.",
+    "flagMeaning": "Màu vàng tượng trưng cho sự đoàn kết, màu lục cho hòa bình và thiên nhiên tươi tốt, màu đỏ cho lòng dũng cảm và quyết tâm. Ngôi sao trắng lớn thể hiện sự thống nhất của tất cả các dân tộc trong nước."
   },
   "MN": {
     "tourism": [
@@ -671,7 +701,8 @@
       "Trẻ em Mông Cổ biết cưỡi ngựa trước cả khi biết đi vững!",
       "Ở sa mạc Gobi, người ta đã tìm thấy những quả trứng khủng long thật sự hóa thạch từ hàng triệu năm trước."
     ],
-    "flagMeaning": "Cờ Mông Cổ có ba sọc dọc: hai sọc đỏ ở hai bên và một sọc xanh dương ở giữa, kèm một biểu tượng vàng đặc biệt bên trái."
+    "flagDescription": "Cờ có ba sọc dọc: hai sọc đỏ hai bên, một sọc xanh dương ở giữa. Trên sọc đỏ bên trái có biểu tượng vàng gọi là Soyombo.",
+    "flagMeaning": "Biểu tượng Soyombo màu vàng là dấu hiệu quốc gia của Mông Cổ, gồm hình lửa, mặt trời và mặt trăng. Màu đỏ tượng trưng cho sự phồn vinh và bền vững, còn màu xanh dương là màu của bầu trời rộng lớn mà người Mông Cổ rất yêu quý."
   },
   "TW": {
     "tourism": [
@@ -692,7 +723,8 @@
       "Trà sữa trân châu nổi tiếng khắp thế giới được phát minh ở Đài Loan đấy!",
       "Tòa nhà Đài Bắc 101 từng là tòa nhà cao nhất thế giới và có một quả cầu vàng khổng lồ bên trong giúp tòa nhà không lắc lư khi có gió bão."
     ],
-    "flagMeaning": "Cờ Đài Loan có nền đỏ, góc trên bên trái màu xanh dương với một mặt trời trắng có nhiều tia sáng."
+    "flagDescription": "Cờ nền đỏ, góc trên bên trái là một ô màu xanh dương có hình mặt trời trắng với mười hai tia sáng nhọn.",
+    "flagMeaning": "Mặt trời trắng mười hai tia tượng trưng cho mười hai tháng và mười hai khoảng giờ truyền thống, ý nói thời gian và sự tiến bộ không ngừng. Ba màu xanh, trắng, đỏ gắn với các lý tưởng dân tộc, dân quyền và dân sinh (gần với tự do, bình đẳng, bác ái)."
   },
   "KP": {
     "tourism": [
@@ -713,7 +745,8 @@
       "Núi Bạch Đầu là ngọn núi cao nhất bán đảo Triều Tiên, trên đỉnh có một hồ nước rất lớn nằm trong miệng núi lửa.",
       "Triều Tiên có lịch riêng tính năm theo cách khác với hầu hết các nước trên thế giới."
     ],
-    "flagMeaning": "Cờ Triều Tiên có sọc xanh dương ở trên và dưới, sọc đỏ to ở giữa, và một ngôi sao đỏ nằm trong vòng tròn trắng."
+    "flagDescription": "Cờ có một sọc đỏ rộng ở giữa, viền bằng các đường trắng mảnh, trên và dưới là hai sọc xanh dương. Phía cột cờ có một vòng tròn trắng với ngôi sao đỏ năm cánh ở trong.",
+    "flagMeaning": "Màu đỏ tượng trưng cho lòng dũng cảm và tinh thần đấu tranh, màu xanh dương cho mong muốn hòa bình và tiến bộ, còn màu trắng cho sự trong sạch. Ngôi sao đỏ là biểu tượng cách mạng của đất nước."
   },
   "BN": {
     "tourism": [
@@ -734,7 +767,8 @@
       "Brunei có cung điện hoàng gia lớn nhất thế giới với gần 1.800 căn phòng!",
       "Làng nổi Kampong Ayer ở Brunei đã có người sinh sống trên mặt nước suốt hàng trăm năm."
     ],
-    "flagMeaning": "Cờ Brunei có nền vàng với hai dải chéo màu trắng và đen, ở giữa là một biểu tượng màu đỏ."
+    "flagDescription": "Cờ nền vàng với hai dải chéo màu đen và trắng vắt qua. Chính giữa có một biểu tượng quốc gia màu đỏ gồm hình trăng lưỡi liềm và đôi cánh.",
+    "flagMeaning": "Màu vàng là màu của nhà vua (hoàng gia) Brunei. Hình trăng lưỡi liềm tượng trưng cho đạo Hồi, tôn giáo chính của đất nước, và biểu tượng còn mang lời chúc đất nước luôn bình an dưới sự che chở của Thượng đế."
   },
   "TL": {
     "tourism": [
@@ -755,7 +789,8 @@
       "Đông Timor là một trong những quốc gia trẻ nhất châu Á, mới ra đời vào năm 2002.",
       "Vùng biển quanh đảo Atauro có số loài cá nhiều bậc nhất thế giới, là thiên đường cho thợ lặn!"
     ],
-    "flagMeaning": "Cờ Đông Timor có nền đỏ với một tam giác đen và một tam giác vàng, cùng một ngôi sao trắng bên trái."
+    "flagDescription": "Cờ nền đỏ, phía cột cờ có một tam giác đen lồng trên một tam giác vàng lớn hơn, và một ngôi sao trắng năm cánh nằm trên tam giác đen.",
+    "flagMeaning": "Màu vàng tượng trưng cho dấu vết của thời thuộc địa trong quá khứ, màu đen cho những khó khăn cần vượt qua, màu đỏ cho cuộc đấu tranh giành độc lập. Ngôi sao trắng là ánh sáng dẫn đường cho đất nước."
   },
   "PK": {
     "tourism": [
@@ -776,7 +811,8 @@
       "Đỉnh K2 ở Pakistan là ngọn núi cao thứ hai thế giới và rất khó leo!",
       "Thung lũng Hunza có những trái mơ và phong cảnh núi tuyết đẹp đến nỗi nhiều người gọi đó là chốn thần tiên."
     ],
-    "flagMeaning": "Cờ Pakistan có một dải trắng bên trái và phần xanh lá lớn với một mặt trăng lưỡi liềm trắng và một ngôi sao trắng."
+    "flagDescription": "Cờ phần lớn màu xanh lá, có một dải trắng dọc sát cột cờ. Trên nền xanh có hình trăng lưỡi liềm trắng và một ngôi sao trắng năm cánh.",
+    "flagMeaning": "Trăng lưỡi liềm và ngôi sao là biểu tượng của đạo Hồi, tôn giáo của phần lớn người dân; màu xanh lá cũng gắn với đạo Hồi. Dải trắng tượng trưng cho các tôn giáo khác và những người không theo đạo Hồi, thể hiện mong muốn mọi người chung sống hòa thuận."
   },
   "BD": {
     "tourism": [
@@ -797,7 +833,8 @@
       "Bãi biển Cox's Bazar ở Bangladesh là một trong những bãi biển tự nhiên dài nhất thế giới!",
       "Rừng ngập mặn Sundarbans là nơi sinh sống của loài hổ Bengal hoàng gia bơi lội rất giỏi."
     ],
-    "flagMeaning": "Cờ Bangladesh có nền xanh lá với một hình tròn màu đỏ nằm hơi lệch về bên trái."
+    "flagDescription": "Nền màu xanh lá cây đậm, ở giữa hơi lệch về phía bên trái có một hình tròn màu đỏ.",
+    "flagMeaning": "Màu xanh lá cây tượng trưng cho cây cối và đồng ruộng tươi tốt của đất nước. Hình tròn đỏ tượng trưng cho mặt trời mọc và máu của những người đã hy sinh để giành độc lập."
   },
   "LK": {
     "tourism": [
@@ -818,7 +855,8 @@
       "Sigiriya là một pháo đài được xây trên đỉnh một tảng đá khổng lồ cao gần 200 mét!",
       "Sri Lanka là một trong những nơi trồng trà ngon nổi tiếng nhất thế giới, gọi là trà Ceylon."
     ],
-    "flagMeaning": "Cờ Sri Lanka có hình một chú sư tử vàng cầm kiếm trên nền đỏ, viền vàng, cùng các sọc màu cam và xanh lá bên cạnh."
+    "flagDescription": "Bên trái có hai sọc dọc màu cam và xanh lá. Bên phải là nền đỏ thẫm với một con sư tử vàng cầm kiếm, bốn góc có bốn chiếc lá cây bồ đề màu vàng. Toàn bộ cờ có viền vàng.",
+    "flagMeaning": "Con sư tử tượng trưng cho dân tộc và lòng dũng cảm của người Sri Lanka, thanh kiếm thể hiện chủ quyền đất nước. Bốn chiếc lá bồ đề nhắc đến đạo Phật và bốn điều tốt đẹp: từ bi, hỉ, xả, yêu thương. Sọc cam đại diện cho người Tamil, sọc xanh lá đại diện cho người theo đạo Hồi, cùng chung sống trên đất nước."
   },
   "NP": {
     "tourism": [
@@ -839,7 +877,8 @@
       "Đỉnh Everest ở Nepal là ngọn núi cao nhất thế giới, cao hơn 8.800 mét!",
       "Lá cờ của Nepal là lá cờ quốc gia duy nhất trên thế giới không có hình chữ nhật mà gồm hai hình tam giác."
     ],
-    "flagMeaning": "Cờ Nepal rất đặc biệt vì không phải hình chữ nhật mà gồm hai hình tam giác chồng lên nhau, nền đỏ viền xanh dương, có hình mặt trăng và mặt trời trắng."
+    "flagDescription": "Lá cờ duy nhất trên thế giới không phải hình chữ nhật, mà gồm hai hình tam giác màu đỏ thẫm xếp chồng lên nhau, có viền xanh dương. Tam giác trên có hình mặt trăng lưỡi liềm trắng, tam giác dưới có hình mặt trời trắng.",
+    "flagMeaning": "Màu đỏ thẫm là màu của hoa quốc gia (hoa đỗ quyên) và tượng trưng cho lòng dũng cảm, viền xanh dương tượng trưng cho hòa bình. Mặt trăng và mặt trời thể hiện mong ước đất nước tồn tại lâu dài như trăng và mặt trời trên bầu trời."
   },
   "BT": {
     "tourism": [
@@ -860,7 +899,8 @@
       "Bhutan là quốc gia duy nhất trên thế giới đo sự phát triển bằng chỉ số hạnh phúc của người dân!",
       "Tu viện Tổ Hổ được xây cheo leo trên vách núi cao, người ta phải leo bộ rất lâu mới tới nơi."
     ],
-    "flagMeaning": "Cờ Bhutan được chia chéo thành hai phần vàng và cam, ở giữa là một con rồng trắng rất đẹp."
+    "flagDescription": "Cờ chia chéo thành hai phần: phần trên màu vàng, phần dưới màu cam. Ở giữa, nằm trên đường chia chéo, có một con rồng trắng đang nắm những viên ngọc trong móng.",
+    "flagMeaning": "Con rồng trắng là biểu tượng của Bhutan, đất nước còn được gọi là 'xứ sở Rồng Sấm'. Màu vàng tượng trưng cho nhà vua, màu cam tượng trưng cho đạo Phật. Những viên ngọc trong móng rồng thể hiện sự giàu có và may mắn của người dân."
   },
   "MV": {
     "tourism": [
@@ -881,7 +921,8 @@
       "Maldives là quốc gia thấp nhất thế giới, hầu hết đất chỉ cao hơn mặt biển khoảng một mét rưỡi!",
       "Ban đêm, sóng biển ở một số bãi của Maldives phát sáng lấp lánh như những vì sao nhờ những sinh vật biển tí hon."
     ],
-    "flagMeaning": "Cờ Maldives có nền đỏ với một hình chữ nhật xanh lá ở giữa, bên trong có một mặt trăng lưỡi liềm trắng."
+    "flagDescription": "Nền đỏ với một hình chữ nhật xanh lá lớn ở giữa, bên trong hình chữ nhật xanh có một mặt trăng lưỡi liềm màu trắng.",
+    "flagMeaning": "Màu đỏ tượng trưng cho lòng dũng cảm của những người bảo vệ đất nước. Màu xanh lá tượng trưng cho sự thịnh vượng. Trăng lưỡi liềm trắng là biểu tượng của đạo Hồi, tôn giáo chính ở Maldives."
   },
   "AF": {
     "tourism": [
@@ -902,7 +943,8 @@
       "Hồ Band-e-Amir có màu nước xanh ngọc bích tuyệt đẹp và là vườn quốc gia đầu tiên của Afghanistan!",
       "Afghanistan là một trong những nơi đầu tiên trên thế giới trồng được dưa hấu và nho ngọt."
     ],
-    "flagMeaning": "Cờ Afghanistan có nền trắng với những dòng chữ màu đen."
+    "flagDescription": "Lá cờ nền trắng với những dòng chữ Ả Rập màu đen ở giữa.",
+    "flagMeaning": "Dòng chữ trên cờ là lời tuyên xưng của đạo Hồi, tôn giáo chính của đất nước. Màu trắng được dùng làm nền cho dòng chữ này."
   },
   "IR": {
     "tourism": [
@@ -923,7 +965,8 @@
       "Iran là nơi tạo ra những tấm thảm Ba Tư dệt tay đẹp nổi tiếng khắp thế giới!",
       "Đền Hồng ở Iran có những ô cửa kính màu, buổi sáng ánh nắng chiếu qua biến cả căn phòng thành một cầu vồng rực rỡ."
     ],
-    "flagMeaning": "Cờ Iran có ba sọc ngang màu xanh lá, trắng và đỏ, với một biểu tượng màu đỏ ở giữa."
+    "flagDescription": "Ba sọc ngang bằng nhau: xanh lá trên cùng, trắng ở giữa, đỏ dưới cùng. Chính giữa có một biểu tượng đỏ đặc biệt, dọc theo mép hai sọc xanh và đỏ có hàng chữ Ả Rập nhỏ màu trắng lặp lại nhiều lần.",
+    "flagMeaning": "Màu xanh lá tượng trưng cho đạo Hồi và sự sống, màu trắng tượng trưng cho hòa bình, màu đỏ tượng trưng cho lòng dũng cảm. Hàng chữ nhỏ lặp lại là câu 'Thượng đế vĩ đại' theo đạo Hồi."
   },
   "IQ": {
     "tourism": [
@@ -944,7 +987,8 @@
       "Vùng đất Iraq ngày nay là nơi con người phát minh ra chữ viết và bánh xe đầu tiên trên thế giới!",
       "Người xưa kể rằng Vườn treo Babylon, một trong bảy kỳ quan thế giới cổ đại, từng nằm ở Iraq."
     ],
-    "flagMeaning": "Cờ Iraq có ba sọc ngang màu đỏ, trắng và đen, cùng dòng chữ màu xanh lá trên sọc trắng."
+    "flagDescription": "Ba sọc ngang bằng nhau: đỏ trên, trắng giữa, đen dưới. Trên sọc trắng ở giữa có dòng chữ Ả Rập màu xanh lá cây.",
+    "flagMeaning": "Đỏ, trắng, đen và xanh lá là những màu truyền thống của các nước Ả Rập. Dòng chữ xanh lá ở giữa mang ý nghĩa tôn giáo, có nghĩa là 'Thượng đế vĩ đại'."
   },
   "SA": {
     "tourism": [
@@ -965,7 +1009,8 @@
       "Ả Rập Xê Út có sa mạc cát Rub' al Khali rộng lớn đến mức là biển cát liền mạch lớn nhất thế giới!",
       "Hegra là một thành phố cổ với những ngôi mộ khổng lồ được chạm khắc thẳng vào các vách đá sa thạch."
     ],
-    "flagMeaning": "Cờ Ả Rập Xê Út có nền màu xanh lá với dòng chữ trắng và một thanh kiếm trắng nằm ngang ở phía dưới."
+    "flagDescription": "Nền xanh lá cây với dòng chữ Ả Rập màu trắng ở giữa, bên dưới dòng chữ có một thanh kiếm trắng nằm ngang.",
+    "flagMeaning": "Màu xanh lá là màu gắn liền với đạo Hồi. Dòng chữ trắng là lời tuyên xưng của đạo Hồi. Thanh kiếm tượng trưng cho công lý và sức mạnh bảo vệ đất nước."
   },
   "AE": {
     "tourism": [
@@ -986,7 +1031,8 @@
       "Tòa nhà Burj Khalifa ở Dubai là tòa nhà cao nhất thế giới, cao hơn 800 mét!",
       "Người ta đã đắp cát biển tạo ra những hòn đảo nhân tạo hình cây cọ khổng lồ mà từ vũ trụ cũng nhìn thấy được."
     ],
-    "flagMeaning": "Cờ Các Tiểu vương quốc Ả Rập Thống nhất có một dải đỏ dọc bên trái và ba sọc ngang màu xanh lá, trắng và đen."
+    "flagDescription": "Một dải dọc màu đỏ bên trái, phần còn lại có ba sọc ngang: xanh lá trên, trắng giữa, đen dưới.",
+    "flagMeaning": "Bốn màu đỏ, xanh lá, trắng và đen là những màu truyền thống của các nước Ả Rập, thể hiện sự đoàn kết. Chúng cũng tượng trưng cho lòng dũng cảm, sự trù phú, hòa bình và sức mạnh của đất nước."
   },
   "QA": {
     "tourism": [
@@ -1007,7 +1053,8 @@
       "Qatar có một nơi gọi là Biển Nội Địa, nơi sa mạc cát gặp trực tiếp mặt biển xanh, rất hiếm thấy trên thế giới!",
       "Qatar từng tổ chức một giải bóng đá lớn nhất hành tinh với những sân vận động được làm mát giữa sa mạc nóng."
     ],
-    "flagMeaning": "Cờ Qatar có nền màu nâu đỏ thẫm và một dải trắng bên trái, ngăn cách bằng đường răng cưa hình chín ngọn."
+    "flagDescription": "Lá cờ dài hơn bình thường, gồm dải màu trắng bên trái và phần lớn màu nâu đỏ (màu mận chín) bên phải, ranh giới giữa hai phần có chín hình răng cưa nhọn.",
+    "flagMeaning": "Màu trắng tượng trưng cho hòa bình. Chín hình răng cưa nhắc rằng Qatar là vùng đất thứ chín ký hiệp ước với Anh vào năm 1916. Màu nâu đỏ đặc trưng là màu riêng của Qatar."
   },
   "KW": {
     "tourism": [
@@ -1028,7 +1075,8 @@
       "Kuwait là một trong những nơi nóng nhất Trái Đất, mùa hè nhiệt độ có thể lên rất cao!",
       "Những con thuyền buồm gỗ truyền thống gọi là Dhow từng giúp người Kuwait lặn tìm ngọc trai dưới đáy biển."
     ],
-    "flagMeaning": "Cờ Kuwait có ba sọc ngang màu xanh lá, trắng và đỏ, cùng một hình thang màu đen bên trái."
+    "flagDescription": "Ba sọc ngang xanh lá, trắng, đỏ, cùng một hình thang màu đen ở phía bên trái.",
+    "flagMeaning": "Đây là những màu truyền thống của các nước Ả Rập. Theo cách hiểu phổ biến: xanh lá là đồng ruộng trù phú, trắng là sự trong sạch, đỏ là lòng dũng cảm, còn đen tượng trưng cho việc đánh bại kẻ thù."
   },
   "IL": {
     "tourism": [
@@ -1049,7 +1097,8 @@
       "Biển Chết ở Israel mặn đến nỗi bạn có thể nằm nổi trên mặt nước và đọc sách dễ dàng!",
       "Biển Chết cũng là điểm thấp nhất trên đất liền của toàn Trái Đất."
     ],
-    "flagMeaning": "Cờ Israel có nền trắng với hai sọc xanh dương nằm ngang và một ngôi sao xanh dương sáu cánh ở giữa."
+    "flagDescription": "Nền trắng với hai sọc ngang màu xanh dương ở phía trên và phía dưới. Chính giữa là ngôi sao sáu cánh màu xanh dương.",
+    "flagMeaning": "Ngôi sao sáu cánh gọi là Ngôi sao David, một biểu tượng lâu đời của người Do Thái. Hai sọc xanh dương gợi nhớ đến chiếc khăn cầu nguyện truyền thống của người Do Thái."
   },
   "JO": {
     "tourism": [
@@ -1070,7 +1119,8 @@
       "Petra là một thành phố cổ được người xưa khắc trực tiếp vào vách đá hồng, và là một trong bảy kỳ quan thế giới mới!",
       "Sa mạc Wadi Rum ở Jordan có cảnh quan giống Sao Hỏa đến mức nhiều bộ phim về vũ trụ được quay tại đây."
     ],
-    "flagMeaning": "Cờ Jordan có ba sọc ngang màu đen, trắng và xanh lá, cùng một tam giác đỏ bên trái chứa ngôi sao trắng bảy cánh."
+    "flagDescription": "Ba sọc ngang đen, trắng, lục từ trên xuống, cùng một hình tam giác đỏ ở cạnh cột cờ. Trong tam giác đỏ có một ngôi sao trắng bảy cánh.",
+    "flagMeaning": "Đây là các màu Pan-Ả Rập (đen, trắng, lục và đỏ), gắn với các vương triều Ả Rập trong lịch sử. Ngôi sao bảy cánh nhắc đến bảy câu trong chương mở đầu của kinh Koran."
   },
   "LB": {
     "tourism": [
@@ -1091,7 +1141,8 @@
       "Cây tuyết tùng được in ngay trên lá cờ của Liban, và có những cây sống tới hàng nghìn năm tuổi!",
       "Hang động Jeita Grotto ở Liban có những măng đá khổng lồ và một dòng sông ngầm mà du khách đi thuyền tham quan được."
     ],
-    "flagMeaning": "Cờ Liban có sọc đỏ ở trên và dưới, sọc trắng to ở giữa với một cây tuyết tùng xanh lá xinh đẹp."
+    "flagDescription": "Hai sọc đỏ ở trên và dưới, một sọc trắng rộng ở giữa. Chính giữa sọc trắng là một cây tuyết tùng màu xanh lá.",
+    "flagMeaning": "Cây tuyết tùng là loài cây nổi tiếng của Liban, tượng trưng cho sự bền vững và hòa bình. Màu đỏ gợi đến lòng dũng cảm, còn màu trắng tượng trưng cho hòa bình và tuyết trên núi."
   },
   "TR": {
     "tourism": [
@@ -1112,7 +1163,8 @@
       "Pamukkale ở Thổ Nhĩ Kỳ có những bậc thang đá vôi trắng như tuyết với hồ nước ấm, nhìn như một lâu đài bông gòn!",
       "Thành phố Istanbul nằm trên cả hai châu lục là châu Âu và châu Á cùng một lúc."
     ],
-    "flagMeaning": "Cờ Thổ Nhĩ Kỳ có nền đỏ với một mặt trăng lưỡi liềm trắng và một ngôi sao trắng nhỏ bên cạnh."
+    "flagDescription": "Nền đỏ với một vầng trăng lưỡi liềm trắng và một ngôi sao trắng năm cánh nằm bên cạnh, ở phía gần cột cờ.",
+    "flagMeaning": "Trăng lưỡi liềm và ngôi sao là biểu tượng gắn liền với đạo Hồi. Màu đỏ là màu truyền thống lâu đời của người Thổ Nhĩ Kỳ."
   },
   "KZ": {
     "tourism": [
@@ -1133,7 +1185,8 @@
       "Kazakhstan là quốc gia không giáp biển lớn nhất thế giới, rộng mênh mông như cả một châu lục nhỏ!",
       "Ở hồ Kaindy có cả một khu rừng cây vẫn đứng thẳng dưới làn nước trong xanh, trông như rừng dưới nước."
     ],
-    "flagMeaning": "Cờ Kazakhstan có nền xanh dương với một mặt trời vàng có nhiều tia sáng và một chú đại bàng vàng bay bên dưới."
+    "flagDescription": "Nền xanh da trời với một mặt trời vàng tỏa tia ở giữa, bên dưới mặt trời là một con đại bàng vàng đang bay. Sát cột cờ có một dải hoa văn trang trí màu vàng.",
+    "flagMeaning": "Mặt trời tượng trưng cho sự sống và sung túc, đại bàng tượng trưng cho tự do và sức mạnh. Nền xanh thể hiện bầu trời và mong ước hòa bình."
   },
   "UZ": {
     "tourism": [
@@ -1154,7 +1207,8 @@
       "Samarkand ở Uzbekistan là một trong những thành phố cổ nhất thế giới với những tòa nhà ốp gạch men xanh ngọc lộng lẫy!",
       "Uzbekistan là một trong hai quốc gia duy nhất trên thế giới mà muốn ra biển phải đi qua tới hai nước khác."
     ],
-    "flagMeaning": "Cờ Uzbekistan có ba sọc ngang màu xanh dương, trắng và xanh lá, với một mặt trăng lưỡi liềm trắng và mười hai ngôi sao trắng."
+    "flagDescription": "Ba sọc ngang xanh dương, trắng, lục, ngăn cách bởi các đường viền đỏ mảnh. Góc trên gần cột cờ có một vầng trăng lưỡi liềm trắng và mười hai ngôi sao trắng.",
+    "flagMeaning": "Trăng lưỡi liềm gợi đến truyền thống Hồi giáo. Màu xanh dương tượng trưng cho bầu trời và nước, màu trắng cho hòa bình, màu lục cho thiên nhiên; mười hai ngôi sao tượng trưng cho các tháng trong năm."
   },
   "UA": {
     "tourism": [
@@ -1175,7 +1229,8 @@
       "Ukraina là nước lớn nhất nằm hoàn toàn trong châu Âu.",
       "Người Ukraina trồng rất nhiều hoa hướng dương, đây là loài hoa biểu tượng của đất nước."
     ],
-    "flagMeaning": "Lá cờ Ukraina có sọc xanh dương ở trên và sọc vàng ở dưới. Màu xanh gợi bầu trời, màu vàng gợi cánh đồng lúa mì."
+    "flagDescription": "Chỉ hai sọc ngang bằng nhau: sọc xanh dương ở trên và sọc vàng ở dưới.",
+    "flagMeaning": "Sọc xanh dương tượng trưng cho bầu trời, còn sọc vàng tượng trưng cho những cánh đồng lúa mì chín vàng của đất nước."
   },
   "PL": {
     "tourism": [
@@ -1196,7 +1251,8 @@
       "Ba Lan có một mỏ muối với cả nhà thờ và tượng được tạc hoàn toàn từ muối.",
       "Nhà thiên văn nổi tiếng Copernicus, người phát hiện Trái Đất quay quanh Mặt Trời, là người Ba Lan."
     ],
-    "flagMeaning": "Lá cờ Ba Lan có sọc trắng ở trên và sọc đỏ ở dưới, rất giản dị."
+    "flagDescription": "Hai sọc ngang bằng nhau: sọc trắng ở trên và sọc đỏ ở dưới.",
+    "flagMeaning": "Trắng và đỏ là hai màu truyền thống lâu đời của Ba Lan. Màu trắng thường gắn với hòa bình, màu đỏ gắn với lòng dũng cảm."
   },
   "CZ": {
     "tourism": [
@@ -1217,7 +1273,8 @@
       "Praha có một chiếc đồng hồ thiên văn hơn 600 tuổi vẫn chạy tốt mỗi ngày.",
       "Cộng hòa Séc có nhiều lâu đài và pháo đài hơn bất kỳ nước nào khác ở châu Âu."
     ],
-    "flagMeaning": "Lá cờ Cộng hòa Séc có sọc trắng ở trên, sọc đỏ ở dưới và một tam giác xanh dương phía bên trái."
+    "flagDescription": "Hai sọc ngang trắng (trên) và đỏ (dưới), cùng một hình tam giác màu xanh dương nhô ra từ cột cờ vào giữa lá cờ.",
+    "flagMeaning": "Trắng, đỏ và xanh dương là các màu truyền thống Slav. Màu sắc này thể hiện mối liên hệ với các dân tộc Slav anh em."
   },
   "SK": {
     "tourism": [
@@ -1238,7 +1295,8 @@
       "Slovakia có nhiều lâu đài tính trên đầu người nhiều hơn hầu hết các nước trên thế giới.",
       "Dãy núi Tatra ở Slovakia là nơi sinh sống của gấu nâu, sói và linh miêu."
     ],
-    "flagMeaning": "Lá cờ Slovakia có ba sọc ngang trắng, xanh dương và đỏ, kèm một chiếc khiên nhỏ có chữ thập đôi bên trái."
+    "flagDescription": "Ba sọc ngang trắng, xanh dương, đỏ từ trên xuống. Phía gần cột cờ có một tấm khiên đỏ với cây thánh giá kép trắng đứng trên ba ngọn đồi màu xanh dương.",
+    "flagMeaning": "Trắng, xanh dương và đỏ là các màu truyền thống Slav. Cây thánh giá kép màu trắng và ba ngọn đồi xanh dương là biểu tượng lâu đời trên huy hiệu của Slovakia."
   },
   "HU": {
     "tourism": [
@@ -1259,7 +1317,8 @@
       "Budapest nằm trên hàng trăm suối nước nóng tự nhiên, nên có rất nhiều nhà tắm nước nóng.",
       "Khối lập phương Rubik nổi tiếng được phát minh bởi một người Hungary."
     ],
-    "flagMeaning": "Lá cờ Hungary có ba sọc ngang đỏ, trắng và xanh lá."
+    "flagDescription": "Ba sọc ngang bằng nhau: đỏ ở trên, trắng ở giữa và lục ở dưới.",
+    "flagMeaning": "Theo cách hiểu truyền thống, màu đỏ tượng trưng cho sức mạnh, màu trắng cho sự trung thực và màu lục cho hy vọng."
   },
   "RO": {
     "tourism": [
@@ -1280,7 +1339,8 @@
       "Lâu đài Bran ở Romania thường được gọi là lâu đài của Bá tước Dracula.",
       "Rừng ở Romania là nơi sinh sống của số lượng gấu nâu lớn nhất châu Âu."
     ],
-    "flagMeaning": "Lá cờ Romania có ba sọc dọc xanh dương, vàng và đỏ đứng cạnh nhau."
+    "flagDescription": "Ba sọc dọc bằng nhau: xanh dương ở phía cột cờ, vàng ở giữa và đỏ ở ngoài.",
+    "flagMeaning": "Ba màu này gắn với các vùng đất lịch sử của Romania. Theo cách hiểu truyền thống, xanh dương tượng trưng cho tự do, vàng cho công lý và đỏ cho tình anh em."
   },
   "BG": {
     "tourism": [
@@ -1301,7 +1361,8 @@
       "Bulgaria là một trong những nơi đầu tiên trên thế giới làm ra sữa chua.",
       "Khi người Bulgaria gật đầu thì có nghĩa là không, còn lắc đầu lại có nghĩa là có."
     ],
-    "flagMeaning": "Lá cờ Bulgaria có ba sọc ngang trắng, xanh lá và đỏ. Màu xanh lá thường gợi tới đồng ruộng và thiên nhiên tươi tốt."
+    "flagDescription": "Lá cờ có ba sọc ngang bằng nhau: trắng ở trên, xanh lá cây ở giữa và đỏ ở dưới.",
+    "flagMeaning": "Màu trắng tượng trưng cho hòa bình và sự yên ấm, màu xanh lá cây cho rừng và đồng ruộng tươi tốt, còn màu đỏ cho lòng dũng cảm của người dân Bulgaria."
   },
   "IE": {
     "tourism": [
@@ -1322,7 +1383,8 @@
       "Ireland được gọi là Đảo Ngọc vì cỏ cây ở đây luôn xanh mướt quanh năm.",
       "Cây đàn hạc là biểu tượng quốc gia của Ireland và in trên đồng tiền của nước này."
     ],
-    "flagMeaning": "Lá cờ Ireland có ba sọc dọc xanh lá, trắng và cam. Màu trắng ở giữa tượng trưng cho hòa bình và sự đoàn kết."
+    "flagDescription": "Lá cờ có ba sọc dọc bằng nhau: xanh lá cây bên trái, trắng ở giữa và cam bên phải.",
+    "flagMeaning": "Màu xanh lá cây đại diện cho những người theo đạo Công giáo, màu cam cho những người theo đạo Tin Lành, còn dải trắng ở giữa là mong ước hòa bình giữa hai nhóm người này."
   },
   "BE": {
     "tourism": [
@@ -1343,7 +1405,8 @@
       "Khoai tây chiên thực ra được người Bỉ phát minh ra chứ không phải người Pháp.",
       "Bỉ có một công trình khổng lồ hình nguyên tử cao 102 mét gọi là Atomium."
     ],
-    "flagMeaning": "Lá cờ Bỉ có ba sọc dọc đen, vàng và đỏ đứng cạnh nhau."
+    "flagDescription": "Lá cờ có ba sọc dọc bằng nhau: đen bên trái, vàng ở giữa và đỏ bên phải.",
+    "flagMeaning": "Ba màu đen, vàng và đỏ được lấy từ huy hiệu cổ của vùng Brabant với hình con sư tử vàng trên nền đen, móng và lưỡi sư tử màu đỏ."
   },
   "AT": {
     "tourism": [
@@ -1364,7 +1427,8 @@
       "Nhà soạn nhạc thiên tài Mozart sinh ra ở thành phố Salzburg của Áo.",
       "Áo có những ngôi làng nhỏ xinh nằm bên hồ giữa dãy núi Alps tuyết phủ."
     ],
-    "flagMeaning": "Lá cờ Áo có ba sọc ngang đỏ-trắng-đỏ. Người ta kể rằng màu đỏ-trắng-đỏ gắn với chiếc áo giáp của một vị vua xưa."
+    "flagDescription": "Lá cờ có ba sọc ngang: đỏ ở trên, trắng ở giữa và đỏ ở dưới.",
+    "flagMeaning": "Theo truyền thuyết, một vị công tước trong trận chiến có áo choàng nhuốm đầy máu đỏ, chỉ còn dải trắng ở chỗ thắt lưng. Hình ảnh đỏ-trắng-đỏ đó trở thành lá cờ tượng trưng cho lòng quả cảm."
   },
   "PT": {
     "tourism": [
@@ -1385,7 +1449,8 @@
       "Bồ Đào Nha là một trong những nước lâu đời nhất châu Âu với đường biên giới gần như không đổi.",
       "Loại bần dùng làm nút chai rượu phần lớn được trồng và sản xuất ở Bồ Đào Nha."
     ],
-    "flagMeaning": "Lá cờ Bồ Đào Nha có phần xanh lá bên trái và phần đỏ bên phải, ở giữa là một huy hiệu có quả cầu và khiên nhỏ."
+    "flagDescription": "Lá cờ chia hai phần: xanh lá cây bên trái và đỏ bên phải; chính giữa ranh giới là huy hiệu hoàng gia có quả cầu và tấm khiên nhỏ.",
+    "flagMeaning": "Màu đỏ tượng trưng cho dòng máu những người đã hy sinh, màu xanh lá cây cho hy vọng. Quả cầu (gọi là armillary) nhắc đến thời người Bồ Đào Nha dong thuyền khám phá khắp thế giới."
   },
   "DK": {
     "tourism": [
@@ -1406,7 +1471,8 @@
       "Những khối đồ chơi Lego nổi tiếng được phát minh ở Đan Mạch.",
       "Nhà văn Andersen người Đan Mạch đã viết các truyện cổ tích như Nàng tiên cá và Cô bé bán diêm."
     ],
-    "flagMeaning": "Lá cờ Đan Mạch màu đỏ với một chữ thập trắng nằm hơi lệch về bên trái. Đây là một trong những lá cờ lâu đời nhất thế giới."
+    "flagDescription": "Lá cờ nền đỏ với một chữ thập trắng nằm lệch về phía bên trái.",
+    "flagMeaning": "Đây là cờ chữ thập Bắc Âu, mang ý nghĩa Cơ Đốc giáo. Người Đan Mạch tin rằng lá cờ này rơi từ trời xuống giúp họ thắng trận, nên nó là một trong những lá cờ lâu đời nhất thế giới."
   },
   "SE": {
     "tourism": [
@@ -1427,7 +1493,8 @@
       "Giải thưởng Nobel danh giá được trao hằng năm tại thủ đô Stockholm của Thụy Điển.",
       "Ở miền bắc Thụy Điển vào mùa hè, Mặt Trời không lặn nên trời sáng suốt cả đêm."
     ],
-    "flagMeaning": "Lá cờ Thụy Điển màu xanh dương với một chữ thập vàng nằm hơi lệch về bên trái."
+    "flagDescription": "Lá cờ nền xanh lam với một chữ thập màu vàng nằm lệch về phía bên trái.",
+    "flagMeaning": "Đây là cờ chữ thập Bắc Âu. Màu vàng và xanh lam được lấy từ huy hiệu cổ của Thụy Điển; nhiều người liên tưởng vàng là ánh nắng mặt trời và xanh lam là bầu trời, hồ nước."
   },
   "NO": {
     "tourism": [
@@ -1448,7 +1515,8 @@
       "Na Uy có những vịnh biển sâu hẹp tuyệt đẹp gọi là fjord được núi đá bao quanh.",
       "Vào mùa đông ở miền bắc Na Uy, người ta có thể ngắm dải Bắc cực quang lung linh trên trời."
     ],
-    "flagMeaning": "Lá cờ Na Uy màu đỏ với một chữ thập xanh dương viền trắng."
+    "flagDescription": "Lá cờ nền đỏ có chữ thập xanh lam viền trắng, nằm lệch về phía bên trái.",
+    "flagMeaning": "Đây là cờ chữ thập Bắc Âu. Ba màu đỏ, trắng và xanh lam là những màu thường thấy ở các nước tự do thời đó, thể hiện tinh thần độc lập của Na Uy."
   },
   "FI": {
     "tourism": [
@@ -1469,7 +1537,8 @@
       "Phần Lan có hơn 180 nghìn hồ nước nên được gọi là Xứ sở của ngàn hồ.",
       "Người ta tin rằng Ông già Noel sống ở vùng Lapland phía bắc Phần Lan."
     ],
-    "flagMeaning": "Lá cờ Phần Lan màu trắng với một chữ thập xanh dương. Màu xanh gợi những hồ nước, màu trắng gợi tuyết phủ."
+    "flagDescription": "Lá cờ nền trắng có một chữ thập màu xanh lam nằm lệch về phía bên trái.",
+    "flagMeaning": "Đây là cờ chữ thập Bắc Âu. Màu xanh lam tượng trưng cho hàng nghìn hồ nước và bầu trời của Phần Lan, còn màu trắng cho tuyết phủ trắng xóa vào mùa đông."
   },
   "IS": {
     "tourism": [
@@ -1490,7 +1559,8 @@
       "Iceland có rất nhiều núi lửa và mạch nước nóng phun lên từ lòng đất.",
       "Iceland gần như không có muỗi, đây là điều rất hiếm thấy trên thế giới."
     ],
-    "flagMeaning": "Lá cờ Iceland màu xanh dương với một chữ thập trắng viền đỏ. Màu xanh gợi biển, trắng gợi băng tuyết, đỏ gợi núi lửa."
+    "flagDescription": "Lá cờ nền xanh lam có chữ thập đỏ viền trắng, nằm lệch về phía bên trái.",
+    "flagMeaning": "Đây là cờ chữ thập Bắc Âu. Người Iceland giải thích màu xanh lam là biển và núi, màu trắng là băng tuyết, còn màu đỏ là lửa từ các ngọn núi lửa trên đảo."
   },
   "HR": {
     "tourism": [
@@ -1511,7 +1581,8 @@
       "Chiếc cà vạt mà mọi người đeo ngày nay có nguồn gốc từ Croatia.",
       "Croatia có những hồ nước trong xanh với nhiều thác nước nối tiếp nhau ở vườn quốc gia Plitvice."
     ],
-    "flagMeaning": "Lá cờ Croatia có ba sọc ngang đỏ, trắng và xanh dương, ở giữa là một chiếc khiên ô vuông đỏ-trắng giống bàn cờ."
+    "flagDescription": "Lá cờ có ba sọc ngang đỏ, trắng, xanh lam; chính giữa là tấm khiên ô vuông đỏ-trắng, phía trên có một hàng năm tấm khiên nhỏ xếp thành hình vòng cung như chiếc vương miện.",
+    "flagMeaning": "Ba màu đỏ, trắng, xanh lam là các màu truyền thống của những dân tộc Slav. Tấm khiên ô vuông đỏ-trắng là biểu tượng lâu đời của Croatia; năm tấm khiên nhỏ phía trên tượng trưng cho năm vùng đất lịch sử của đất nước."
   },
   "RS": {
     "tourism": [
@@ -1532,7 +1603,8 @@
       "Mận là loại trái cây rất quan trọng ở Serbia, được dùng làm mứt và nhiều món ngon.",
       "Serbia có một ngôi nhà gỗ nhỏ xíu xây ngay trên một tảng đá giữa dòng sông Drina."
     ],
-    "flagMeaning": "Lá cờ Serbia có ba sọc ngang đỏ, xanh dương và trắng, kèm một huy hiệu có đại bàng và khiên nhỏ bên trái."
+    "flagDescription": "Lá cờ có ba sọc ngang đỏ, xanh lam, trắng; phía bên trái có huy hiệu với đại bàng hai đầu và một tấm khiên nhỏ.",
+    "flagMeaning": "Ba màu đỏ, xanh lam, trắng là các màu truyền thống của những dân tộc Slav. Con đại bàng hai đầu là biểu tượng cổ xưa của Serbia."
   },
   "SI": {
     "tourism": [
@@ -1553,7 +1625,8 @@
       "Slovenia có một hòn đảo nhỏ với nhà thờ nằm giữa hồ Bled tuyệt đẹp.",
       "Trong hang động ở Slovenia có loài kỳ giông trắng gọi là rồng con, sống được hơn 100 năm."
     ],
-    "flagMeaning": "Lá cờ Slovenia có ba sọc ngang trắng, xanh dương và đỏ, kèm một huy hiệu nhỏ với hình ngọn núi và ngôi sao ở góc trên bên trái."
+    "flagDescription": "Cờ có ba sọc ngang bằng nhau: trắng ở trên, lam ở giữa, đỏ ở dưới. Góc trên bên trái có một huy hiệu hình khiên với ngọn núi ba đỉnh màu trắng, sóng nước và ba ngôi sao vàng.",
+    "flagMeaning": "Ba màu trắng, lam, đỏ là màu truyền thống của người Slav. Trên huy hiệu, ngọn núi ba đỉnh là núi Triglav (đỉnh núi cao nhất nước, biểu tượng của Slovenia), các đường lượn sóng tượng trưng cho sông và biển, còn ba ngôi sao vàng lấy từ huy hiệu của dòng họ quý tộc Bá tước xứ Celje xưa."
   },
   "EE": {
     "tourism": [
@@ -1574,7 +1647,8 @@
       "Estonia có lễ hội ca hát khổng lồ với hàng chục nghìn người cùng cất tiếng hát.",
       "Estonia là một trong những nước có nhiều rừng và đầm lầy nhất châu Âu."
     ],
-    "flagMeaning": "Lá cờ Estonia có ba sọc ngang xanh dương, đen và trắng. Màu xanh gợi bầu trời, màu trắng gợi tuyết và khát vọng tươi sáng."
+    "flagDescription": "Cờ có ba sọc ngang bằng nhau: lam ở trên, đen ở giữa, trắng ở dưới.",
+    "flagMeaning": "Màu lam tượng trưng cho bầu trời, biển và hồ; màu đen tượng trưng cho đất đai quê hương và quá khứ khó khăn của dân tộc; màu trắng tượng trưng cho khát vọng tự do, tuyết và những đêm hè sáng ở phương Bắc."
   },
   "LV": {
     "tourism": [
@@ -1595,7 +1669,8 @@
       "Latvia có một thác nước rộng nhất châu Âu, nơi cá có thể nhảy vọt lên không trung.",
       "Thủ đô Riga của Latvia có rất nhiều tòa nhà cổ trang trí hoa văn cầu kỳ tuyệt đẹp."
     ],
-    "flagMeaning": "Lá cờ Latvia màu đỏ sẫm với một sọc trắng ngang ở giữa."
+    "flagDescription": "Cờ có nền đỏ sẫm (đỏ thẫm đặc trưng) với một sọc trắng nằm ngang mảnh ở chính giữa.",
+    "flagMeaning": "Theo truyền thuyết, màu đỏ thẫm tượng trưng cho sự sẵn sàng bảo vệ tự do và đất nước, còn sọc trắng ở giữa tượng trưng cho lòng trung thực và công bằng của người dân Latvia."
   },
   "LT": {
     "tourism": [
@@ -1616,7 +1691,8 @@
       "Bên bờ biển Litva người ta tìm thấy hổ phách, loại đá vàng óng từ nhựa cây cổ đại.",
       "Litva có một lâu đài bằng gạch đỏ xây trên một hòn đảo nhỏ giữa hồ."
     ],
-    "flagMeaning": "Lá cờ Litva có ba sọc ngang vàng, xanh lá và đỏ. Màu vàng gợi nắng và đồng lúa, màu xanh lá gợi cây cối."
+    "flagDescription": "Cờ có ba sọc ngang bằng nhau: vàng ở trên, lục ở giữa, đỏ ở dưới.",
+    "flagMeaning": "Màu vàng tượng trưng cho ánh nắng mặt trời, sự thịnh vượng và những cánh đồng lúa chín; màu lục tượng trưng cho rừng, đồng cỏ và thiên nhiên; màu đỏ tượng trưng cho lòng dũng cảm và máu của những người đã bảo vệ đất nước."
   },
   "BY": {
     "tourism": [
@@ -1637,7 +1713,8 @@
       "Belarus có khu rừng nguyên sinh cổ xưa nhất châu Âu, nơi loài bò rừng bison sinh sống.",
       "Khoảng 40 phần trăm diện tích Belarus được rừng cây bao phủ."
     ],
-    "flagMeaning": "Lá cờ Belarus có hai sọc ngang đỏ và xanh lá, bên trái là một dải hoa văn trắng-đỏ rất đẹp giống thêu thùa truyền thống."
+    "flagDescription": "Cờ có một dải đỏ rộng ở trên và một dải lục hẹp hơn ở dưới. Sát mép cờ bên trái là một dải dọc màu trắng in hoa văn trang trí truyền thống màu đỏ.",
+    "flagMeaning": "Màu đỏ tượng trưng cho quá khứ và lòng dũng cảm, màu lục tượng trưng cho rừng, đồng ruộng và hy vọng. Dải hoa văn trắng đỏ bên trái là họa tiết thêu dân gian truyền thống của người Belarus."
   },
   "MC": {
     "tourism": [
@@ -1658,7 +1735,8 @@
       "Monaco là quốc gia nhỏ thứ hai trên thế giới, chỉ sau Vatican.",
       "Monaco nhỏ đến mức bạn có thể đi bộ ngang qua cả nước chỉ trong khoảng một giờ."
     ],
-    "flagMeaning": "Lá cờ Monaco có sọc đỏ ở trên và sọc trắng ở dưới, đơn giản và dễ nhớ."
+    "flagDescription": "Cờ gồm hai sọc ngang bằng nhau: đỏ ở trên và trắng ở dưới.",
+    "flagMeaning": "Hai màu đỏ và trắng là màu truyền thống lâu đời của dòng họ Grimaldi, gia tộc cai trị Monaco từ rất nhiều thế kỷ trước."
   },
   "VA": {
     "tourism": [
@@ -1679,7 +1757,8 @@
       "Vatican là quốc gia nhỏ nhất thế giới, nhỏ hơn nhiều công viên lớn.",
       "Trần nhà nguyện Sistine ở Vatican được danh họa Michelangelo vẽ khi nằm ngửa trên giàn giáo cao."
     ],
-    "flagMeaning": "Lá cờ Vatican có hai phần vàng và trắng, ở phần trắng có hình hai chiếc chìa khóa bắt chéo và một chiếc mũ."
+    "flagDescription": "Cờ hình vuông gồm hai dải dọc bằng nhau: vàng ở bên trái và trắng ở bên phải. Trên dải trắng có hình hai chiếc chìa khóa bắt chéo cùng một chiếc mũ ba tầng của Giáo hoàng.",
+    "flagMeaning": "Hai chìa khóa (một vàng, một bạc) tượng trưng cho chìa khóa mà theo Kinh Thánh được trao cho thánh Phêrô, biểu tượng quyền của Giáo hoàng. Hai màu vàng và trắng là màu chính thức của Tòa Thánh Vatican."
   },
   "LU": {
     "tourism": [
@@ -1700,7 +1779,8 @@
       "Luxembourg là quốc gia duy nhất trên thế giới có người đứng đầu là một vị Đại Công tước.",
       "Thủ đô Luxembourg có những đường hầm và hang động đục sâu trong vách đá gọi là Bock."
     ],
-    "flagMeaning": "Lá cờ Luxembourg có ba sọc ngang đỏ, trắng và xanh dương nhạt."
+    "flagDescription": "Cờ có ba sọc ngang bằng nhau: đỏ ở trên, trắng ở giữa, lam (xanh da trời) ở dưới.",
+    "flagMeaning": "Ba màu đỏ, trắng, lam bắt nguồn từ huy hiệu cổ của các Đại Công tước Luxembourg, vốn có hình sư tử đỏ trên nền sọc trắng và lam."
   },
   "AL": {
     "tourism": [
@@ -1721,7 +1801,8 @@
       "Albania được gọi là vùng đất của những chú đại bàng.",
       "Thành phố Berat ở Albania có nhiều cửa sổ xếp chồng đến mức được gọi là Thành phố nghìn cửa sổ."
     ],
-    "flagMeaning": "Lá cờ Albania màu đỏ với hình một con đại bàng hai đầu màu đen ở giữa, trông rất oai phong."
+    "flagDescription": "Cờ có nền đỏ với hình một con đại bàng đen hai đầu ở chính giữa.",
+    "flagMeaning": "Đại bàng đen hai đầu là biểu tượng cổ xưa của dân tộc Albania, gắn với người anh hùng dân tộc Skanderbeg. Nền đỏ tượng trưng cho lòng dũng cảm và sức mạnh."
   },
   "MA": {
     "tourism": [
@@ -1742,7 +1823,8 @@
       "Maroc có một thành phố tên Chefchaouen nơi gần như mọi bức tường đều được sơn màu xanh dương!",
       "Lạc đà ở Maroc có thể đi nhiều ngày trên sa mạc Sahara mà không cần uống nước."
     ],
-    "flagMeaning": "Cờ Maroc màu đỏ, ở chính giữa có một ngôi sao năm cánh màu xanh lá rất nổi bật."
+    "flagDescription": "Cờ có nền đỏ với một ngôi sao năm cánh màu xanh lục viền nét ở chính giữa.",
+    "flagMeaning": "Ngôi sao năm cánh màu lục được gọi là \"Con dấu của Solomon\", còn màu lục gắn với đạo Hồi và niềm tin. Nền đỏ là màu truyền thống lâu đời của Morocco, tượng trưng cho lòng dũng cảm."
   },
   "TN": {
     "tourism": [
@@ -1763,7 +1845,8 @@
       "Một phần bộ phim Chiến Tranh Giữa Các Vì Sao được quay trên sa mạc của Tunisia!",
       "Tunisia là quốc gia nằm xa nhất về phía bắc của cả châu Phi."
     ],
-    "flagMeaning": "Cờ Tunisia màu đỏ tươi, ở giữa có vòng tròn trắng chứa hình trăng lưỡi liềm và một ngôi sao đỏ."
+    "flagDescription": "Cờ có nền đỏ, ở giữa là một vòng tròn trắng chứa hình trăng lưỡi liềm đỏ ôm lấy một ngôi sao năm cánh đỏ.",
+    "flagMeaning": "Trăng lưỡi liềm và ngôi sao là biểu tượng quen thuộc của đạo Hồi. Màu đỏ tượng trưng cho lòng dũng cảm, còn vòng tròn trắng tượng trưng cho hòa bình và sự trong sáng."
   },
   "DZ": {
     "tourism": [
@@ -1784,7 +1867,8 @@
       "Algeria là quốc gia lớn nhất ở châu Phi về diện tích.",
       "Hơn 80% diện tích Algeria là sa mạc Sahara với những cồn cát khổng lồ!"
     ],
-    "flagMeaning": "Cờ Algeria chia hai nửa xanh lá và trắng, ở giữa có hình trăng lưỡi liềm đỏ và một ngôi sao đỏ."
+    "flagDescription": "Cờ chia dọc làm hai nửa bằng nhau: lục ở bên trái và trắng ở bên phải, ở giữa có hình trăng lưỡi liềm đỏ và một ngôi sao năm cánh đỏ.",
+    "flagMeaning": "Trăng lưỡi liềm và ngôi sao là biểu tượng của đạo Hồi. Màu lục tượng trưng cho thiên nhiên và niềm tin, màu trắng tượng trưng cho hòa bình và sự trong sạch, còn màu đỏ tượng trưng cho lòng dũng cảm và sự hy sinh."
   },
   "LY": {
     "tourism": [
@@ -1805,7 +1889,8 @@
       "Gần như toàn bộ Libya là sa mạc, nên người dân sống tập trung gần bờ biển.",
       "Libya có một thành phố cổ La Mã tên Leptis Magna với những cột đá khổng lồ còn nguyên vẹn!"
     ],
-    "flagMeaning": "Cờ Libya có ba dải đỏ, đen, xanh lá, ở giữa dải đen là hình trăng lưỡi liềm và ngôi sao màu trắng."
+    "flagDescription": "Cờ có ba sọc ngang: đỏ ở trên, đen ở giữa (rộng nhất) và lục ở dưới. Chính giữa sọc đen là một vầng trăng lưỡi liềm trắng và một ngôi sao trắng.",
+    "flagMeaning": "Trăng lưỡi liềm và ngôi sao là biểu tượng của đạo Hồi, tôn giáo chính ở Libya. Màu lục gắn với vùng Tripolitania, màu đen gắn với vùng Cyrenaica và màu đỏ gắn với vùng Fezzan, là ba vùng đất hợp thành đất nước."
   },
   "ET": {
     "tourism": [
@@ -1826,7 +1911,8 @@
       "Ethiopia được cho là nơi cây cà phê được phát hiện đầu tiên trên thế giới!",
       "Lịch của Ethiopia có 13 tháng, nên họ luôn chậm hơn chúng ta khoảng 7 năm."
     ],
-    "flagMeaning": "Cờ Ethiopia có ba dải xanh lá, vàng, đỏ với một ngôi sao vàng trên nền tròn xanh dương ở giữa."
+    "flagDescription": "Cờ có ba sọc ngang lục, vàng, đỏ. Ở giữa là một hình tròn xanh lam với ngôi sao vàng năm cánh phát ra các tia sáng.",
+    "flagMeaning": "Ba màu lục, vàng, đỏ là màu truyền thống của Ethiopia và là nguồn gốc của bộ màu Pan-Phi mà nhiều nước châu Phi dùng. Ngôi sao vàng trên nền xanh tượng trưng cho sự đoàn kết của các dân tộc, còn các tia sáng tượng trưng cho tương lai tươi sáng của họ."
   },
   "NG": {
     "tourism": [
@@ -1847,7 +1933,8 @@
       "Nigeria là quốc gia đông dân nhất châu Phi.",
       "Ở Nigeria có hơn 500 ngôn ngữ khác nhau được người dân sử dụng!"
     ],
-    "flagMeaning": "Cờ Nigeria có ba dải đứng: hai dải xanh lá hai bên và một dải trắng ở giữa, đơn giản mà đẹp."
+    "flagDescription": "Cờ chia thành ba dải dọc bằng nhau: lục, trắng, lục. Không có hình hay biểu tượng nào khác.",
+    "flagMeaning": "Hai dải màu lục tượng trưng cho đất đai trù phú và nông nghiệp của Nigeria, còn dải trắng ở giữa tượng trưng cho hòa bình và sự thống nhất."
   },
   "GH": {
     "tourism": [
@@ -1868,7 +1955,8 @@
       "Ghana có hồ Volta, một trong những hồ nhân tạo lớn nhất thế giới!",
       "Ghana là nước trồng nhiều ca cao để làm sô cô la hàng đầu thế giới."
     ],
-    "flagMeaning": "Cờ Ghana dùng màu liên Phi đỏ, vàng, xanh lá xếp ngang, ở giữa có một ngôi sao đen."
+    "flagDescription": "Cờ có ba sọc ngang đỏ, vàng, lục, với một ngôi sao đen năm cánh nằm giữa sọc vàng.",
+    "flagMeaning": "Đỏ nhắc tới máu của những người đã hi sinh vì độc lập, vàng tượng trưng cho khoáng sản và sự giàu có, lục tượng trưng cho rừng và đất đai. Ngôi sao đen là biểu tượng của tự do châu Phi và niềm tự hào của người dân Ghana."
   },
   "SN": {
     "tourism": [
@@ -1889,7 +1977,8 @@
       "Senegal có một cái hồ tên Hồ Hồng vì nước của nó có màu hồng như sữa dâu!",
       "Tượng đài Phục Hưng châu Phi ở Senegal còn cao hơn cả tượng Nữ Thần Tự Do."
     ],
-    "flagMeaning": "Cờ Senegal dùng màu liên Phi xanh lá, vàng, đỏ xếp đứng, ở giữa dải vàng có một ngôi sao xanh lá."
+    "flagDescription": "Cờ chia thành ba dải dọc bằng nhau: lục, vàng, đỏ, với một ngôi sao lục năm cánh ở chính giữa dải vàng.",
+    "flagMeaning": "Ba màu lục, vàng, đỏ là màu Pan-Phi. Lục gợi niềm hi vọng và cây cối, vàng gợi sự giàu có và tri thức, đỏ gợi máu và sức sống. Ngôi sao lục ở giữa tượng trưng cho sự rộng mở và đoàn kết."
   },
   "TZ": {
     "tourism": [
@@ -1910,7 +1999,8 @@
       "Núi Kilimanjaro ở Tanzania là ngọn núi cao nhất châu Phi và có tuyết trên đỉnh dù nằm gần xích đạo!",
       "Mỗi năm hơn một triệu con linh dương đầu bò di cư qua đồng cỏ Serengeti."
     ],
-    "flagMeaning": "Cờ Tanzania có dải chéo đen viền vàng, chia nền thành hai vùng màu xanh lá và xanh dương."
+    "flagDescription": "Cờ có một dải đen viền vàng chạy chéo từ góc dưới bên trái lên góc trên bên phải, chia cờ thành hai tam giác: lục ở phía trên và xanh lam ở phía dưới.",
+    "flagMeaning": "Lục tượng trưng cho đất đai và cây cối, xanh lam tượng trưng cho biển và sông hồ. Dải đen tượng trưng cho người dân Tanzania, còn hai đường viền vàng tượng trưng cho khoáng sản giàu có của đất nước."
   },
   "UG": {
     "tourism": [
@@ -1931,7 +2021,8 @@
       "Uganda là một trong số ít nơi trên thế giới còn loài khỉ đột núi quý hiếm sinh sống!",
       "Hồ Victoria nằm ở Uganda là hồ nước ngọt lớn nhất châu Phi."
     ],
-    "flagMeaning": "Cờ Uganda có sáu dải đen, vàng, đỏ xen kẽ, ở giữa là hình con sếu vương miện xám rất đẹp."
+    "flagDescription": "Cờ có sáu sọc ngang xen kẽ ba màu đen, vàng, đỏ. Ở chính giữa là một vòng tròn trắng với hình con sếu vương miện xám đứng một chân.",
+    "flagMeaning": "Đen tượng trưng cho người dân châu Phi, vàng tượng trưng cho ánh nắng mặt trời, đỏ tượng trưng cho tình anh em ruột thịt của con người. Con sếu vương miện là loài chim biểu tượng của Uganda."
   },
   "RW": {
     "tourism": [
@@ -1952,7 +2043,8 @@
       "Rwanda được gọi là Đất Nước Của Ngàn Ngọn Đồi vì có rất nhiều đồi xanh!",
       "Rwanda cấm túi ni lông để giữ đất nước sạch đẹp, được coi là một trong những nước sạch nhất châu Phi."
     ],
-    "flagMeaning": "Cờ Rwanda có ba dải xanh dương, vàng, xanh lá, với hình mặt trời vàng tỏa nắng ở góc trên."
+    "flagDescription": "Cờ có ba sọc ngang: xanh lam ở trên (rộng nhất), rồi đến vàng và lục mỏng hơn ở dưới. Ở góc trên bên phải có hình mặt trời vàng với các tia nắng.",
+    "flagMeaning": "Xanh lam tượng trưng cho hạnh phúc và hòa bình, vàng tượng trưng cho sự phát triển kinh tế, lục tượng trưng cho hi vọng và sự thịnh vượng. Mặt trời tượng trưng cho sự đoàn kết và ánh sáng soi đường cho người dân."
   },
   "CM": {
     "tourism": [
@@ -1973,7 +2065,8 @@
       "Cameroon được gọi là Châu Phi Thu Nhỏ vì có đủ rừng, núi, sa mạc và biển!",
       "Núi Cameroon là một ngọn núi lửa và là điểm cao nhất của vùng Tây Phi."
     ],
-    "flagMeaning": "Cờ Cameroon dùng màu liên Phi xanh lá, đỏ, vàng xếp đứng, ở giữa có một ngôi sao vàng."
+    "flagDescription": "Cờ chia thành ba dải dọc bằng nhau: lục, đỏ, vàng, với một ngôi sao vàng năm cánh nằm giữa dải đỏ.",
+    "flagMeaning": "Ba màu lục, vàng, đỏ là màu Pan-Phi. Lục gợi rừng phía nam, vàng gợi nắng và đồng cỏ phía bắc, đỏ gợi sự thống nhất. Ngôi sao vàng được gọi là 'ngôi sao thống nhất' của đất nước."
   },
   "CD": {
     "tourism": [
@@ -1994,7 +2087,8 @@
       "Rừng nhiệt đới Congo là khu rừng lớn thứ hai thế giới, chỉ sau rừng Amazon!",
       "Sông Congo là con sông sâu nhất thế giới."
     ],
-    "flagMeaning": "Cờ Cộng hòa Dân chủ Congo màu xanh dương, có dải chéo đỏ viền vàng và một ngôi sao vàng ở góc."
+    "flagDescription": "Cờ nền xanh lam có một dải đỏ viền vàng chạy chéo từ góc dưới bên trái lên góc trên bên phải. Ở góc trên bên trái có một ngôi sao vàng năm cánh.",
+    "flagMeaning": "Xanh lam tượng trưng cho hòa bình, đỏ tượng trưng cho máu của những người đã hi sinh, vàng tượng trưng cho sự giàu có của đất nước. Ngôi sao tượng trưng cho một tương lai tươi sáng."
   },
   "AO": {
     "tourism": [
@@ -2015,7 +2109,8 @@
       "Angola có thác nước Kalandula, một trong những thác nước lớn nhất châu Phi!",
       "Angola là quê hương của loài linh dương Sable đen khổng lồ rất hiếm, chỉ sống ở đây."
     ],
-    "flagMeaning": "Cờ Angola có hai dải đỏ và đen, ở giữa là hình bánh xe răng cưa, con dao rựa và ngôi sao màu vàng."
+    "flagDescription": "Cờ có hai sọc ngang: đỏ ở trên và đen ở dưới. Chính giữa là biểu tượng vàng gồm một con dao rựa bắt chéo với nửa bánh răng, phía trên có một ngôi sao năm cánh.",
+    "flagMeaning": "Đỏ nhắc tới máu của những người đã hi sinh, đen tượng trưng cho châu Phi. Dao rựa tượng trưng cho nông dân và nông nghiệp, bánh răng tượng trưng cho công nhân và công nghiệp, còn ngôi sao tượng trưng cho sự tiến bộ."
   },
   "ZM": {
     "tourism": [
@@ -2036,7 +2131,8 @@
       "Thác Victoria nằm ở Zambia là một trong những thác nước lớn nhất thế giới, lớn đến mức khói nước bay lên trời!",
       "Người địa phương gọi thác Victoria là Mosi-oa-Tunya, nghĩa là Làn Khói Vang Rền."
     ],
-    "flagMeaning": "Cờ Zambia màu xanh lá, ở góc phải có hình con đại bàng cùng các sọc đỏ, đen, cam."
+    "flagDescription": "Cờ nền lục, ở góc dưới bên phải có ba dải dọc đỏ, đen, cam và phía trên ba dải đó là hình một con đại bàng cá màu cam đang bay.",
+    "flagMeaning": "Lục tượng trưng cho cây cối và thiên nhiên, đỏ cho cuộc đấu tranh giành tự do, đen cho người dân Zambia, cam cho khoáng sản (nhất là đồng). Con đại bàng cá đang bay tượng trưng cho khả năng vươn lên vượt qua khó khăn của đất nước."
   },
   "ZW": {
     "tourism": [
@@ -2057,7 +2153,8 @@
       "Zimbabwe có một thành phố đá cổ tên Great Zimbabwe được xây hoàn toàn bằng đá mà không cần xi măng!",
       "Tên nước Zimbabwe có nghĩa là Những Ngôi Nhà Bằng Đá."
     ],
-    "flagMeaning": "Cờ Zimbabwe có nhiều dải xanh lá, vàng, đỏ, đen và một tam giác trắng với ngôi sao đỏ cùng hình chim đá."
+    "flagDescription": "Cờ có 7 sọc ngang xen kẽ xanh lá, vàng, đỏ và đen; bên trái là một tam giác trắng, trong đó có ngôi sao đỏ và một con chim màu vàng.",
+    "flagMeaning": "Xanh lá là cây cối và đồng ruộng, vàng là khoáng sản quý (nhất là vàng), đỏ là máu của những người đã chiến đấu giành độc lập, đen là người dân da đen. Tam giác trắng là hòa bình. Con chim vàng là Chim Zimbabwe, biểu tượng cổ của đất nước, còn ngôi sao đỏ tượng trưng cho khát vọng vào tương lai."
   },
   "MZ": {
     "tourism": [
@@ -2078,7 +2175,8 @@
       "Mozambique có bờ biển dài tuyệt đẹp nơi bạn có thể bơi cùng cá đuối khổng lồ và cá mập voi hiền lành!",
       "Cá mập voi ở vùng biển Mozambique là loài cá lớn nhất thế giới nhưng chỉ ăn sinh vật nhỏ xíu."
     ],
-    "flagMeaning": "Cờ Mozambique có các dải xanh lá, đen, vàng và một tam giác đỏ với ngôi sao vàng ở cán cờ."
+    "flagDescription": "Cờ có 3 sọc ngang xanh lá, đen, vàng (sọc đen viền trắng) và một tam giác đỏ bên trái; trong tam giác có ngôi sao vàng, trên ngôi sao là một khẩu súng bắt chéo với cây cuốc, đặt trên một cuốn sách mở.",
+    "flagMeaning": "Xanh lá là đất đai trù phú, đen là châu Phi, vàng là khoáng sản, trắng là hòa bình, đỏ là cuộc đấu tranh giành độc lập. Ngôi sao là tình đoàn kết, cuốn sách tượng trưng cho giáo dục, cây cuốc cho nghề nông, còn khẩu súng cho việc bảo vệ đất nước."
   },
   "BW": {
     "tourism": [
@@ -2099,7 +2197,8 @@
       "Botswana có số lượng voi nhiều nhất thế giới!",
       "Đồng bằng Okavango là nơi một con sông lớn chảy vào sa mạc rồi biến mất mà không ra biển."
     ],
-    "flagMeaning": "Cờ Botswana màu xanh dương, ở giữa có một dải đen viền trắng nằm ngang."
+    "flagDescription": "Cờ nền xanh da trời, ở giữa có một sọc ngang đen rộng được viền hai đường trắng mỏng.",
+    "flagMeaning": "Màu xanh da trời tượng trưng cho nước và mưa, vốn rất quý ở vùng đất khô hạn này. Sọc đen và trắng đặt cạnh nhau thể hiện người dân da đen và da trắng sống chung hòa thuận, giống như sọc vằn của con ngựa vằn."
   },
   "NA": {
     "tourism": [
@@ -2120,7 +2219,8 @@
       "Namibia có những cồn cát đỏ cao nhất thế giới, có cồn cao hơn cả 300 mét!",
       "Sa mạc Namib được cho là sa mạc lâu đời nhất trên Trái Đất."
     ],
-    "flagMeaning": "Cờ Namibia có dải chéo đỏ viền trắng, một bên xanh dương có mặt trời vàng, một bên màu xanh lá."
+    "flagDescription": "Cờ chia chéo bởi một dải đỏ viền trắng từ góc dưới bên trái lên góc trên bên phải; phần trên là màu xanh da trời có mặt trời vàng, phần dưới là màu xanh lá.",
+    "flagMeaning": "Đỏ là người dân và lòng quyết tâm, trắng là hòa bình và đoàn kết, xanh da trời là bầu trời và biển, xanh lá là cây cối và mùa màng. Mặt trời vàng tượng trưng cho sự sống và nguồn năng lượng."
   },
   "MG": {
     "tourism": [
@@ -2141,7 +2241,8 @@
       "Madagascar là quê hương của loài vượn cáo đáng yêu mà bạn không thể tìm thấy ở bất kỳ nơi nào khác trong tự nhiên!",
       "Hơn 90% các loài động vật ở Madagascar chỉ sống duy nhất trên hòn đảo này."
     ],
-    "flagMeaning": "Cờ Madagascar có dải trắng đứng ở cán cờ, cùng hai dải ngang màu đỏ và xanh lá."
+    "flagDescription": "Cờ có một sọc dọc trắng bên trái, phần còn lại chia làm hai sọc ngang: đỏ ở trên và xanh lá ở dưới.",
+    "flagMeaning": "Đỏ và trắng là những màu truyền thống lâu đời của đảo quốc này. Trắng tượng trưng cho sự trong sạch, đỏ cho ý chí, còn xanh lá cho hy vọng và đất đai trù phú."
   },
   "MU": {
     "tourism": [
@@ -2162,7 +2263,8 @@
       "Mauritius có một vùng đất kỳ lạ với bảy màu sắc khác nhau tự nhiên trên cát!",
       "Loài chim Dodo nổi tiếng từng sống duy nhất ở đảo Mauritius."
     ],
-    "flagMeaning": "Cờ Mauritius có bốn dải ngang màu đỏ, xanh dương, vàng và xanh lá xếp chồng lên nhau."
+    "flagDescription": "Cờ có 4 sọc ngang bằng nhau xếp từ trên xuống: đỏ, xanh dương, vàng, xanh lá.",
+    "flagMeaning": "Đỏ tượng trưng cho cuộc đấu tranh giành tự do và độc lập, xanh dương cho biển bao quanh hòn đảo, vàng cho ánh nắng tươi sáng của tương lai, và xanh lá cho cây cối xanh tốt quanh năm."
   },
   "CI": {
     "tourism": [
@@ -2183,7 +2285,8 @@
       "Bờ Biển Ngà là nước trồng nhiều ca cao nhất thế giới để làm sô cô la!",
       "Ở Bờ Biển Ngà có một nhà thờ khổng lồ là một trong những nhà thờ lớn nhất thế giới."
     ],
-    "flagMeaning": "Cờ Bờ Biển Ngà có ba dải đứng màu cam, trắng và xanh lá nằm cạnh nhau."
+    "flagDescription": "Cờ có 3 sọc dọc bằng nhau: cam ở bên trái, trắng ở giữa và xanh lá ở bên phải.",
+    "flagMeaning": "Màu cam tượng trưng cho đất đai vùng đồng cỏ phía bắc, trắng cho hòa bình và sự đoàn kết, còn xanh lá cho rừng cây và niềm hy vọng ở phía nam."
   },
   "ML": {
     "tourism": [
@@ -2204,7 +2307,8 @@
       "Mali có nhà thờ Hồi giáo Djenné, công trình bằng bùn đất lớn nhất thế giới!",
       "Thành phố Timbuktu của Mali từng là một trung tâm học tập nổi tiếng với hàng ngàn cuốn sách cổ."
     ],
-    "flagMeaning": "Cờ Mali có ba dải đứng màu xanh lá, vàng và đỏ, là những màu liên Phi quen thuộc."
+    "flagDescription": "Cờ có 3 sọc dọc bằng nhau: xanh lá ở bên trái, vàng ở giữa và đỏ ở bên phải.",
+    "flagMeaning": "Đây là ba màu Pan-Phi quen thuộc ở châu Phi. Xanh lá tượng trưng cho đồng ruộng và hy vọng, vàng cho ánh nắng và khoáng sản, đỏ cho máu của những người đã hy sinh vì đất nước."
   },
   "SO": {
     "tourism": [
@@ -2225,7 +2329,8 @@
       "Somalia có đường bờ biển dài nhất ở lục địa châu Phi!",
       "Somalia nuôi rất nhiều lạc đà, thuộc hàng nhiều nhất thế giới."
     ],
-    "flagMeaning": "Cờ Somalia có nền xanh dương và một ngôi sao trắng năm cánh lớn ở chính giữa."
+    "flagDescription": "Cờ nền xanh da trời, ở chính giữa có một ngôi sao trắng năm cánh.",
+    "flagMeaning": "Màu xanh da trời ban đầu lấy theo màu cờ của Liên Hợp Quốc, cũng gợi nhớ bầu trời và biển. Ngôi sao trắng năm cánh tượng trưng cho sự đoàn kết của người dân Somalia."
   },
   "SD": {
     "tourism": [
@@ -2246,7 +2351,8 @@
       "Sudan có nhiều kim tự tháp hơn cả Ai Cập, với hơn 200 kim tự tháp cổ!",
       "Hai dòng sông Nile Xanh và Nile Trắng gặp nhau ở Sudan để tạo thành sông Nile."
     ],
-    "flagMeaning": "Cờ Sudan có ba dải đỏ, trắng, đen nằm ngang và một hình tam giác xanh lá ở phía cán cờ."
+    "flagDescription": "Cờ có 3 sọc ngang đỏ, trắng, đen và một tam giác xanh lá nằm bên trái.",
+    "flagMeaning": "Đây là những màu Pan-Ả Rập. Đỏ là cuộc đấu tranh và hy sinh, trắng là hòa bình và sự trong sạch, đen gợi nhớ tên nước (vốn có nghĩa là vùng đất của người da đen), còn xanh lá tượng trưng cho đạo Hồi và sự trù phú của đất đai."
   },
   "AR": {
     "tourism": [
@@ -2268,7 +2374,8 @@
       "Đây là quê hương của siêu sao bóng đá Lionel Messi.",
       "Ở miền Nam Argentina lạnh đến mức có cả chim cánh cụt sống ngoài tự nhiên!"
     ],
-    "flagMeaning": "Cờ Argentina có hai sọc xanh nhạt và một sọc trắng ở giữa, kèm hình Mặt Trời vàng tươi cười rạng rỡ."
+    "flagDescription": "Cờ có 3 sọc ngang bằng nhau: xanh da trời nhạt ở trên và dưới, trắng ở giữa; chính giữa sọc trắng có một mặt trời vàng với khuôn mặt.",
+    "flagMeaning": "Hai màu xanh da trời nhạt và trắng là màu truyền thống của đất nước, thường được gắn với bầu trời và mây. Hình mặt trời vàng được gọi là Mặt Trời Tháng Năm, tượng trưng cho Cách mạng Tháng Năm 1810, khởi đầu con đường giành độc lập."
   },
   "CL": {
     "tourism": [
@@ -2290,7 +2397,8 @@
       "Chile là quốc gia dài và hẹp nhất thế giới, dài hơn 4.000 km.",
       "Trên Đảo Phục Sinh có gần 900 bức tượng đá khổng lồ bí ẩn gọi là Moai!"
     ],
-    "flagMeaning": "Cờ Chile có nửa trên gồm dải trắng và một ô vuông xanh có ngôi sao trắng, nửa dưới là dải màu đỏ."
+    "flagDescription": "Cờ có hai sọc ngang: trắng ở trên, đỏ ở dưới; góc trên bên trái là một ô vuông xanh dương có ngôi sao trắng năm cánh.",
+    "flagMeaning": "Trắng tượng trưng cho dãy núi tuyết Andes, đỏ cho máu của những người chiến đấu giành độc lập, xanh dương cho bầu trời. Ngôi sao trắng tượng trưng cho sự dẫn lối và đất nước thống nhất."
   },
   "PE": {
     "tourism": [
@@ -2312,7 +2420,8 @@
       "Peru là nơi đầu tiên trên thế giới trồng khoai tây, với hơn 3.000 loại khác nhau.",
       "Loài lạc đà không bướu Llama ở Peru có thể phun nước bọt khi giận dỗi!"
     ],
-    "flagMeaning": "Cờ Peru có ba dải dọc đỏ, trắng, đỏ trông rất gọn gàng và dễ nhớ."
+    "flagDescription": "Cờ có ba sọc dọc bằng nhau: hai sọc đỏ ở hai bên và một sọc trắng ở giữa. Giữa sọc trắng có hình huy hiệu vẽ con vicuña (họ lạc đà không bướu), cây và túi vàng.",
+    "flagMeaning": "Màu đỏ tượng trưng cho lòng dũng cảm và máu của những người đã chiến đấu vì đất nước, còn màu trắng tượng trưng cho hòa bình. Huy hiệu thể hiện sự giàu có của thiên nhiên Peru: con vật, cây cỏ và khoáng sản."
   },
   "CO": {
     "tourism": [
@@ -2334,7 +2443,8 @@
       "Sông Caño Cristales được gọi là 'dòng sông năm màu' vì nước có nhiều màu sắc.",
       "Colombia có nhiều loài chim hơn bất kỳ quốc gia nào trên Trái Đất!"
     ],
-    "flagMeaning": "Cờ Colombia có ba dải ngang: dải vàng to nhất ở trên, rồi đến dải xanh dương và dải đỏ."
+    "flagDescription": "Cờ có ba sọc ngang: sọc vàng to gấp đôi nằm trên cùng, rồi đến sọc xanh dương và sọc đỏ ở dưới.",
+    "flagMeaning": "Màu vàng tượng trưng cho sự giàu có và vàng của đất nước, màu xanh dương cho biển và bầu trời, màu đỏ cho lòng dũng cảm và máu của những người đã hi sinh vì nền độc lập."
   },
   "VE": {
     "tourism": [
@@ -2356,7 +2466,8 @@
       "Hồ Maracaibo có sấm sét đánh xuống gần như mỗi đêm trong năm.",
       "Nước cao đến mức nó tan thành sương mù trước khi chạm đất!"
     ],
-    "flagMeaning": "Cờ Venezuela có ba dải vàng, xanh dương, đỏ, và một vòng cung gồm những ngôi sao trắng ở giữa."
+    "flagDescription": "Cờ có ba sọc ngang bằng nhau: vàng ở trên, xanh dương ở giữa, đỏ ở dưới. Trên sọc xanh có một vòng cung tám ngôi sao trắng.",
+    "flagMeaning": "Màu vàng tượng trưng cho sự giàu có của đất đai, màu xanh dương cho biển ngăn cách với nước cũ cai trị, màu đỏ cho lòng dũng cảm. Tám ngôi sao đại diện cho các tỉnh đã cùng nhau đấu tranh giành độc lập."
   },
   "EC": {
     "tourism": [
@@ -2378,7 +2489,8 @@
       "Tên nước Ecuador có nghĩa là 'đường xích đạo' trong tiếng Tây Ban Nha.",
       "Ở Ecuador, bạn có thể đặt một chân ở Bắc bán cầu và chân kia ở Nam bán cầu!"
     ],
-    "flagMeaning": "Cờ Ecuador có dải vàng to ở trên, rồi đến dải xanh dương và dải đỏ, ở giữa có hình huy hiệu của đất nước."
+    "flagDescription": "Cờ có ba sọc ngang: sọc vàng to gấp đôi ở trên, rồi sọc xanh dương và sọc đỏ. Ở giữa có huy hiệu vẽ ngọn núi, con chim và mặt trời.",
+    "flagMeaning": "Màu vàng tượng trưng cho sự trù phú và ánh nắng, màu xanh dương cho biển và bầu trời, màu đỏ cho lòng dũng cảm. Huy hiệu có chim condor (kền kền Andes) và ngọn núi Chimborazo thể hiện thiên nhiên của Ecuador."
   },
   "BO": {
     "tourism": [
@@ -2400,7 +2512,8 @@
       "Thủ đô La Paz là thủ đô nằm cao nhất thế giới.",
       "Sau cơn mưa, cánh đồng muối biến thành tấm gương khổng lồ phản chiếu cả bầu trời!"
     ],
-    "flagMeaning": "Cờ Bolivia có ba dải ngang đỏ, vàng, xanh lá, với hình huy hiệu nhỏ nằm ở chính giữa."
+    "flagDescription": "Cờ có ba sọc ngang bằng nhau: đỏ ở trên, vàng ở giữa, xanh lá ở dưới. Giữa sọc vàng có huy hiệu quốc gia.",
+    "flagMeaning": "Màu đỏ tượng trưng cho lòng dũng cảm của những người lính, màu vàng cho sự giàu có và khoáng sản, màu xanh lá cho cây cối và đất đai màu mỡ."
   },
   "PY": {
     "tourism": [
@@ -2422,7 +2535,8 @@
       "Ren Ñandutí trong tiếng địa phương có nghĩa là 'mạng nhện'.",
       "Món 'súp Paraguay' thật ra không phải súp mà là một loại bánh ngô đặc!"
     ],
-    "flagMeaning": "Cờ Paraguay có ba dải đỏ, trắng, xanh dương, và đặc biệt là hai mặt của lá cờ in hình khác nhau."
+    "flagDescription": "Cờ có ba sọc ngang: đỏ ở trên, trắng ở giữa, xanh dương ở dưới. Đặc biệt, hai mặt của lá cờ in hình khác nhau ở chính giữa.",
+    "flagMeaning": "Màu đỏ, trắng và xanh dương tượng trưng cho lòng dũng cảm, hòa bình và tự do, công lý. Đây là lá cờ hiếm hoi có mặt trước và mặt sau khác nhau: một mặt là huy hiệu có ngôi sao, mặt kia là hình con sư tử."
   },
   "UY": {
     "tourism": [
@@ -2444,7 +2558,8 @@
       "Người Uruguay uống trà Mate nhiều hơn hầu hết các nước trên thế giới.",
       "Ở bãi biển có một bàn tay khổng lồ bằng đá nhô lên khỏi mặt cát!"
     ],
-    "flagMeaning": "Cờ Uruguay có những sọc trắng và xanh dương xen kẽ, cùng hình Mặt Trời vàng tươi cười ở góc trên."
+    "flagDescription": "Cờ có chín sọc ngang xen kẽ trắng và xanh dương. Ở góc trên bên trái có ô trắng với một mặt trời vàng có khuôn mặt, gọi là Mặt Trời Tháng Năm.",
+    "flagMeaning": "Chín sọc tượng trưng cho chín vùng đầu tiên của đất nước. Hình mặt trời vàng là biểu tượng của tự do và độc lập."
   },
   "CU": {
     "tourism": [
@@ -2466,7 +2581,8 @@
       "Cuba là hòn đảo lớn nhất vùng biển Caribe.",
       "Loài chim ruồi nhỏ nhất thế giới sống ở Cuba, bé như một con ong!"
     ],
-    "flagMeaning": "Cờ Cuba có năm dải xanh và trắng xen kẽ, cùng một tam giác đỏ có ngôi sao trắng ở bên trái."
+    "flagDescription": "Cờ có năm sọc ngang xen kẽ xanh dương và trắng, cùng một hình tam giác đỏ ở bên trái với một ngôi sao trắng năm cánh bên trong.",
+    "flagMeaning": "Ba sọc xanh dương tượng trưng cho ba vùng cũ của đất nước, hai sọc trắng cho lòng trong sạch và lý tưởng. Tam giác đỏ tượng trưng cho lòng dũng cảm và máu đã đổ, còn ngôi sao trắng là biểu tượng của tự do và độc lập."
   },
   "JM": {
     "tourism": [
@@ -2488,7 +2604,8 @@
       "Người chạy nhanh nhất thế giới Usain Bolt là người Jamaica.",
       "Cà phê Blue Mountain của Jamaica là một trong những loại cà phê đắt nhất thế giới!"
     ],
-    "flagMeaning": "Cờ Jamaica có hình chữ X màu vàng chia lá cờ thành các phần màu xanh lá và đen."
+    "flagDescription": "Cờ có hình chữ X màu vàng chia lá cờ thành bốn hình tam giác: hai tam giác xanh lá ở trên và dưới, hai tam giác đen ở hai bên.",
+    "flagMeaning": "Màu vàng tượng trưng cho ánh nắng và sự giàu có của thiên nhiên, màu xanh lá cho cây cối và hi vọng, màu đen cho sức mạnh và sự kiên cường của người dân."
   },
   "HT": {
     "tourism": [
@@ -2510,7 +2627,8 @@
       "Pháo đài Citadelle là một trong những lâu đài lớn nhất châu Mỹ.",
       "Mỗi năm vào ngày đầu năm, người Haiti ăn món súp bí vàng để mừng tự do!"
     ],
-    "flagMeaning": "Cờ Haiti gồm dải xanh dương ở trên và dải đỏ ở dưới, với hình huy hiệu có cây cọ ở giữa."
+    "flagDescription": "Cờ có hai sọc ngang bằng nhau: xanh dương ở trên và đỏ ở dưới. Ở chính giữa có một huy hiệu trắng vẽ cây cọ, cờ và vũ khí.",
+    "flagMeaning": "Màu xanh dương và đỏ tượng trưng cho sự đoàn kết của người dân. Huy hiệu có cây cọ và dải chữ mang ý nghĩa Đoàn kết tạo nên sức mạnh."
   },
   "DO": {
     "tourism": [
@@ -2532,7 +2650,8 @@
       "Điệu nhảy Merengue ra đời ở đây và rất vui nhộn.",
       "Cá voi lưng gù bơi hàng nghìn cây số đến vịnh Samaná để sinh con mỗi năm!"
     ],
-    "flagMeaning": "Cờ Cộng hòa Dominica có hình chữ thập trắng chia lá cờ thành các ô xanh dương và đỏ, ở giữa có huy hiệu nhỏ."
+    "flagDescription": "Cờ được một chữ thập trắng chia thành bốn ô: hai ô xanh dương và hai ô đỏ xen kẽ. Ở giữa có huy hiệu nhỏ với cuốn sách mở và một cây thánh giá nhỏ.",
+    "flagMeaning": "Màu xanh dương tượng trưng cho tự do, màu đỏ cho máu của những người anh hùng, còn chữ thập trắng tượng trưng cho hòa bình và đức tin. Đây là lá cờ duy nhất trên thế giới có hình cuốn Kinh Thánh ở huy hiệu."
   },
   "GT": {
     "tourism": [
@@ -2554,7 +2673,8 @@
       "Guatemala có hơn 30 ngọn núi lửa, một số vẫn đang hoạt động.",
       "Tên Guatemala có nghĩa là 'vùng đất nhiều cây cối' và còn có loài chim quetzal đuôi dài tuyệt đẹp!"
     ],
-    "flagMeaning": "Cờ Guatemala có hai dải xanh dương hai bên và một dải trắng ở giữa, kèm hình huy hiệu có chú chim quetzal xinh đẹp."
+    "flagDescription": "Cờ có ba sọc dọc: hai sọc xanh dương nhạt ở hai bên và một sọc trắng ở giữa. Giữa sọc trắng có huy hiệu vẽ con chim và súng trường bắt chéo.",
+    "flagMeaning": "Hai sọc xanh dương tượng trưng cho hai vùng biển bao quanh đất nước (Thái Bình Dương và biển Caribe), còn màu trắng tượng trưng cho hòa bình. Con chim trên huy hiệu là chim quetzal, biểu tượng của tự do."
   },
   "CR": {
     "tourism": [
@@ -2576,7 +2696,8 @@
       "Đất nước nhỏ bé này có gần 5 phần trăm số loài sinh vật của cả Trái Đất.",
       "Loài lười ở đây di chuyển chậm đến mức rêu xanh mọc cả trên lông của chúng!"
     ],
-    "flagMeaning": "Cờ Costa Rica có các dải xanh dương, trắng và một dải đỏ to ở giữa trông rất tươi vui."
+    "flagDescription": "Cờ có năm sọc ngang: xanh dương ở trên cùng và dưới cùng, rồi đến hai sọc trắng, và một sọc đỏ to bản ở giữa. Trên bản chính thức có thêm huy hiệu nước nằm lệch về phía trái sọc đỏ.",
+    "flagMeaning": "Màu xanh dương tượng trưng cho bầu trời và cơ hội, màu trắng cho hòa bình và sự trong sáng, còn màu đỏ cho lòng nhiệt huyết, sự ấm áp của người dân Costa Rica."
   },
   "PA": {
     "tourism": [
@@ -2598,7 +2719,8 @@
       "Tàu thuyền được nâng lên hạ xuống như đi thang máy nước để qua kênh đào.",
       "Ở Panama, bạn có thể ngắm Mặt Trời mọc ở Thái Bình Dương và lặn ở Đại Tây Dương!"
     ],
-    "flagMeaning": "Cờ Panama được chia thành bốn ô: hai ô trắng có ngôi sao xanh và đỏ, cùng một ô xanh dương và một ô đỏ."
+    "flagDescription": "Cờ chia làm bốn ô vuông: ô trắng góc trên trái có ngôi sao xanh dương, ô đỏ góc trên phải, ô trắng góc dưới phải có ngôi sao đỏ, và ô xanh dương góc dưới trái.",
+    "flagMeaning": "Màu trắng tượng trưng cho hòa bình. Hai màu xanh và đỏ cùng hai ngôi sao tượng trưng cho hai đảng phái lớn của đất nước; ngôi sao xanh nói đến sự trong sạch, ngôi sao đỏ nói đến luật pháp, để hai bên chung sống hòa thuận."
   },
   "HN": {
     "tourism": [
@@ -2620,7 +2742,8 @@
       "Vùng biển Honduras có rạn san hô lớn thứ hai thế giới.",
       "Ở Honduras có hiện tượng 'mưa cá', khi cá thật sự rơi từ trên trời xuống sau bão!"
     ],
-    "flagMeaning": "Cờ Honduras có hai dải xanh dương hai bên và một dải trắng ở giữa, với năm ngôi sao xanh xếp ở phần trắng."
+    "flagDescription": "Cờ có ba sọc ngang: xanh dương ở trên, trắng ở giữa và xanh dương ở dưới. Ở giữa sọc trắng có năm ngôi sao xanh dương xếp thành hình chữ X.",
+    "flagMeaning": "Hai sọc xanh tượng trưng cho hai vùng biển ở hai bên đất nước, sọc trắng cho hòa bình. Năm ngôi sao đại diện cho năm nước Trung Mỹ từng cùng nhau lập thành một liên bang."
   },
   "NI": {
     "tourism": [
@@ -2642,7 +2765,8 @@
       "Bạn có thể trượt ván xuống sườn núi lửa Cerro Negro đang phun khói.",
       "Hồ Nicaragua là một trong số ít hồ nước ngọt trên thế giới có cá mập sinh sống!"
     ],
-    "flagMeaning": "Cờ Nicaragua có hai dải xanh dương hai bên và một dải trắng ở giữa, kèm hình huy hiệu có cầu vồng đẹp mắt."
+    "flagDescription": "Cờ có ba sọc ngang: xanh dương ở trên, trắng ở giữa và xanh dương ở dưới. Chính giữa sọc trắng có huy hiệu hình tam giác với dãy núi lửa và cầu vồng.",
+    "flagMeaning": "Hai sọc xanh tượng trưng cho hai vùng biển ở hai bên đất nước, sọc trắng cho hòa bình. Huy hiệu có năm ngọn núi lửa tượng trưng cho năm nước Trung Mỹ đoàn kết, còn cầu vồng là biểu tượng của hòa bình."
   },
   "SV": {
     "tourism": [
@@ -2664,7 +2788,8 @@
       "Đây là nước nhỏ nhất ở lục địa Trung Mỹ.",
       "Tàn tích Joya de Cerén được gọi là 'Pompeii của châu Mỹ' vì bị tro núi lửa giữ nguyên vẹn!"
     ],
-    "flagMeaning": "Cờ El Salvador có hai dải xanh dương hai bên và một dải trắng ở giữa, kèm hình huy hiệu của đất nước."
+    "flagDescription": "Cờ có ba sọc ngang: xanh dương ở trên, trắng ở giữa và xanh dương ở dưới. Chính giữa sọc trắng có huy hiệu nước hình tam giác.",
+    "flagMeaning": "Hai sọc xanh tượng trưng cho biển và bầu trời, sọc trắng cho hòa bình. Huy hiệu có năm ngọn núi lửa nhắc đến năm nước Trung Mỹ từng đoàn kết với nhau."
   },
   "TT": {
     "tourism": [
@@ -2686,7 +2811,8 @@
       "Đầm lầy Caroni là nơi sinh sống của loài chim ibis đỏ rực tuyệt đẹp.",
       "Đảo này có cả một cái hồ làm bằng nhựa đường tự nhiên lớn nhất thế giới!"
     ],
-    "flagMeaning": "Cờ Trinidad và Tobago màu đỏ với một dải chéo đen viền trắng đi từ góc này sang góc kia."
+    "flagDescription": "Cờ nền đỏ, có một dải chéo đen viền trắng chạy từ góc trên bên trái xuống góc dưới bên phải.",
+    "flagMeaning": "Màu đỏ tượng trưng cho mặt trời, sức sống và sự ấm áp của người dân; màu trắng cho biển cả và sự bình đẳng, trong sáng; còn màu đen cho đất đai và sức mạnh đoàn kết của đất nước."
   },
   "BS": {
     "tourism": [
@@ -2708,7 +2834,8 @@
       "Có một bãi biển ở đây cát màu hồng do vỏ sinh vật biển nhỏ xíu tạo nên.",
       "Ở đảo Exuma có những chú heo con biết bơi ra biển để chào khách du lịch!"
     ],
-    "flagMeaning": "Cờ Bahamas có hai dải xanh nước biển và một dải vàng ở giữa, cùng một tam giác đen bên trái."
+    "flagDescription": "Cờ có ba sọc ngang: xanh ngọc ở trên, vàng ở giữa và xanh ngọc ở dưới. Bên trái có một hình tam giác màu đen, đỉnh nhọn trỏ về phía phải.",
+    "flagMeaning": "Hai sọc xanh tượng trưng cho biển bao quanh các hòn đảo, sọc vàng cho ánh nắng và bãi cát vàng. Hình tam giác đen tượng trưng cho ý chí và sức mạnh của người dân."
   },
   "BB": {
     "tourism": [
@@ -2730,7 +2857,8 @@
       "Ngôi sao ca nhạc Rihanna sinh ra ở hòn đảo này.",
       "Hang động Harrison có cả thác nước và hồ ngầm lung linh nằm sâu dưới lòng đất!"
     ],
-    "flagMeaning": "Cờ Barbados có hai dải xanh dương hai bên và một dải vàng ở giữa, kèm hình chiếc đinh ba màu đen."
+    "flagDescription": "Cờ có ba sọc dọc bằng nhau: xanh biển hai bên và vàng ở giữa. Trên sọc vàng có hình chiếc đinh ba (cây chĩa ba mũi) màu đen, nhưng chỉ vẽ phần đầu chĩa.",
+    "flagMeaning": "Hai sọc xanh tượng trưng cho biển và bầu trời, sọc vàng cho bãi cát. Chiếc đinh ba là biểu tượng cũ thời thuộc địa; phần cán bị gãy ý nói đất nước đã tách khỏi quá khứ để trở nên độc lập, ba mũi nhọn nhắc đến các nguyên tắc của nền dân chủ."
   },
   "NZ": {
     "tourism": [
@@ -2751,7 +2879,8 @@
       "New Zealand có loài chim kiwi không biết bay, lông mềm như lông thú và là biểu tượng của cả đất nước.",
       "Ở đây có số lượng cừu nhiều gấp khoảng 5 lần số người dân sống trên đảo!"
     ],
-    "flagMeaning": "Cờ New Zealand màu xanh dương, góc trên có cờ nước Anh. Bên phải là bốn ngôi sao đỏ viền trắng tạo thành chòm sao Nam Thập Tự trên bầu trời phương Nam."
+    "flagDescription": "Cờ nền xanh dương đậm. Góc trên bên trái có lá cờ nhỏ của nước Anh; bên phải có bốn ngôi sao đỏ viền trắng xếp thành chòm sao.",
+    "flagMeaning": "Lá cờ Anh ở góc nhắc đến mối liên hệ lịch sử với nước Anh. Bốn ngôi sao là chòm sao Nam Thập Tự nhìn thấy trên bầu trời, cho biết đất nước nằm ở Nam bán cầu giữa biển xanh."
   },
   "PG": {
     "tourism": [
@@ -2772,7 +2901,8 @@
       "Đây là nơi sinh sống của chim thiên đường với bộ lông sặc sỡ tuyệt đẹp, được in cả lên lá cờ quốc gia.",
       "Có những bộ tộc trong rừng sâu mà mãi gần đây thế giới bên ngoài mới biết đến!"
     ],
-    "flagMeaning": "Cờ Papua New Guinea chia chéo làm hai: nửa đỏ có hình chim thiên đường đang bay rất đẹp, nửa đen có chòm sao Nam Thập Tự màu trắng."
+    "flagDescription": "Cờ chia chéo thành hai nửa. Nửa trên bên phải màu đỏ có hình chim thiên đường màu vàng đang bay; nửa dưới bên trái màu đen có năm ngôi sao trắng.",
+    "flagMeaning": "Chim thiên đường là loài chim đặc trưng và niềm tự hào của đất nước. Năm ngôi sao là chòm sao Nam Thập Tự, cho biết đất nước nằm ở Nam bán cầu."
   },
   "FJ": {
     "tourism": [
@@ -2793,7 +2923,8 @@
       "Fiji có hơn 330 hòn đảo, nhưng chỉ khoảng một phần ba trong số đó có người sinh sống.",
       "Những rạn san hô quanh đảo nhiều màu sắc đến mức người ta gọi nơi đây là thủ đô san hô mềm của thế giới!"
     ],
-    "flagMeaning": "Cờ Fiji màu xanh da trời nhạt như biển và bầu trời, góc trên có cờ nước Anh, bên phải có một tấm khiên với nhiều hình vẽ nhỏ."
+    "flagDescription": "Cờ nền xanh da trời nhạt. Góc trên bên trái có lá cờ nhỏ của nước Anh; bên phải có huy hiệu hình chiếc khiên với hình sư tử, cây mía, dừa, chuối và chim bồ câu.",
+    "flagMeaning": "Nền xanh nhạt tượng trưng cho Thái Bình Dương bao quanh đảo. Lá cờ Anh ở góc nhắc đến lịch sử với nước Anh, còn chiếc khiên vẽ những cây trồng và con vật quen thuộc của đất nước."
   },
   "SB": {
     "tourism": [
@@ -2814,7 +2945,8 @@
       "Đầm Marovo ở đây là đầm nước mặn lớn nhất thế giới được bao quanh bởi vô số đảo san hô.",
       "Quanh đảo có một ngọn núi lửa nằm dưới biển tên Kavachi, thỉnh thoảng phun trào tạo ra cả hòn đảo mới rồi lại biến mất!"
     ],
-    "flagMeaning": "Cờ Quần đảo Solomon có một dải vàng chạy chéo. Góc trên màu xanh dương với năm ngôi sao trắng, góc dưới màu xanh lá cây."
+    "flagDescription": "Cờ chia chéo bằng một dải vàng mảnh từ góc dưới trái lên góc trên phải. Phần tam giác trên màu xanh dương có năm ngôi sao trắng, phần tam giác dưới màu xanh lá cây.",
+    "flagMeaning": "Màu xanh dương tượng trưng cho biển cả, màu xanh lá cho đất đai và cây cối, dải vàng cho ánh nắng mặt trời. Năm ngôi sao tượng trưng cho năm vùng (tỉnh) ban đầu của đất nước."
   },
   "VU": {
     "tourism": [
@@ -2835,7 +2967,8 @@
       "Núi lửa Yasur ở đây luôn rực sáng và được gọi là một trong những ngọn núi lửa dễ ngắm nhất thế giới.",
       "Đất nước này có nước biển trong xanh đến nỗi có thể nhìn thấy tận đáy ở nhiều bãi tắm!"
     ],
-    "flagMeaning": "Cờ Vanuatu có màu đỏ, đen và xanh lá cây, cùng một dải vàng hình chữ Y nằm ngang. Bên trái có hình chiếc ngà heo cong và hai chiếc lá màu vàng."
+    "flagDescription": "Cờ chia làm hai sọc ngang đỏ (trên) và xanh lá (dưới). Bên trái có hình tam giác đen, và một dải màu vàng hình chữ Y nằm chia cờ. Trong tam giác đen có hình chiếc ngà heo cong cùng hai chiếc lá bắt chéo.",
+    "flagMeaning": "Màu đỏ tượng trưng cho dòng máu gắn kết mọi người, xanh lá là cây cối tươi tốt, tam giác đen tượng trưng cho người dân Melanesia của đảo. Chiếc ngà heo cong là vật quý gắn với truyền thống và sự sung túc, còn hai chiếc lá namele tượng trưng cho hòa bình."
   },
   "WS": {
     "tourism": [
@@ -2856,7 +2989,8 @@
       "Samoa từng đổi múi giờ, nhảy thẳng qua một ngày nên ở đây không hề có ngày 30 tháng 12 năm 2011!",
       "Hố bơi Sua là một hồ nước xanh biếc nằm sâu dưới lòng đất, phải leo thang xuống mới bơi được."
     ],
-    "flagMeaning": "Cờ Samoa màu đỏ, góc trên có một ô màu xanh dương với năm ngôi sao trắng tạo thành chòm sao Nam Thập Tự."
+    "flagDescription": "Cờ nền đỏ, ở góc trên bên trái có một ô hình chữ nhật màu xanh dương, trong ô đó là năm ngôi sao trắng tạo thành chòm sao Nam Thập Tự (bốn sao lớn và một sao nhỏ).",
+    "flagMeaning": "Chòm sao Nam Thập Tự là chòm sao nhìn thấy trên bầu trời nam bán cầu, gắn với vị trí của Samoa. Màu đỏ tượng trưng cho lòng dũng cảm, màu trắng cho sự trong sạch, còn màu xanh dương cho tự do."
   },
   "TO": {
     "tourism": [
@@ -2877,7 +3011,8 @@
       "Mỗi mùa đông, hàng đàn cá voi lưng gù bơi về vùng biển Tonga để sinh con.",
       "Tonga là một trong những nơi đầu tiên trên Trái Đất đón bình minh mỗi ngày!"
     ],
-    "flagMeaning": "Cờ Tonga màu đỏ, góc trên bên trái có một ô trắng với hình chữ thập đỏ ở giữa."
+    "flagDescription": "Cờ nền đỏ, góc trên bên trái có một ô vuông trắng, bên trong ô vuông trắng đó là một chữ thập (dấu cộng) màu đỏ.",
+    "flagMeaning": "Chữ thập màu đỏ tượng trưng cho đạo Cơ Đốc, tôn giáo quan trọng của người Tonga. Màu đỏ còn nhắc đến máu mà Chúa Giê-su đã đổ ra, và màu trắng tượng trưng cho sự trong sạch."
   },
   "KI": {
     "tourism": [
@@ -2898,7 +3033,8 @@
       "Kiribati trải dài qua cả bốn nửa bán cầu của Trái Đất, là quốc gia duy nhất làm được điều này.",
       "Hầu hết đất nước chỉ là những dải đảo san hô thấp, có nơi chỉ cao hơn mặt biển vài mét thôi!"
     ],
-    "flagMeaning": "Cờ Kiribati nửa trên màu đỏ có một chú chim biển vàng đang bay trên mặt trời mọc, nửa dưới là những làn sóng biển trắng và xanh."
+    "flagDescription": "Nửa trên của cờ màu đỏ, có hình một con chim biển vàng đang bay phía trên mặt trời vàng đang mọc với nhiều tia nắng. Nửa dưới màu xanh dương với ba sọc lượn sóng màu trắng.",
+    "flagMeaning": "Mặt trời mọc và phần biển xanh có sóng tượng trưng cho đại dương Thái Bình Dương bao quanh đất nước. Ba sóng trắng tượng trưng cho ba nhóm đảo của Kiribati, còn chú chim biển vàng (chim cốc biển) tượng trưng cho sức mạnh làm chủ biển cả và tự do."
   },
   "PW": {
     "tourism": [
@@ -2919,7 +3055,8 @@
       "Palau có một hồ nước chứa hàng triệu con sứa không hề chích, du khách có thể bơi lội cùng chúng.",
       "Đây là một trong những nơi đầu tiên trên thế giới lập khu bảo tồn cá mập để bảo vệ chúng!"
     ],
-    "flagMeaning": "Cờ Palau màu xanh da trời với một vòng tròn vàng lớn hơi lệch về bên trái, trông giống mặt trăng tròn sáng trên biển."
+    "flagDescription": "Cờ nền xanh dương, ở giữa (hơi lệch về bên trái) là một hình tròn lớn màu vàng.",
+    "flagMeaning": "Nền xanh dương tượng trưng cho đại dương Thái Bình Dương. Hình tròn vàng là mặt trăng tròn, được người Palau coi là thời điểm đẹp nhất để đánh cá, gieo trồng và làm lễ hội, nên mặt trăng tượng trưng cho hòa bình, tình yêu thương và sự yên bình."
   },
   "NR": {
     "tourism": [
@@ -2940,7 +3077,8 @@
       "Nauru là quốc gia nhỏ thứ ba thế giới, đi bộ vòng quanh cả đảo chỉ mất vài giờ đồng hồ.",
       "Đây là nước cộng hòa nhỏ nhất hành tinh và không hề có thủ đô chính thức!"
     ],
-    "flagMeaning": "Cờ Nauru màu xanh dương với một dải vàng nằm ngang ở giữa và một ngôi sao trắng lớn ở phía dưới bên trái."
+    "flagDescription": "Cờ nền xanh dương, có một sọc vàng mảnh nằm ngang chính giữa. Phía dưới sọc, gần cạnh trái, là một ngôi sao trắng mười hai cánh.",
+    "flagMeaning": "Nền xanh dương là đại dương Thái Bình Dương, còn sọc vàng tượng trưng cho đường xích đạo. Ngôi sao trắng nằm bên dưới cho thấy đảo nằm phía nam xích đạo, và mười hai cánh sao tượng trưng cho mười hai bộ tộc gốc của Nauru."
   },
   "HK": {
     "tourism": [
@@ -2961,7 +3099,8 @@
       "Hồng Kông có nhiều tòa nhà chọc trời hơn bất kỳ thành phố nào trên thế giới.",
       "Tàu điện leo núi Peak Tram đưa du khách lên đỉnh núi cao nhất thành phố."
     ],
-    "flagMeaning": "Cờ Hồng Kông có nền màu đỏ với một bông hoa trắng năm cánh xinh đẹp ở chính giữa."
+    "flagDescription": "Cờ nền đỏ, ở giữa là một bông hoa trắng năm cánh (hoa dương tử kinh). Mỗi cánh hoa có một ngôi sao đỏ nhỏ.",
+    "flagMeaning": "Bông hoa dương tử kinh trắng là loài hoa biểu trưng của Hồng Kông. Năm ngôi sao đỏ trên các cánh hoa lấy ý từ năm ngôi sao trên quốc kỳ Trung Quốc, thể hiện Hồng Kông gắn bó với đất mẹ; màu đỏ và trắng thể hiện nguyên tắc 'một quốc gia, hai chế độ'."
   },
   "BH": {
     "tourism": [
@@ -2981,7 +3120,8 @@
       "Bahrain là một hòn đảo, được nối với Ả Rập Xê Út bằng một cây cầu rất dài trên biển.",
       "Cây Sự Sống là một cái cây cổ thụ sống giữa sa mạc khô cằn suốt hơn 400 năm."
     ],
-    "flagMeaning": "Cờ Bahrain có dải trắng bên trái và phần đỏ lớn bên phải, ngăn cách bằng một đường răng cưa hình năm ngọn."
+    "flagDescription": "Cờ có phần bên trái màu trắng và phần bên phải màu đỏ. Ranh giới giữa hai màu là một đường zíc-zắc tạo thành năm hình tam giác trắng nhọn (giống răng cưa).",
+    "flagMeaning": "Màu đỏ là màu truyền thống của vùng đất này, cũng nhắc đến máu của những người đã ngã xuống trong các trận chiến; màu trắng tượng trưng cho hòa bình. Năm hình tam giác trắng tượng trưng cho năm cột trụ cơ bản của đạo Hồi."
   },
   "OM": {
     "tourism": [
@@ -3001,7 +3141,8 @@
       "Oman có những con đường mòn dẫn lên các ngọn núi cao nhất bán đảo Ả Rập.",
       "Vùng biển Oman là nơi rùa biển khổng lồ lên bờ đẻ trứng mỗi năm."
     ],
-    "flagMeaning": "Cờ Oman có một dải đỏ dọc bên trái với biểu tượng trắng, cùng ba sọc ngang màu trắng, đỏ và xanh lá."
+    "flagDescription": "Cờ chia làm ba sọc ngang trắng, đỏ, xanh lá. Dọc theo cạnh trái là một dải đỏ đứng, trên đó có quốc huy màu trắng gồm hai thanh kiếm cong bắt chéo và một con dao găm cong (khanjar).",
+    "flagMeaning": "Biểu tượng dao găm cong khanjar và đôi kiếm là vật truyền thống của người Oman. Màu trắng tượng trưng cho hòa bình, màu đỏ cho các trận chiến trong lịch sử, còn màu xanh lá gắn với đất đai và sự trù phú."
   },
   "YE": {
     "tourism": [
@@ -3021,7 +3162,8 @@
       "Đảo Socotra của Yemen có cây máu rồng kỳ lạ trông giống chiếc ô khổng lồ.",
       "Thành phố Shibam được gọi là 'Manhattan của sa mạc' vì những tòa nhà đất cao tầng."
     ],
-    "flagMeaning": "Cờ Yemen có ba sọc ngang đơn giản với màu đỏ ở trên, trắng ở giữa và đen ở dưới."
+    "flagDescription": "Cờ có ba sọc ngang bằng nhau, từ trên xuống là đỏ, trắng, đen, không có biểu tượng nào ở giữa.",
+    "flagMeaning": "Đỏ, trắng và đen là những màu truyền thống của các nước Ả Rập (màu Liên Ả Rập). Đây là bộ màu mà nhiều nước trong khu vực cùng sử dụng để thể hiện sự gắn bó với nhau."
   },
   "SY": {
     "tourism": [
@@ -3041,7 +3183,8 @@
       "Damascus là một trong những thành phố có người sinh sống lâu đời nhất trên Trái Đất.",
       "Syria trồng rất nhiều ô liu để làm dầu ô liu thơm ngon."
     ],
-    "flagMeaning": "Cờ Syria có ba sọc ngang màu đỏ, trắng và đen, với hai ngôi sao xanh lá trên sọc trắng."
+    "flagDescription": "Cờ có ba sọc ngang xanh lá (trên), trắng (giữa) và đen (dưới); trên sọc trắng ở giữa có ba ngôi sao đỏ năm cánh xếp thành hàng ngang.",
+    "flagMeaning": "Xanh lá, trắng, đen và đỏ là những màu truyền thống của các nước Ả Rập. Ba ngôi sao đỏ nằm trên dải trắng là biểu tượng được dùng trên lá cờ này."
   },
   "PS": {
     "tourism": [
@@ -3061,7 +3204,8 @@
       "Jericho được xem là một trong những thành phố cổ xưa nhất thế giới.",
       "Người Palestine làm món đậu hummus thơm ngon từ đậu gà nghiền."
     ],
-    "flagMeaning": "Cờ Palestine có ba sọc ngang màu đen, trắng và xanh lá, cùng một tam giác đỏ bên trái."
+    "flagDescription": "Cờ có ba sọc ngang đen (trên), trắng (giữa), xanh lá (dưới), và một hình tam giác đỏ nằm ở cạnh trái chỉ về phía giữa cờ.",
+    "flagMeaning": "Đen, trắng, xanh lá và đỏ là bốn màu truyền thống của các nước Ả Rập (màu Liên Ả Rập). Đây là bộ màu mà nhiều dân tộc Ả Rập cùng dùng để thể hiện sự gắn kết."
   },
   "TM": {
     "tourism": [
@@ -3081,7 +3225,8 @@
       "Turkmenistan có một hố lửa giữa sa mạc cháy suốt nhiều chục năm gọi là 'Cổng Địa Ngục'.",
       "Ngựa Akhal-Teke của nước này có bộ lông sáng bóng lấp lánh như kim loại."
     ],
-    "flagMeaning": "Cờ Turkmenistan có nền xanh lá với một mặt trăng lưỡi liềm trắng, năm ngôi sao trắng và một dải hoa văn thảm dọc bên trái."
+    "flagDescription": "Cờ nền xanh lá cây, có vầng trăng lưỡi liềm trắng và năm ngôi sao trắng nhỏ. Dọc sát cạnh cột cờ là một dải hoa văn thảm dệt truyền thống màu đỏ.",
+    "flagMeaning": "Trăng lưỡi liềm gắn với đạo Hồi, tôn giáo chính của đất nước. Năm ngôi sao tượng trưng cho năm tỉnh (vùng) của Turkmenistan và cũng nhắc đến năm trụ cột của đạo Hồi. Dải hoa văn có năm họa tiết thảm tượng trưng cho năm bộ tộc lớn của người Turkmen và nghề dệt thảm nổi tiếng."
   },
   "KG": {
     "tourism": [
@@ -3101,7 +3246,8 @@
       "Hồ Issyk-Kul là một trong những hồ trên núi lớn nhất thế giới và không bao giờ đóng băng.",
       "Hơn 90 phần trăm đất nước Kyrgyzstan được bao phủ bởi núi non."
     ],
-    "flagMeaning": "Cờ Kyrgyzstan có nền đỏ với một mặt trời vàng ở giữa, bên trong mặt trời có hình trang trí đặc biệt."
+    "flagDescription": "Cờ nền đỏ, ở giữa có một mặt trời vàng tỏa 40 tia nắng. Bên trong mặt trời là hình mái tròn của lều du mục (yurt) nhìn từ trên xuống.",
+    "flagMeaning": "Mặt trời với 40 tia nắng tượng trưng cho 40 bộ tộc đã hợp lại thành dân tộc Kyrgyz. Hình mái lều du mục nhắc đến nếp sống truyền thống và mái nhà của người dân. Màu đỏ thể hiện lòng dũng cảm."
   },
   "TJ": {
     "tourism": [
@@ -3121,7 +3267,8 @@
       "Tajikistan có đỉnh núi Ismoil Somoni cao gần 7.500 mét, một trong những đỉnh cao nhất Trung Á.",
       "Hơn một nửa đất nước nằm ở độ cao trên 3.000 mét so với mực nước biển."
     ],
-    "flagMeaning": "Cờ Tajikistan có ba sọc ngang màu đỏ, trắng và xanh lá, với một chiếc vương miện vàng và bảy ngôi sao vàng ở giữa."
+    "flagDescription": "Cờ có ba sọc ngang: đỏ ở trên, trắng ở giữa (rộng hơn) và xanh lá ở dưới. Giữa sọc trắng có một vương miện vàng và bảy ngôi sao vàng xếp thành vòng cung.",
+    "flagMeaning": "Màu đỏ tượng trưng cho lòng dũng cảm, màu trắng cho sự trong sạch và bông vải, màu xanh lá cho thiên nhiên và đất đai. Vương miện gắn với cái tên Tajik (trong tiếng Ba Tư có nghĩa là vương miện) và triều đại Samanid xưa. Bảy ngôi sao thể hiện các vùng của đất nước; số bảy được người Tajik xem là con số tốt đẹp."
   },
   "AZ": {
     "tourism": [
@@ -3141,7 +3288,8 @@
       "Azerbaijan có nhiều núi lửa bùn nhất thế giới, phun ra bùn thay vì dung nham.",
       "Thủ đô Baku có ba tòa tháp hình ngọn lửa khổng lồ phát sáng vào ban đêm."
     ],
-    "flagMeaning": "Cờ Azerbaijan có ba sọc ngang màu xanh dương, đỏ và xanh lá, với một mặt trăng lưỡi liềm trắng và một ngôi sao trắng tám cánh."
+    "flagDescription": "Cờ có ba sọc ngang bằng nhau: xanh lam ở trên, đỏ ở giữa và xanh lá ở dưới. Giữa sọc đỏ có trăng lưỡi liềm trắng và một ngôi sao tám cánh màu trắng.",
+    "flagMeaning": "Màu xanh lam đại diện cho nguồn gốc dân tộc Turk, màu đỏ cho sự tiến bộ, màu xanh lá cho đạo Hồi. Trăng lưỡi liềm và ngôi sao cũng gắn với đạo Hồi; tám cánh sao thường được hiểu là tám dân tộc thuộc nhóm Turk."
   },
   "AM": {
     "tourism": [
@@ -3161,7 +3309,8 @@
       "Armenia có bảng chữ cái riêng được tạo ra từ hơn 1.600 năm trước.",
       "Hồ Sevan là một trong những hồ nước ngọt trên núi lớn nhất thế giới."
     ],
-    "flagMeaning": "Cờ Armenia có ba sọc ngang màu đỏ, xanh dương và cam."
+    "flagDescription": "Cờ có ba sọc ngang bằng nhau: đỏ ở trên, xanh lam ở giữa và cam ở dưới.",
+    "flagMeaning": "Màu đỏ tượng trưng cho vùng cao nguyên Armenia và sự bền bỉ của người dân để gìn giữ đất nước và đức tin, màu xanh lam cho bầu trời hòa bình, và màu cam (màu quả mơ) cho tài năng và sức lao động cần cù của người dân."
   },
   "GE": {
     "tourism": [
@@ -3181,7 +3330,8 @@
       "Gruzia được xem là nơi con người làm rượu vang từ nho sớm nhất trên Trái Đất.",
       "Đất nước này nằm dưới chân dãy núi Kavkaz hùng vĩ."
     ],
-    "flagMeaning": "Cờ Gruzia có nền trắng với một chữ thập đỏ lớn ở giữa và bốn chữ thập đỏ nhỏ ở bốn ô."
+    "flagDescription": "Cờ nền trắng có một cây thánh giá đỏ lớn chia mặt cờ thành bốn ô, mỗi ô lại có một cây thánh giá đỏ nhỏ hơn. Tổng cộng có năm cây thánh giá đỏ.",
+    "flagMeaning": "Đây là lá cờ năm cây thánh giá cổ xưa, gắn với Thiên Chúa giáo của Georgia. Cây thánh giá lớn ở giữa cùng bốn cây nhỏ thường được hiểu là tượng trưng cho Chúa Jesus và bốn vị thánh viết Phúc Âm."
   },
   "MD": {
     "tourism": [
@@ -3201,7 +3351,8 @@
       "Moldova có hầm rượu Cricova với những đường hầm dài như cả một thành phố ngầm.",
       "Đất nước này có rất nhiều vườn nho và nổi tiếng về làm rượu vang."
     ],
-    "flagMeaning": "Lá cờ Moldova có ba sọc dọc xanh dương, vàng và đỏ, ở giữa sọc vàng có một huy hiệu nhỏ với hình đại bàng."
+    "flagDescription": "Cờ có ba sọc dọc bằng nhau: xanh lam, vàng và đỏ. Giữa sọc vàng có một con đại bàng cầm khiên, trên khiên là hình con bò rừng với ngôi sao, bông hồng và vầng trăng.",
+    "flagMeaning": "Ba màu xanh-vàng-đỏ là màu truyền thống gần gũi với cờ Romania. Con đại bàng và con bò rừng (aurochs) trên huy hiệu là biểu tượng lịch sử lâu đời của vùng đất Moldova."
   },
   "LI": {
     "tourism": [
@@ -3221,7 +3372,8 @@
       "Liechtenstein nhỏ đến mức bạn có thể đi bộ băng qua cả nước chỉ trong một ngày.",
       "Đây là một trong số ít quốc gia trên thế giới không có sân bay riêng."
     ],
-    "flagMeaning": "Lá cờ Liechtenstein có sọc xanh dương ở trên và sọc đỏ ở dưới, kèm một chiếc vương miện vàng nhỏ ở góc trên."
+    "flagDescription": "Cờ có hai sọc ngang bằng nhau: xanh lam ở trên và đỏ ở dưới. Phía góc trên gần cột cờ có một chiếc vương miện vàng.",
+    "flagMeaning": "Màu xanh lam tượng trưng cho bầu trời, màu đỏ cho ngọn lửa ấm áp trong những ngôi nhà vào buổi tối. Chiếc vương miện thể hiện sự gắn bó giữa người dân và hoàng tộc, đồng thời cho biết đây là một công quốc và giúp phân biệt với cờ nước khác."
   },
   "MT": {
     "tourism": [
@@ -3241,7 +3393,8 @@
       "Malta có những ngôi đền bằng đá cổ hơn cả kim tự tháp Ai Cập.",
       "Biển quanh Malta trong xanh đến mức là nơi tuyệt vời để lặn ngắm cá."
     ],
-    "flagMeaning": "Lá cờ Malta có nửa trắng và nửa đỏ, ở góc trên bên trái có hình một huân chương thập tự viền đỏ."
+    "flagDescription": "Cờ chia làm hai nửa dọc: nửa trắng bên trái, nửa đỏ bên phải. Góc trên bên trái có một cây thập tự màu xám viền đỏ (Thập tự George).",
+    "flagMeaning": "Màu trắng tượng trưng cho hòa bình và sự trong sạch, màu đỏ cho lòng dũng cảm và máu đã đổ để bảo vệ đất nước. Cây thập tự George là một huân chương cao quý được nước Anh trao cho cả đảo Malta vì lòng dũng cảm trong Thế chiến thứ hai."
   },
   "SM": {
     "tourism": [
@@ -3261,7 +3414,8 @@
       "San Marino là một trong những nước cộng hòa lâu đời nhất thế giới còn tồn tại.",
       "Cả đất nước nằm gọn trên ngọn núi Titano và được nước Ý bao quanh."
     ],
-    "flagMeaning": "Lá cờ San Marino có sọc trắng ở trên và sọc xanh dương nhạt ở dưới, ở giữa là một huy hiệu nhỏ với ba ngọn tháp."
+    "flagDescription": "Cờ có hai sọc ngang bằng nhau: trắng ở trên và xanh lam nhạt ở dưới. Giữa cờ có huy hiệu vẽ ba tòa tháp trên ba đỉnh núi.",
+    "flagMeaning": "Màu trắng tượng trưng cho hòa bình, màu xanh lam cho tự do. Ba tòa tháp trên ba đỉnh của núi Titano là hình ảnh ba pháo đài cổ (Guaita, Cesta, Montale), biểu tượng lâu đời bảo vệ đất nước."
   },
   "AD": {
     "tourism": [
@@ -3281,7 +3435,8 @@
       "Andorra nằm trên núi cao nên có rất nhiều khu trượt tuyết nổi tiếng.",
       "Đây là một quốc gia nhỏ kẹp giữa hai nước Pháp và Tây Ban Nha."
     ],
-    "flagMeaning": "Lá cờ Andorra có ba sọc dọc xanh dương, vàng và đỏ, ở giữa là một chiếc huy hiệu nhỏ nhiều màu."
+    "flagDescription": "Cờ có ba sọc dọc: xanh lam, vàng (rộng hơn) và đỏ. Giữa sọc vàng có một huy hiệu với hình con bò, hai con bò khác và những vạch màu.",
+    "flagMeaning": "Ba màu xanh-vàng-đỏ gợi nhắc hai nước láng giềng là Pháp và Tây Ban Nha, những nơi gắn bó với lịch sử Andorra. Huy hiệu ở giữa ghép các biểu tượng của những vùng đất từng bảo trợ cho đất nước nhỏ bé này, như giám mục Urgell và bá tước Foix."
   },
   "BA": {
     "tourism": [
@@ -3301,7 +3456,8 @@
       "Cây cầu cổ Stari Most ở thành phố Mostar đã hơn 400 năm tuổi.",
       "Đất nước này có nhiều dòng sông và thác nước xanh trong tuyệt đẹp."
     ],
-    "flagMeaning": "Lá cờ Bosnia và Herzegovina màu xanh dương, có một tam giác vàng và một hàng ngôi sao trắng chạy dọc bên cạnh."
+    "flagDescription": "Cờ nền xanh lam có một hình tam giác vàng lớn. Dọc theo một cạnh tam giác là một hàng ngôi sao trắng năm cánh, với hai ngôi sao ở hai đầu bị cắt một nửa.",
+    "flagMeaning": "Hình tam giác tượng trưng cho ba dân tộc chính cùng chung sống, và cũng gợi hình dáng đất nước trên bản đồ. Những ngôi sao và màu xanh-vàng là biểu tượng của châu Âu, thể hiện mong muốn hòa bình và gắn bó với châu Âu."
   },
   "ME": {
     "tourism": [
@@ -3321,7 +3477,8 @@
       "Tên Montenegro có nghĩa là 'Núi Đen' trong tiếng Ý.",
       "Vịnh Kotor uốn lượn giữa những ngọn núi trông giống như một vịnh hẹp tuyệt đẹp."
     ],
-    "flagMeaning": "Lá cờ Montenegro màu đỏ viền vàng, ở giữa có hình một con đại bàng hai đầu vàng trông rất nổi bật."
+    "flagDescription": "Lá cờ nền đỏ, viền vàng. Chính giữa là một con đại bàng hai đầu màu vàng, trên ngực đại bàng có hình một con sư tử vàng.",
+    "flagMeaning": "Đại bàng hai đầu và sư tử là những biểu tượng lâu đời, thường gắn với hoàng gia và sức mạnh trong lịch sử vùng này. Màu vàng và đỏ là màu truyền thống của đất nước Montenegro."
   },
   "MK": {
     "tourism": [
@@ -3341,7 +3498,8 @@
       "Hồ Ohrid là một trong những hồ cổ xưa và sâu nhất châu Âu.",
       "Hồ này có nhiều loài cá và sinh vật chỉ sống riêng ở nơi đây."
     ],
-    "flagMeaning": "Lá cờ Bắc Macedonia màu đỏ với một mặt trời vàng ở giữa, các tia nắng tỏa rộng ra khắp lá cờ."
+    "flagDescription": "Lá cờ nền đỏ với một mặt trời vàng ở giữa, từ mặt trời tỏa ra tám tia sáng vàng to vươn ra các góc lá cờ.",
+    "flagMeaning": "Mặt trời với những tia sáng tượng trưng cho ánh mặt trời tự do mới và hy vọng của đất nước. Người ta còn gọi đây là 'mặt trời tự do mới'."
   },
   "XK": {
     "tourism": [
@@ -3361,7 +3519,8 @@
       "Kosovo là một trong những quốc gia trẻ nhất ở châu Âu.",
       "Dãy núi Sharr là nơi có những đồng cỏ xanh và các khu trượt tuyết."
     ],
-    "flagMeaning": "Lá cờ Kosovo màu xanh dương, ở giữa có hình bản đồ đất nước màu vàng và sáu ngôi sao trắng phía trên."
+    "flagDescription": "Lá cờ nền xanh dương, ở giữa có hình bản đồ vàng của đất nước, phía trên là sáu ngôi sao trắng xếp thành một vòng cung.",
+    "flagMeaning": "Hình bản đồ vàng thể hiện chính lãnh thổ của đất nước. Sáu ngôi sao trắng tượng trưng cho sáu nhóm dân tộc cùng chung sống ở đây."
   },
   "CY": {
     "tourism": [
@@ -3381,7 +3540,8 @@
       "Síp là một hòn đảo nắng ấm quanh năm với rất nhiều bãi biển đẹp.",
       "Phô mai halloumi nổi tiếng của Síp có thể nướng mà không bị chảy."
     ],
-    "flagMeaning": "Lá cờ Cộng hòa Síp màu trắng, ở giữa có hình hòn đảo màu đồng (vàng cam) và hai nhánh ô liu xanh tượng trưng cho hòa bình."
+    "flagDescription": "Lá cờ nền trắng, ở giữa có hình bản đồ màu đồng (vàng cam) của hòn đảo, bên dưới là hai nhánh ô liu xanh lá bắt chéo nhau.",
+    "flagMeaning": "Màu đồng của bản đồ nhắc đến quặng đồng nổi tiếng của đảo (tên 'Cyprus' liên quan đến đồng). Hai nhánh ô liu tượng trưng cho hòa bình giữa các cộng đồng người dân trên đảo."
   },
   "CV": {
     "tourism": [
@@ -3401,7 +3561,8 @@
       "Cabo Verde gồm mười hòn đảo nằm rải rác giữa Đại Tây Dương.",
       "Đảo Fogo có một ngọn núi lửa cao mà người dân vẫn trồng nho ở gần đó."
     ],
-    "flagMeaning": "Cờ Cabo Verde màu xanh dương, có dải trắng đỏ nằm ngang và một vòng tròn gồm mười ngôi sao vàng."
+    "flagDescription": "Lá cờ nền xanh dương với một dải ngang gồm sọc trắng - đỏ - trắng ở phần dưới. Một vòng tròn gồm mười ngôi sao vàng nằm lệch về phía bên trái, quanh dải đỏ.",
+    "flagMeaning": "Mười ngôi sao vàng tượng trưng cho mười hòn đảo chính tạo nên đất nước. Màu xanh dương là biển và bầu trời bao quanh các đảo, trắng là hòa bình, còn đỏ thể hiện nỗ lực của người dân."
   },
   "BZ": {
     "tourism": [
@@ -3421,7 +3582,8 @@
       "Belize có 'Hố Xanh Khổng Lồ', một hố tròn sâu thẳm dưới biển nhìn từ trên cao rất đẹp.",
       "Rạn san hô của Belize là một trong những rạn san hô lớn nhất thế giới."
     ],
-    "flagMeaning": "Cờ Belize màu xanh dương với hai dải đỏ trên dưới, ở giữa là hình huy hiệu tròn có hai người và cây cối."
+    "flagDescription": "Lá cờ nền xanh dương với một sọc đỏ ở trên và một sọc đỏ ở dưới. Chính giữa là một vòng tròn trắng, bên trong có hình hai người thợ và một cái cây.",
+    "flagMeaning": "Cái cây ở giữa là cây gụ (mahogany), loại gỗ quý gắn với lịch sử đất nước. Hai người thợ và các dụng cụ tượng trưng cho nghề khai thác gỗ. Vòng lá xanh quanh huy hiệu thể hiện rừng cây trù phú."
   },
   "GY": {
     "tourism": [
@@ -3441,7 +3603,8 @@
       "Thác Kaieteur của Guyana cao gấp nhiều lần thác Niagara nổi tiếng.",
       "Phần lớn đất nước được bao phủ bởi rừng mưa nhiệt đới rậm rạp."
     ],
-    "flagMeaning": "Cờ Guyana có hình mũi tên màu vàng và đỏ trên nền xanh lá, nên còn được gọi vui là 'Mũi tên vàng'."
+    "flagDescription": "Lá cờ có một hình tam giác vàng lớn trỏ từ trái sang phải, viền trắng. Bên trong là một tam giác đỏ nhỏ hơn viền đen, nền còn lại màu xanh lá.",
+    "flagMeaning": "Lá cờ này được gọi là 'Mũi Tên Vàng'. Màu xanh lá là rừng và nông nghiệp, vàng là khoáng sản và sự giàu có, đỏ là lòng nhiệt huyết dựng xây đất nước; trắng là sông nước, đen là sức bền của người dân."
   },
   "SR": {
     "tourism": [
@@ -3461,7 +3624,8 @@
       "Suriname là quốc gia có diện tích nhỏ nhất ở Nam Mỹ.",
       "Hơn 90 phần trăm đất nước được phủ kín bởi rừng mưa nhiệt đới xanh tươi."
     ],
-    "flagMeaning": "Cờ Suriname có các dải xanh lá, trắng, đỏ, trắng, xanh lá, với một ngôi sao vàng lớn ở chính giữa."
+    "flagDescription": "Lá cờ gồm các sọc ngang: xanh lá, trắng, đỏ (sọc giữa to nhất), rồi trắng và xanh lá. Chính giữa sọc đỏ có một ngôi sao vàng năm cánh.",
+    "flagMeaning": "Ngôi sao vàng tượng trưng cho sự đoàn kết của các dân tộc trong nước và một tương lai tươi sáng. Màu xanh lá là sự trù phú của đất đai, trắng là hòa bình và công lý, đỏ là sự tiến lên phía trước."
   },
   "SS": {
     "tourism": [
@@ -3481,7 +3645,8 @@
       "Nam Sudan là một trong những quốc gia trẻ nhất thế giới.",
       "Hàng triệu con linh dương di cư qua đồng bằng nơi đây mỗi năm."
     ],
-    "flagMeaning": "Cờ Nam Sudan có nhiều dải màu đen, đỏ, xanh lá cùng tam giác xanh dương, trong tam giác có ngôi sao vàng tươi sáng."
+    "flagDescription": "Lá cờ có ba sọc ngang đen, đỏ, xanh lá (ngăn cách bởi vạch trắng mỏng). Bên trái là một tam giác xanh dương, trong tam giác có một ngôi sao vàng.",
+    "flagMeaning": "Màu đen là người dân, đỏ là máu hy sinh giành tự do, xanh lá là đất đai trù phú, xanh dương là dòng sông Nin. Ngôi sao vàng tượng trưng cho sự đoàn kết của đất nước."
   },
   "ER": {
     "tourism": [
@@ -3501,7 +3666,8 @@
       "Eritrea nằm bên bờ Biển Đỏ xanh biếc đầy san hô.",
       "Thủ đô Asmara có nhiều tòa nhà cổ rất đẹp được bảo tồn."
     ],
-    "flagMeaning": "Cờ Eritrea có một tam giác đỏ lớn ở giữa, cùng các vùng màu xanh lá và xanh dương, kèm hình cành ô liu vàng."
+    "flagDescription": "Lá cờ có một tam giác đỏ lớn trỏ từ trái sang phải, chia nền thành tam giác xanh lá ở trên và xanh dương ở dưới. Trong tam giác đỏ có hình một nhành ô liu vàng cùng một vòng nhánh ô liu vàng.",
+    "flagMeaning": "Màu đỏ tượng trưng cho máu của những người đã hy sinh vì đất nước, xanh lá là sự trù phú của ruộng đồng, xanh dương là biển. Nhành ô liu vàng thể hiện ước mong hòa bình."
   },
   "DJ": {
     "tourism": [
@@ -3521,7 +3687,8 @@
       "Hồ Assal là điểm thấp nhất châu Phi và mặn hơn cả biển.",
       "Djibouti có những cột muối trắng kỳ lạ mọc lên từ mặt hồ."
     ],
-    "flagMeaning": "Cờ Djibouti có hai dải xanh dương và xanh lá, một tam giác trắng ở cán cờ với ngôi sao đỏ bên trong."
+    "flagDescription": "Lá cờ có hai sọc ngang: xanh dương nhạt ở trên, xanh lá ở dưới. Bên trái là một tam giác trắng, trong tam giác có một ngôi sao đỏ năm cánh.",
+    "flagMeaning": "Màu xanh dương tượng trưng cho biển và bầu trời, xanh lá là đất đai trù phú. Tam giác trắng thể hiện hòa bình, còn ngôi sao đỏ là sự thống nhất của đất nước."
   },
   "BI": {
     "tourism": [
@@ -3541,7 +3708,8 @@
       "Hồ Tanganyika là một trong những hồ sâu nhất thế giới.",
       "Burundi nằm giữa những ngọn đồi xanh nên được gọi là vùng đất ngàn đồi."
     ],
-    "flagMeaning": "Cờ Burundi có hình chữ X trắng chia nền thành các vùng đỏ và xanh lá, ở giữa có ba ngôi sao đỏ."
+    "flagDescription": "Lá cờ bị chia bởi một dấu chéo trắng hình chữ X thành bốn phần: trên và dưới màu đỏ, hai bên màu xanh lá. Ở giữa có vòng tròn trắng chứa ba ngôi sao đỏ viền xanh lá xếp thành hình tam giác.",
+    "flagMeaning": "Màu đỏ tượng trưng cho máu hy sinh vì độc lập, xanh lá là hy vọng, trắng là hòa bình. Ba ngôi sao thể hiện ba nhóm dân tộc của đất nước và khẩu hiệu 'Đoàn kết - Lao động - Tiến bộ'."
   },
   "BF": {
     "tourism": [
@@ -3561,7 +3729,8 @@
       "Hồ Tengrela có những chú hà mã sống cùng người dân hiền hòa.",
       "Burkina Faso nổi tiếng với những bức tượng đồng và mặt nạ gỗ tinh xảo."
     ],
-    "flagMeaning": "Cờ Burkina Faso có hai dải đỏ và xanh lá, ở giữa là một ngôi sao vàng năm cánh."
+    "flagDescription": "Cờ có hai sọc ngang bằng nhau: sọc trên màu đỏ, sọc dưới màu xanh lá. Ở chính giữa có một ngôi sao năm cánh màu vàng.",
+    "flagMeaning": "Đây là ba màu của châu Phi: đỏ tượng trưng cho cuộc đấu tranh giành độc lập, xanh lá là sự trù phú của ruộng đồng, còn ngôi sao vàng là ánh sáng dẫn đường và niềm hy vọng của đất nước."
   },
   "NE": {
     "tourism": [
@@ -3581,7 +3750,8 @@
       "Niger có những con hươu cao cổ cuối cùng ở Tây Phi.",
       "Phần lớn đất nước là sa mạc Sahara mênh mông cát vàng."
     ],
-    "flagMeaning": "Cờ Niger có ba dải cam, trắng, xanh lá nằm ngang, ở giữa dải trắng có một vòng tròn cam như mặt trời."
+    "flagDescription": "Cờ có ba sọc ngang: cam ở trên, trắng ở giữa và xanh lá ở dưới. Giữa sọc trắng có một hình tròn màu cam.",
+    "flagMeaning": "Màu cam là vùng sa mạc phía bắc, sọc trắng là sự trong sạch, xanh lá là cây cối, đồng ruộng và niềm hy vọng. Vòng tròn cam ở giữa tượng trưng cho mặt trời."
   },
   "TD": {
     "tourism": [
@@ -3601,7 +3771,8 @@
       "Vườn quốc gia Zakouma là nơi sống của nhiều đàn voi lớn.",
       "Cao nguyên Ennedi có những cổng đá tự nhiên cao vút rất kỳ vĩ."
     ],
-    "flagMeaning": "Cờ Tchad có ba dải đứng màu xanh dương, vàng và đỏ."
+    "flagDescription": "Cờ có ba sọc dọc bằng nhau: xanh dương bên trái, vàng ở giữa và đỏ bên phải.",
+    "flagMeaning": "Xanh dương tượng trưng cho bầu trời và hy vọng, vàng là mặt trời và sa mạc phía bắc, còn đỏ là sự hy sinh và tiến bộ của đất nước."
   },
   "CF": {
     "tourism": [
@@ -3621,7 +3792,8 @@
       "Khu rừng nơi đây là nhà của loài khỉ đột đất thấp quý hiếm.",
       "Voi rừng thường ra bãi đất trống để liếm khoáng chất."
     ],
-    "flagMeaning": "Cờ Cộng hòa Trung Phi có bốn dải ngang xanh dương, trắng, xanh lá, vàng và một dải đỏ dọc ở giữa, kèm ngôi sao vàng."
+    "flagDescription": "Cờ có bốn sọc ngang (xanh dương, trắng, xanh lá, vàng) và một sọc đỏ dọc cắt ngang ở giữa. Góc trên bên trái có một ngôi sao vàng.",
+    "flagMeaning": "Lá cờ kết hợp các màu châu Phi (xanh lá, vàng) với các màu của nước Pháp (xanh dương, trắng), còn đỏ là màu chung của cả hai. Sọc đỏ ở giữa nối tất cả lại, ý nói mọi người đoàn kết với nhau; ngôi sao vàng là niềm hy vọng và sự độc lập."
   },
   "CG": {
     "tourism": [
@@ -3641,7 +3813,8 @@
       "Rừng mưa Congo là khu rừng lớn thứ hai thế giới.",
       "Sông Congo là một trong những con sông sâu nhất hành tinh."
     ],
-    "flagMeaning": "Cờ Cộng hòa Congo có dải chéo vàng chia nền thành vùng xanh lá và vùng đỏ."
+    "flagDescription": "Cờ được chia chéo từ góc dưới bên trái lên góc trên bên phải bởi một dải vàng, chia lá cờ thành tam giác xanh lá (phía trên) và tam giác đỏ (phía dưới).",
+    "flagMeaning": "Đây là ba màu truyền thống của châu Phi: xanh lá tượng trưng cho rừng và thiên nhiên, vàng là sự thân thiện và của cải, còn đỏ là tinh thần đấu tranh của người dân."
   },
   "GA": {
     "tourism": [
@@ -3661,7 +3834,8 @@
       "Gabon dành gần một phần mười diện tích làm vườn quốc gia bảo vệ thiên nhiên.",
       "Đây là nơi hiếm hoi thấy hà mã bơi ngoài biển."
     ],
-    "flagMeaning": "Cờ Gabon có ba dải ngang màu xanh lá, vàng và xanh dương."
+    "flagDescription": "Cờ có ba sọc ngang bằng nhau: xanh lá ở trên, vàng ở giữa và xanh dương ở dưới.",
+    "flagMeaning": "Xanh lá tượng trưng cho những khu rừng rộng lớn, vàng ở giữa là mặt trời và đường xích đạo chạy qua đất nước, còn xanh dương là biển cả."
   },
   "GQ": {
     "tourism": [
@@ -3681,7 +3855,8 @@
       "Rùa biển khổng lồ về đẻ trứng trên các bãi biển nơi đây.",
       "Đảo Bioko có những chú khỉ với khuôn mặt nhiều màu rất đặc biệt."
     ],
-    "flagMeaning": "Cờ Guinea Xích Đạo có ba dải xanh lá, trắng, đỏ và một tam giác xanh dương ở cán cờ."
+    "flagDescription": "Cờ có ba sọc ngang (xanh lá, trắng, đỏ) và một tam giác xanh dương ở mép trái. Giữa sọc trắng có một huy hiệu với cây và sáu ngôi sao.",
+    "flagMeaning": "Xanh lá là rừng cây và nông nghiệp, trắng là hòa bình, đỏ là sự hy sinh giành tự do, còn tam giác xanh dương là biển nối các vùng đất của đất nước. Cây trên huy hiệu là cây bông gòn (cây gạo), sáu ngôi sao là phần đất liền và năm hòn đảo của đất nước."
   },
   "MW": {
     "tourism": [
@@ -3701,7 +3876,8 @@
       "Hồ Malawi có nhiều loài cá nhiều màu hơn bất kỳ hồ nào trên thế giới.",
       "Người dân thân thiện nên Malawi được gọi là trái tim ấm áp của châu Phi."
     ],
-    "flagMeaning": "Cờ Malawi có ba dải đen, đỏ, xanh lá, trên dải đen có hình mặt trời đỏ đang mọc."
+    "flagDescription": "Cờ có ba sọc ngang: đen ở trên, đỏ ở giữa và xanh lá ở dưới. Trên sọc đen có hình một mặt trời đỏ đang mọc với các tia nắng.",
+    "flagMeaning": "Đen tượng trưng cho người dân châu Phi, đỏ là máu của những người đấu tranh giành tự do, xanh lá là thiên nhiên tươi tốt. Mặt trời mọc thể hiện bình minh của hy vọng và tự do cho đất nước."
   },
   "LS": {
     "tourism": [
@@ -3721,7 +3897,8 @@
       "Lesotho là nước duy nhất có toàn bộ lãnh thổ cao trên 1000 mét.",
       "Vào mùa đông, tuyết trắng phủ kín những ngọn núi nơi đây."
     ],
-    "flagMeaning": "Cờ Lesotho có ba dải xanh dương, trắng, xanh lá, ở giữa là hình chiếc mũ truyền thống màu đen."
+    "flagDescription": "Cờ có ba dải ngang: xanh dương ở trên, trắng rộng ở giữa và xanh lá ở dưới. Giữa dải trắng có hình một chiếc mũ truyền thống màu đen.",
+    "flagMeaning": "Xanh dương là mưa và bầu trời, trắng là hòa bình, xanh lá là đất đai trù phú. Chiếc mũ đen ở giữa là mũ truyền thống của người Basotho, đại diện cho người dân nơi đây."
   },
   "SZ": {
     "tourism": [
@@ -3741,7 +3918,8 @@
       "Núi Sibebe là một trong những khối đá lớn nhất thế giới.",
       "Eswatini là một trong những vương quốc cuối cùng còn lại ở châu Phi."
     ],
-    "flagMeaning": "Cờ Eswatini có nhiều dải màu xanh dương, vàng, đỏ, ở giữa là hình chiếc khiên, giáo và gậy truyền thống."
+    "flagDescription": "Cờ có các sọc ngang xanh dương, vàng và đỏ. Giữa sọc đỏ rộng có hình một chiếc khiên cùng giáo và gậy theo kiểu truyền thống.",
+    "flagMeaning": "Xanh dương là hòa bình, vàng là tài nguyên của đất nước, còn đỏ là những trận chiến trong quá khứ. Chiếc khiên và vũ khí tượng trưng cho việc bảo vệ đất nước."
   },
   "SC": {
     "tourism": [
@@ -3761,7 +3939,8 @@
       "Nơi đây có loài dừa biển nặng nhất thế giới với hạt khổng lồ.",
       "Rùa khổng lồ Aldabra sống ở Seychelles có thể thọ hơn trăm tuổi."
     ],
-    "flagMeaning": "Cờ Seychelles có năm dải màu xanh dương, vàng, đỏ, trắng, xanh lá tỏa ra từ một góc như tia nắng."
+    "flagDescription": "Cờ có năm dải màu tỏa ra như hình quạt từ góc dưới bên trái: xanh dương, vàng, đỏ, trắng và xanh lá.",
+    "flagMeaning": "Mỗi màu mang một ý nghĩa: xanh dương là biển và trời, vàng là mặt trời, đỏ là người dân và tình đoàn kết, trắng là công bằng và hòa hợp, xanh lá là đất đai và thiên nhiên. Hình tỏa ra thể hiện một đất nước trẻ đang vươn lên."
   },
   "GM": {
     "tourism": [
@@ -3781,7 +3960,8 @@
       "Gambia là quốc gia nhỏ nhất ở lục địa châu Phi.",
       "Dòng sông Gambia chảy dài xuyên suốt gần hết đất nước."
     ],
-    "flagMeaning": "Cờ Gambia có ba dải đỏ, xanh dương, xanh lá, ngăn cách bởi hai đường viền trắng mỏng."
+    "flagDescription": "Cờ có ba sọc ngang đỏ, xanh dương và xanh lá; sọc xanh dương ở giữa được viền hai đường trắng mỏng.",
+    "flagMeaning": "Đỏ là mặt trời và đồng cỏ, xanh lá là cây cối và nông nghiệp, còn dải xanh dương ở giữa tượng trưng cho con sông Gambia chảy qua đất nước. Hai vạch trắng là sự trong sạch và hòa bình."
   },
   "GN": {
     "tourism": [
@@ -3801,7 +3981,8 @@
       "Nhiều con sông lớn của Tây Phi đều bắt nguồn từ vùng núi Guinea.",
       "Núi Nimba là nơi sống của nhiều loài vật quý hiếm."
     ],
-    "flagMeaning": "Cờ Guinea có ba dải đứng màu đỏ, vàng và xanh lá, là những màu liên Phi."
+    "flagDescription": "Cờ Guinea có ba sọc dọc bằng nhau, từ trái sang phải là đỏ, vàng và xanh lá cây.",
+    "flagMeaning": "Đây là ba màu Liên Phi (Pan-Phi) mà nhiều nước châu Phi cùng dùng. Ở Guinea, đỏ gắn với máu và sự hy sinh trong cuộc đấu tranh giành độc lập, vàng gắn với mặt trời và sự giàu có của đất đai, còn xanh lá cây gắn với cây cối và đồng ruộng xanh tươi."
   },
   "GW": {
     "tourism": [
@@ -3821,7 +4002,8 @@
       "Quần đảo Bijagós có nhóm hà mã hiếm hoi sống ở vùng nước mặn.",
       "Rùa biển về đẻ trứng trên các bãi cát của quần đảo này."
     ],
-    "flagMeaning": "Cờ Guinea-Bissau có dải đỏ đứng với ngôi sao đen, cùng hai dải ngang màu vàng và xanh lá."
+    "flagDescription": "Cờ Guinea-Bissau chia làm hai phần: bên trái là một dải dọc màu đỏ có ngôi sao đen năm cánh, bên phải là hai sọc ngang vàng (trên) và xanh lá cây (dưới).",
+    "flagMeaning": "Đây là các màu Liên Phi (Pan-Phi). Đỏ nhắc tới máu và công sức của người dân khi giành độc lập, vàng nhắc tới nắng và sự sung túc, xanh lá cây nhắc tới rừng và đồng ruộng. Ngôi sao đen tượng trưng cho người dân châu Phi và sự đoàn kết."
   },
   "SL": {
     "tourism": [
@@ -3841,7 +4023,8 @@
       "Bãi biển ở Sierra Leone có cát trắng mịn và nước biển trong xanh.",
       "Khu bảo tồn Tacugama cứu giúp những chú tinh tinh mồ côi."
     ],
-    "flagMeaning": "Cờ Sierra Leone có ba dải ngang màu xanh lá, trắng và xanh dương."
+    "flagDescription": "Cờ Sierra Leone có ba sọc ngang bằng nhau: xanh lá cây ở trên, trắng ở giữa và xanh dương ở dưới.",
+    "flagMeaning": "Xanh lá cây tượng trưng cho núi đồi, cây cối và nông nghiệp; trắng tượng trưng cho sự đoàn kết và công bằng; còn xanh dương tượng trưng cho cảng biển tự nhiên của thủ đô Freetown và mong ước góp phần vào hòa bình thế giới."
   },
   "LR": {
     "tourism": [
@@ -3861,7 +4044,8 @@
       "Vườn quốc gia Sapo là khu rừng mưa lớn nhất của Liberia.",
       "Hà mã lùn quý hiếm sống trong những khu rừng rậm nơi đây."
     ],
-    "flagMeaning": "Cờ Liberia có nhiều sọc đỏ và trắng, góc trên là ô vuông xanh dương với một ngôi sao trắng."
+    "flagDescription": "Cờ Liberia rất giống cờ Mỹ: có 11 sọc ngang đỏ và trắng xen kẽ, cùng ô vuông xanh dương ở góc trên bên trái với một ngôi sao trắng năm cánh.",
+    "flagMeaning": "Liberia được lập nên bởi những người Mỹ gốc Phi từng là nô lệ được tự do, nên cờ rất giống cờ Mỹ. 11 sọc nhắc tới 11 người đã ký bản tuyên ngôn độc lập, đỏ là lòng dũng cảm, trắng là sự trong sáng, còn ngôi sao trắng trên nền xanh tượng trưng cho Liberia là nước cộng hòa tự do đầu tiên ở châu Phi."
   },
   "TG": {
     "tourism": [
@@ -3881,7 +4065,8 @@
       "Những ngôi nhà tháp đất ở Koutammakou rất nổi tiếng và được bảo vệ.",
       "Togo có bờ biển đẹp với hàng cọ dừa rợp bóng."
     ],
-    "flagMeaning": "Cờ Togo có các sọc xanh lá và vàng, góc trên là ô vuông đỏ với một ngôi sao trắng."
+    "flagDescription": "Cờ Togo có năm sọc ngang xanh lá cây và vàng xen kẽ, cùng một ô vuông đỏ ở góc trên bên trái với ngôi sao trắng năm cánh.",
+    "flagMeaning": "Đây là các màu Liên Phi (Pan-Phi). Xanh lá cây tượng trưng cho ruộng đồng và hy vọng, vàng cho sự giàu có và công sức lao động, đỏ cho lòng yêu nước và máu của những người đã hy sinh, còn ngôi sao trắng tượng trưng cho hy vọng và sự trong sáng."
   },
   "BJ": {
     "tourism": [
@@ -3901,7 +4086,8 @@
       "Làng nổi Ganvié được gọi là Venice của châu Phi.",
       "Vườn quốc gia Pendjari có sư tử, voi và nhiều thú hoang dã."
     ],
-    "flagMeaning": "Cờ Benin có dải xanh lá đứng ở cán cờ, cùng hai dải ngang màu vàng và đỏ, đều là màu liên Phi."
+    "flagDescription": "Cờ Benin có một dải dọc xanh lá cây ở bên trái, bên phải là hai sọc ngang vàng (trên) và đỏ (dưới).",
+    "flagMeaning": "Đây là các màu Liên Phi (Pan-Phi). Xanh lá cây tượng trưng cho hy vọng và sự đổi mới, vàng cho sự giàu có, còn đỏ cho lòng dũng cảm của tổ tiên."
   },
   "MR": {
     "tourism": [
@@ -3921,7 +4107,8 @@
       "Mắt Sahara là vòng tròn đá rộng tới mức phi hành gia nhìn thấy từ trên cao.",
       "Hàng triệu con chim biển trú đông ở vườn quốc gia Banc d'Arguin."
     ],
-    "flagMeaning": "Cờ Mauritania màu xanh lá, ở giữa có hình trăng lưỡi liềm và ngôi sao vàng, kèm hai dải đỏ trên dưới."
+    "flagDescription": "Cờ Mauritania có nền xanh lá cây với trăng lưỡi liềm và ngôi sao màu vàng ở giữa, cùng một sọc đỏ ở trên và một sọc đỏ ở dưới.",
+    "flagMeaning": "Trăng lưỡi liềm và ngôi sao tượng trưng cho đạo Hồi, tôn giáo chính của đất nước, còn màu vàng cũng gợi tới cát của sa mạc Sahara. Nền xanh lá cây tượng trưng cho đạo Hồi, còn hai sọc đỏ (thêm vào năm 2017) tượng trưng cho sự hy sinh và máu của những người đã bảo vệ đất nước."
   },
   "FM": {
     "tourism": [
@@ -3941,7 +4128,8 @@
       "Nan Madol là thành phố đá cổ được xây trên hơn chín mươi hòn đảo nhỏ.",
       "Ở đảo Yap, người xưa dùng những đồng tiền bằng đá khổng lồ."
     ],
-    "flagMeaning": "Cờ Micronesia màu xanh da trời như đại dương, ở giữa có bốn ngôi sao trắng xếp thành hình ngôi sao lớn, tượng trưng cho các nhóm đảo."
+    "flagDescription": "Cờ Micronesia có nền xanh dương với bốn ngôi sao trắng năm cánh xếp thành hình thoi (kim cương) ở giữa.",
+    "flagMeaning": "Nền xanh dương tượng trưng cho Thái Bình Dương bao quanh đất nước. Bốn ngôi sao tượng trưng cho bốn bang hợp thành Liên bang Micronesia là Chuuk, Pohnpei, Kosrae và Yap."
   },
   "MH": {
     "tourism": [
@@ -3961,7 +4149,8 @@
       "Quần đảo Marshall gồm hàng nghìn đảo nhỏ và đảo san hô vòng.",
       "Người xưa biết đọc sóng biển để tìm đường giữa đại dương mênh mông."
     ],
-    "flagMeaning": "Cờ Quần đảo Marshall màu xanh dương với hai dải màu cam và trắng chạy chéo lên, cùng một ngôi sao trắng nhiều cánh ở góc trên."
+    "flagDescription": "Cờ Marshall Islands có nền xanh dương với hai dải chéo (cam ở trên, trắng ở dưới) chạy từ góc dưới bên trái lên góc trên bên phải, cùng một ngôi sao trắng lớn nhiều cánh ở góc trên bên trái.",
+    "flagMeaning": "Nền xanh dương tượng trưng cho Thái Bình Dương, còn dải chéo gợi tới đường xích đạo: dải cam mang ý nghĩa lòng dũng cảm, dải trắng mang ý nghĩa hòa bình. Ngôi sao trắng có 24 cánh, tượng trưng cho 24 khu vực bầu cử (các đảo và xã) của đất nước."
   },
   "TV": {
     "tourism": [
@@ -3981,6 +4170,7 @@
       "Tuvalu là một trong những quốc gia nhỏ nhất thế giới.",
       "Đất nước này gồm các đảo san hô vòng thấp nổi giữa Thái Bình Dương."
     ],
-    "flagMeaning": "Cờ Tuvalu màu xanh da trời, góc trên có cờ nước Anh, bên phải có chín ngôi sao vàng đại diện cho chín hòn đảo của đất nước."
+    "flagDescription": "Cờ Tuvalu có nền xanh dương với cờ Anh nhỏ ở góc trên bên trái, và chín ngôi sao vàng xếp rải bên phải.",
+    "flagMeaning": "Nền xanh dương tượng trưng cho Thái Bình Dương. Chín ngôi sao vàng được sắp đặt theo vị trí của chín hòn đảo tạo nên đất nước Tuvalu. Cờ Anh nhỏ cho thấy Tuvalu từng là thuộc địa của Anh và nay vẫn gắn bó với khối Thịnh vượng chung."
   }
 }

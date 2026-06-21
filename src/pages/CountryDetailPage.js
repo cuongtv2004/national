@@ -112,6 +112,13 @@ export function CountryDetailPage() {
         <${InfoStat} icon="📐" label="Diện tích" value=${areaText} />
       </div>
 
+      ${country.flagDescription &&
+      html`<div class="mb-6">
+        <${Section} icon="🔎" title="Cách nhận biết lá cờ">
+          <p class="leading-relaxed">${country.flagDescription}</p>
+        <//>
+      </div>`}
+
       ${country.flagMeaning &&
       html`<div class="mb-6">
         <${Section} icon="🎨" title="Ý nghĩa lá cờ">

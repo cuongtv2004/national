@@ -65,6 +65,11 @@ class TestExtraContent(unittest.TestCase):
         missing = [c for c in self.vi if not self.extra.get(c, {}).get("flagMeaning")]
         self.assertEqual(missing, [], f"thiếu flagMeaning: {missing}")
 
+    def test_flag_description_covers_all_vi_countries(self):
+        # Mọi nước có tên tiếng Việt nên có phần "cách nhận biết" lá cờ.
+        missing = [c for c in self.vi if not self.extra.get(c, {}).get("flagDescription")]
+        self.assertEqual(missing, [], f"thiếu flagDescription: {missing}")
+
 
 class TestContinents(unittest.TestCase):
     def test_structure(self):
