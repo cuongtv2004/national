@@ -6,3 +6,7 @@
 # Python test cache
 __pycache__/
 *.pyc
+
+# Generated audit artifacts (scripts/audit_images.py output) — không commit
+scripts/audit_out/
+scripts/audit_out_run.log
