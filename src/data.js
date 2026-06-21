@@ -45,6 +45,7 @@ function normalize(raw, viNames, extraMap) {
     tourism: extra?.tourism || null,
     culture: extra?.culture || null,
     cultureImage: extra?.cultureImage || null,
+    flagDescription: extra?.flagDescription || null,
     flagMeaning: extra?.flagMeaning || null,
     food: extra?.food || null,
     funFacts: extra?.funFacts || null,
